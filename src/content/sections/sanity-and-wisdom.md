@@ -1,0 +1,83 @@
+---
+title: "Sanity & Wisdom"
+sectionNumber: "7.1"
+parentNumber: "7"
+order: 26
+summary: "[PLACEHOLDER: Add section summary]"
+draft: true
+---
+
+Now that we have established that any gestalt can in principle be held transparently, that they are made of causes and conditions no different from optical illusions, it is now a question of how to use this insight wisely. What exactly should we be moving towards? This of course is a highly debated topic already, for example what ethics argues about, but I want to give the answer that best fits this framework. 
+
+First we must differentiate between sanity and wisdom as they work together to provide maximal wellbeing and flourishing. Sanity is defined as holding gestalts with enough compression to take action and enough transparency to update, while having the ability to move between levels of abstraction when the situation calls for it. Wisdom is that same skill oriented towards targets that are worth weighting and whose subsequent actions matter. Sanity is a prerequisite for wisdom rather than something that sits next to it, as you cannot select targets freely from inside a field you have no clear view of. 
+
+Here are two quotes that capture the essence of these tools:
+
+
+
+> “[Consciousness of abstracting can be defined as] awareness that in our process of abstracting we have left out characteristics”
+> — Alfred Korzybski
+
+
+
+
+
+> Sanity = Lucidly climbing up & down the branches of abstraction
+>
+> A big source of confusion I spot in people is when they get stuck attending to reality at stifling levels of abstraction; either by going too complex or too simple, and not being able to scale to a different level when that would get them out of a confuddlement.
+>
+> “Everything is Yin and Yang! No, it’s all One! No, it’s neither, it’s non-dual! But my five family members are coming over for dinner and I need to remember to buy 14 items at the supermarket, and calculate my taxes. And my brother is probably going to bring up politics which is so overwhelming complicated! But it’s all One...”
+>
+> So many minds get stuck trying to figure out the forest, when maybe what they really need to do is look at the individual trees. Or sometimes they need to get down to ground level and pick through the dirt, or sometimes take a bird’s eye view of the canopy, except they’re stuck or don’t realise everything else has moved on.
+>
+> The mind chunks and fuses reality all the time - you may have noticed. But how much have you really noticed, and how much flexible control do you have over this process? At least become lucid of it.
+>
+> I have found that by recognizing this feature of mind, and becoming better at navigating strata of abstraction, my sense of clarity and sanity has gone way up.
+>
+> Great spiritual development is to be able to nimbly both reach lower on the levels of abstractions - all the way to zero* - AND be able to hold onto higher and higher levels of abstraction, extending our consciousness capacity, before we project to infinity (aka ‘more than I can make sense of’).
+>
+> — Roger Thisdell
+
+The abstraction ladder operates as a continuous hierarchical spectrum across experience, acting as an interface for different levels of the load-bearing tree. Moving up the ladder is an act of compression by dropping details into high-level patterns which collapses a dense data set. This is seeing the entire forest out of many trees or concluding that “it’s all one.” The inverse is decompression; moving down the ladder. This is decompressing a summary into its working parts and details, like seeing the individual branches of all the trees in a forest. Neither end of the ladder is superior since they both come with trade-offs depending on the context. Compression gives you strategic orientation, while decompression gives you specific available action. You can see this pattern in goals: the goal is the high-level global goal-post that orients attention and the details of the goal are what set the actions to get there. The main failure mode here is getting stuck at a point in the ladder. When the mind-body system loses the fluid capacity to move between levels, confusion and suffering sets in and we try to navigate certain contexts with the wrong level of compression in mind, like getting buried in details when all we need is a high-level overview. 
+
+However, flexibility by itself does not guarantee sanity, since a mind-body system can be infinitely flexible within a closed or limited field. When a gestalt becomes large enough to structure every piece of input, it creates a rigid loop where every piece of counter-evidence is integrated as confirmation instead of error. Inside this closed loop, we receive lots of internal resonance because our interpretations feel right due to rigid structuring. However, resonance is a signal of unexpected lower integration cost; it says nothing of the system’s level of corresponding to reality. This is why sanity depends on open loops. Without constraints that the field could not have produced on its own, there is no way to tell a model that corresponds with reality from one that has simply become good at integrating everything. Sanity then fails in two ways: through rigid contraction around a single level of abstraction, or through too much flexibility with no external feedback that only provides resonance. 
+
+You can see these mechanics play out in how a child integrates something they lack the accurate priors for. Without the average adult-filtered gestalt to compress input into, children reach for whatever priors they do have, often animate and relational, and build a representation out of them. 
+
+Take this monologue from a child in this short-form video:
+
+
+
+> Why do humans skip rocks?
+>
+> I think that the river likes games. Not big games, just tiny ones. 
+>
+> You throw a bad rock, it eats it. You throw a good one, it lets it skip a few times… like it’s decising like no, noo, maybe, no, yes!
+>
+> You think you’re throwing rocks but really you’re asking the river a question and every time it answer.
+
+The first time I heard this I was amazed, because what adult is ever going to come up with that kind of metaphor? Adults have the compressed and factually correct dead gestalts that explain rock skipping like angles and spin. The child’s version does not correspond with reality, but it is genuinely “alive” and an act of construction reaching across a large fit-distance to build a vivid gestalt, mapping the felt sense of the event onto the embodied, animate priors they have stored. This is the same metaphor mechanism described earlier in the essay, but it is coming from a less-pruned, less conditioned field so it takes a different orientation.
+
+I think the optimal state of maturity for an adult is to be like a Wise Old Child" Vacha states on Twitter. This is the mature form of childlike wonder. A child sees things as more empty without trying, because their field has not yet solidified into "solid" reifications, which is why so many things feel fresh and vivid and new. The average adult's world feels solid and dull because heavy conditioning has compressed things into stable, cheap to integrate, reified chunks. Interestingly, psychedelics have similar results through loosening rigid deep priors, just as seeing emptiness and releasing contraction does. As Michael Pollan puts it, "My own gut is there is something childlike about the consciousness at certain stages in the trip. Just judging from the experience of having had a kid, that there are levels of sensitivity to environment that children have that we lose as adults because of our desire to focus. We shut things out." Contemplative practice is partly a deliberate return to that newness, not by having fewer priors like the child, but by holding them in expansion rather than contraction: keeping them as light as a feather but as useful as a sharp knife, seeing their emptiness while keeping the competence.
+
+However, this sanity is not yet wisdom. We may describe children as whimsical and full of life, but not wise. So what are they missing? Orientation towards targets the moment calls for. 
+
+Take for example a conman. A conman that scams people can be sane; they can read a situation well, move between states flexibly, and update when they need to. But, we would not call this wise. Flexibility alone does not choose the right targets we should be oriented towards. Wisdom adds this orientation, like which targets are actually worth weighting, and what outcomes matter to the field. 
+
+What makes this hard to fully state is that wisdom does not seem to be algorithmic. When we find someone, an action, or notation wise, we do not apply that characteristic because they are enacting some set of rules that follows the right guidelines. This is frankly impossible in this framework from all angles because a formula would depend on set conditions like the context and people involved which means they would have to be fixed, but that’s of course not how things are. Wisdom seems closer to something known through negation, like good health, which is not something added on top of experience, but what remains once contraction preventing flexibility is released. Here, you do not acquire wisdom by just adopting the correct model, you understand it by releasing the contraction and reified structure that were blurring what you could see and do when in other states. Wittgenstein's point applies here too, since the target(s) of wisdom cannot be fully compressed into a statement of what it is and what it is aiming towards. This makes negation easier to describe wisdom because it is side-stepping the direct compression needed to put its felt sense into words. This is because holding gestalts as transparent that we must use for structure is a difficult task due to an apparent “invisible” quality. It might be said wisdom is reflexive, only known after-the-fact through examination of the person-environment system, but distortion is still needed to be dropped for it to be cultivated and used in the first place. However, just because some contraction is dropped does not mean wisdom is guaranteed. This is the case of the spiritual leader who has ethical scandals or acts in such a way that it is obvious some amount of blockage is still present in their field preventing their load-bearing tree from containing what  . 
+
+Lastly, the targets of wisdom matter. Removing targets from the field is impossible and not the goal of wisdom. From the suffering loop, direction comes from the target while pressure comes from the second-order control we believe we must enact to prevent something intolerable. Wisdom here has the ability to keep the direction but drop the pressure, which makes action decisive without a single action policy feeling necessary. Equanimity here comes into play as a side effect by leaving targets and actions available without making them feel necessary. Apathy contrasts this by dropping salience across the field so nothing feels worth targeting. Wisdom and equanimity work together by leaving more options alive for the mind-body system to enact well-calibrated policies by dropping pressure.
+
+Practically, the most useful model here is running the loop of refinement with transparency underlying its process. When a gestalt forms, you can recognize it as a construction and which level of abstraction it sits at like being too detailed or too broad. You can attempt to check how much the field is building on top of it and what alternatives that is preventing you from seeing. You can act from a level of compression knowing the advantages and disadvantages for climbing the layers. And you can question what in the field needs revising like precision, the model itself, the targets, or the action policies. Then all of it can run again, iterating on itself. Crucially, there is no global endpoint here, there never is to insight, both in terms of wisdom and intellctual capacity. This is because holding a structure as transparent eventually ends up as the default in the field, which then eventually becomes transparent in its own turn. Each structure you see through becomes available to be objectified for the next round, so each iteration of refinement updates what is reachable in the field by expanding the space of what is available as interpretation and action rather than shrinking availabilities. The priors underlying all of this are not thrown away, just reinstantiated moment-to-moment. This is why holding different levels of the load-bearing tree as transparent matters, as it enables you to change your relationship to the structure rather than just sitting on the same insights.
+
+All of this is driven by a recognition that felt senses can be wrong, both friction and resonance. Resonance only deals with the field you are working with, so a field that can integrate everything without question will feel right even when it has stopped corresponding to reality and complexity. Sanity and wisdom is not about arrive at a singular, correct representation or field. It is understanding that flexibility and feedback are crucial to increase well-being and our intellectual capacity, and knowing that maps are never the territory, but they can still be accurate.
+
+I’d like to leave this off with an Alexander Grothendieck quote that eloquently capture the essence of this conclusion and why it matters.
+
+
+
+> It is surely no coincidence that the natural process of any real research never appears in texts or talks that are supposed to communicate and transmit the substance of what has been “found”. Texts and talks most often are limited to recording the “results”, which must be made in a form that appears to the common people as austere and immutable laws, inscribed from all eternity in granite tables of a sort of giant library, and dictated by some omniscient God to insider-scriber-scholars and assimilated; to those who write scholarly books and no less scholarly articles, those who transmit knowledge from a pulpit, or in the smaller circle of a seminar. Is there a single textbook, a single manual for the use of schoolchildren, high school students, university students, even “our researchers”, which can give the unfortunate reader the slightest idea of what research is - if not just the universally accepted idea that research is when you are very knowledgeable, when you have passed lots of exams and even competitions, big heads, Pasteur and Curie and the Nobel prizes and all that... We as readers or listeners, ingesting the best we can the Knowledge that these great men were kind enough to record for the good of humanity, we are barely good enough (if we work hard) to pass our exam at the end of the year, and then over and over again...
+>
+> How many are there, including among the unfortunate “researchers” themselves, in need of theses or articles, including even among the most “scholarly”, most prestigious among us - those who has the naivety to see that “research” is neither more nor less than questioning things, passionately - like a child who wants to know how he or his little sister came into the world. To search and to find, that is to say: to question and to listen is the simplest, most natural thing in the world, in which no one in the world has a privilege. It is a “gift” that we all have received since the cradle - made to express and flourish with an infinity of faces, from one moment to another and from one person to another...
+>
+> — Alexander Grothendieck

@@ -1,0 +1,26 @@
+---
+title: notes
+summary: just notes
+draft: true
+---
+### on why shame doesn't work that well:
+
+{ Your framework gives you three converging reasons, and the fact that they converge is what makes the intuition worth trusting.
+
+The mechanical one is your own 6.1 claim: lowering authority requires slack, and shame removes slack. It's a threat to a trunk-level prior about self, so the system is doing emergency defense of load-bearing structure, which is precisely the condition where the field increases precision on the existing model rather than exploring alternatives. So shame arrives asking for change at exactly the moment change is least affordable. That also explains why it can produce compliance without producing update: the behavior stops while the structure stays intact, because suppression is cheaper than revision.
+
+The somatic one you already have. Shame produces contraction, and the contraction generates interoceptive evidence that the shameful state is real, which raises precision on "I am bad" rather than on the specific behavior. That's why shame generalizes to the person while guilt can stay attached to the act. And sustained, it latches, which is your reachability problem: the states you'd need in order to act differently become unavailable because the body can't produce them, so it isn't a motivation failure at all.
+
+The third is targets. Shame installs a demand that the current state not be happening, which is the second-order control that starts the suffering loop, so the effort goes into not-being-this rather than into becoming something. That's the direction-versus-pressure distinction, and it predicts both failure modes you named: collapse when there's no viable path, rebellion when the pressure itself becomes the thing to escape. What works instead in your terms is a target with direction and enough slack to hold the current state without defending it, which is exactly the ideal parent figure case.
+
+One thing worth checking rather than assuming: shame plausibly does change behavior reliably in some contexts, especially socially enforced ones, and the honest version of your claim is that it produces defended compliance rather than structural update. That's a stronger claim anyway, and it's falsifiable.}
+
+### on what a good model is:
+
+{ The core of what you're reaching for is already in your framework, and it's cleaner than "correct feedback." Your existing claim is that a good model lowers the integration cost of inputs you couldn't plan for, across long horizons. What you're adding now is the mechanism that makes that possible: a model is good to the degree it tracks invariants, the things that hold across contexts rather than only within the one you learned it in. Invariants are why feedback is reliable, not the other way around. That also explains your flat-earther case without new machinery, since their model tracks regularities of an echo chamber rather than of the world, so it works locally and fails on anything they didn't plan for.
+
+The math point needs care, because verification there isn't feedback from reality; it's feedback from a formal system. Your framework already handles this in 3.6, where truth-making is relative to the ontological constraints of the frame. So math is the case where the constraint is maximally explicit and cheap to consult, which is why the loop runs fast, and it's the exception rather than the model for how open loops usually work. Worth saying, since a reader will otherwise take verification as the paradigm case and be misled about domains where the constraint is slower and noisier.
+
+The epistemic-ignorance connection is the strongest thing in what you wrote, and I'd build the section around it. "This will give lasting satisfaction" is a model that fails against an invariant, and the failure shows up as target error that keeps reopening. That makes the three characteristics into descriptions of invariants a model can either track or fight, and it gives you a non-moralizing reason why they matter: fighting an invariant means paying continuously. It also makes your depth point precise. A wrong math model is cheap because little rests on it; a wrong model of what a relationship requires is expensive because it sits under everything. So the priority of which models to get right follows from depth rather than from importance in any vaguer sense. Your defense-mechanisms intuition fits here too: a defense is what protects a deep model from the feedback that would update it, which is exactly your self-maintaining authority mechanism from 6.1.
+
+Two cautions. Don't let "reliable feedback" collapse into "resonance," since you already argued resonance reports fit with the current field. And on compression, the answer you want is that models tracking invariants compress well when the invariants are statable, which is why math notation works and why a model of God does not; the structure is real but there's little above it to compress into. On wisdom, I'd resist making it "having good models," since that loses the conman distinction. Better: wisdom includes tracking invariants that concern what actually matters to beings, which is a target claim rather than a modeling one. }
