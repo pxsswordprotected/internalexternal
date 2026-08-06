@@ -2,7 +2,6 @@
 title: "Metaphors"
 sectionNumber: "3.1"
 parentNumber: "3"
-order: 9
 summary: "[PLACEHOLDER: Add section summary]"
 draft: true
 ---

@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import { CopyAllButton } from "@/components/copy-all-button";
 import { getSections, type EssaySection } from "@/lib/content";
 
 export const metadata: Metadata = {
@@ -73,10 +74,16 @@ export default async function EditSectionsPage() {
       <header className="editor-index__header">
         <p className="eyebrow">Browser editor</p>
         <h1>Essay sections</h1>
-        <p>Grouped by section in reading order.</p>
-        <Link className="editor-index__dashboard" href="/keystatic">
-          Open Keystatic dashboard
-        </Link>
+        <p>Grouped by section number.</p>
+        <div className="editor-index__actions">
+          <Link
+            className="editor-index__dashboard"
+            href="/keystatic/collection/sections"
+          >
+            Open Keystatic section list
+          </Link>
+          <CopyAllButton />
+        </div>
       </header>
 
       {groups.map((group) => (

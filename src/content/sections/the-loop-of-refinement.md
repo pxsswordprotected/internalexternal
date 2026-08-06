@@ -2,7 +2,6 @@
 title: "The Loop of Refinement"
 sectionNumber: "3.5"
 parentNumber: "3"
-order: 13
 summary: "[PLACEHOLDER: Add section summary]"
 draft: true
 ---

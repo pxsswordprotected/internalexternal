@@ -2,7 +2,6 @@
 title: "Training Data"
 sectionNumber: "3.7"
 parentNumber: "3"
-order: 15
 summary: "[PLACEHOLDER: Add section summary]"
 draft: true
 ---

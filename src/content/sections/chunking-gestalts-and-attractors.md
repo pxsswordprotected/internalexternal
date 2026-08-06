@@ -2,11 +2,10 @@
 title: Chunking, Gestalts, and Attractors
 sectionNumber: '1.3'
 parentNumber: '1'
-order: 4
 summary: '[PLACEHOLDER: Add section summary]'
 draft: true
 ---
-Chunking can be seen as a way we save energy by compressing and encoding information so that its structure is preserved while its full richness only needs to be revealed when necessary. It is the process by which parts that once had to be integrated separately get compressed into a single unit that the field then treats as one thing. The process of chunking forms chunks which are learned, reusable compressed units that reduce future processing or search cost. The mechanism of precision helps here in which we can prune many branches of the load-bearing tree into one usable unit, which shrinks the search space of interpretations and frees attention for other input. The current experiential result we perceive is a gestalt: the unified whole that appears in the present moment when priors are organized together and instantiated. A novel image can suddenly become a gestalt even though you have never seen it before which requires existing priors.
+Chunking can be seen as a way we save energy by compressing and encoding information so that its structure is preserved while its full richness only needs to be revealed when necessary. It is the process by which parts that once had to be integrated separately get compressed into a single unit that the field then treats as one thing. The process of chunking forms chunks which are learned, reusable compressed units that reduce future processing or search cost. The mechanism of precision helps here in which we can prune many branches of the load-bearing tree into one usable unit, which shrinks the search space of interpretations and frees attention for other input. The current experiential result we perceive is a gestalt: the unified whole that appears in the present moment when priors are organized and glued together which becomes instantiated in experience. A novel image can suddenly become a gestalt even though you have never seen it before which requires existing priors.
 
 If you encounter and use that organization of the novel image repeatedly, the system may store its relational structure as a chunk. This results in feedback loops of repetition, stable relational structure, and successful action that confirms our predictions.
 

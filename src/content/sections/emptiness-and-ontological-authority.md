@@ -2,7 +2,6 @@
 title: "Emptiness & Ontological Authority"
 sectionNumber: "6.1"
 parentNumber: "6"
-order: 23
 summary: "[PLACEHOLDER: Add section summary]"
 draft: true
 ---

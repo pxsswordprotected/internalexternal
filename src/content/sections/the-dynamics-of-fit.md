@@ -2,7 +2,6 @@
 title: "The Dynamics of Fit"
 sectionNumber: "2"
 parentNumber: ""
-order: 5
 summary: "[PLACEHOLDER: Add section summary]"
 draft: true
 ---

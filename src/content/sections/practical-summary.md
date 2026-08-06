@@ -2,7 +2,6 @@
 title: "Practical Summary"
 sectionNumber: "7.2"
 parentNumber: "7"
-order: 27
 summary: "[PLACEHOLDER: Add section summary]"
 draft: true
 ---

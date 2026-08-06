@@ -65,7 +65,7 @@ export default async function SectionPage({ params }: SectionPageProps) {
         <MarkdocContent content={section.content} />
       </article>
 
-      <nav className="pagination" aria-label="Reading order">
+      <nav className="pagination" aria-label="Section navigation">
         {previous ? (
           <Link href={`/sections/${previous.slug}`} rel="prev">
             <span>Previous</span>

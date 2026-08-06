@@ -2,7 +2,6 @@
 title: "Resonance & Friction"
 sectionNumber: "3.4"
 parentNumber: "3"
-order: 12
 summary: "[PLACEHOLDER: Add section summary]"
 draft: true
 ---

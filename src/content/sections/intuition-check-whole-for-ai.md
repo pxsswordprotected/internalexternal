@@ -2,7 +2,6 @@
 title: "Intuition {check whole for ai}"
 sectionNumber: "3.2"
 parentNumber: "3"
-order: 10
 summary: "[PLACEHOLDER: Add section summary]"
 draft: true
 ---

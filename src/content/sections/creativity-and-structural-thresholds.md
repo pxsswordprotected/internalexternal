@@ -2,7 +2,6 @@
 title: "Creativity and Structural Thresholds"
 sectionNumber: "4.2"
 parentNumber: "4"
-order: 18
 summary: "[PLACEHOLDER: Add section summary]"
 draft: true
 ---

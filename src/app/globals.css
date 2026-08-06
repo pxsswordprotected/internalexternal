@@ -292,9 +292,35 @@ a:hover {
   margin-bottom: 3rem;
 }
 
+.editor-index__actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.75rem;
+  margin-top: 1rem;
+}
+
 .editor-index__dashboard {
   display: inline-block;
-  margin-top: 1rem;
+}
+
+.editor-copy-button {
+  padding: 0.45rem 0.7rem;
+  border: 1px solid var(--ink);
+  background: #fff;
+  color: inherit;
+  cursor: pointer;
+  font: inherit;
+  text-decoration: none;
+}
+
+.editor-copy-button:hover:not(:disabled) {
+  background: #f3f3f3;
+}
+
+.editor-copy-button:disabled {
+  cursor: default;
+  opacity: 0.6;
 }
 
 .editor-section-group + .editor-section-group {

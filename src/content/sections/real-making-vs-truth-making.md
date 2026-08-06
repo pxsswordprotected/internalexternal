@@ -2,7 +2,6 @@
 title: "Real-making vs Truth-making"
 sectionNumber: "3.6"
 parentNumber: "3"
-order: 14
 summary: "[PLACEHOLDER: Add section summary]"
 draft: true
 ---

@@ -1,19 +1,22 @@
 ---
-title: "The Compression Gradient"
-sectionNumber: "1.1"
-parentNumber: "1"
-order: 2
-summary: "[PLACEHOLDER: Add section summary]"
+title: The Compression Gradient
+sectionNumber: '1.1'
+parentNumber: '1'
+summary: '[PLACEHOLDER: Add section summary]'
 draft: true
 ---
+> As soon as we put something into words, we devalue it in a strange way. We think we have plunged into the depths of the abyss, and when we return to the surface the drop of water on our pale fingertips no longer resembles the sea from which it comes. We delude ourselves that we have discovered a wonderful treasure trove, and when we return to the light of day we find that we have brought back only false stones and shards of glass; and yet the treasure goes on glimmering in the dark, unaltered.
+> 
+> ― [Maurice Maeterlinck](https://www.goodreads.com/quotes/698660-as-soon-as-we-put-something-into-words-we-devalue)
 
+\
 To externalize deeper layers of knowledge is to compress them. This is the limit Wittgenstein points to when he says there are things we cannot put into words, only show. So the obvious layer of knowledge, like writing, is only the top of a stack that looks like this:
 
 {diagram}
 
 At the bottom of the stack is the embodied layer. This is knowledge that lives in the body below immediate conscious awareness such as gut feelings and tacit knowledge. The embodied layer shapes experience before explicit description through deep, implicit structuring because aspects like physiological baselines sit here in this layer as well. Next in the stack is the representational layer. In this layer sits images, simulations, metaphors, concepts, and models that can be internally inspected or manipulated through mental activity, whether implicit or explicit. Lastly, the layer that sits at the top is the notational layer which holds explicit symbolic forms, such as language, diagrams, equations, and labels, that can be stabilized and shared.
 
-As knowledge travels across these three layers, we need a way of effectively moving through them which is called compression gradience. As we move up the stack of the three layers, we are compressing knowledge into more legible forms which naturally leaves out richness the bottom layers contain. For example, if I have a feeling of connection to what I call God and I attempt to put that connection into words, a massive amount of data will be lost in that process. As we move down the stack, we are in decompression which is reconstructing a richer representation or embodied understanding from a compressed notional expression. To move from the embodied to the notational layer is a sacrifice, an acknowledgment that you will lose out on the vastness and richness of the thing, but also an acknowledgment of practicality. Moving upward generally increases legibility while losing characteristics and moving downward reconstructs richness, but cannot perfectly recover the original state of the notation. This means one belief can traverse the stack while still just being one belief, it is simply expressed differently. 
+As knowledge travels across these three layers, we need a way of effectively moving through them which is called compression gradience. As we move up the stack of the three layers, we are compressing knowledge into more legible forms which naturally leaves out richness the bottom layers contain. For example, if I have a feeling of connection to what I call God and I attempt to put that connection into words, a massive amount of data will be lost in that process. As we move down the stack, we are in decompression which is reconstructing a richer representation or embodied understanding from a compressed notional expression. To move from the embodied to the notational layer is a sacrifice, an acknowledgment that you will lose out on the vastness and richness of the thing, but also an acknowledgment of practicality. Moving upward generally increases legibility while losing characteristics and moving downward reconstructs richness, but cannot perfectly recover the original state of the notation. This means one belief can traverse the stack while still just being one belief, it is simply expressed differently.
 
 Importantly, compression and decompression within the stack is bidirectional. An embodied state can give way to a metaphor, while a metaphor can change posture and action (which count as the embodied layer). Similarly, notation like an english sentence can change the modeled metaphor you currently hold and that can change your notational expression. As a whole example, think of this process as moving from the notational layer of writing to the representational layer with models and simulations, then to the embodied layer with tacit knowledge. It should also be said that there is a temporal factor here: compressing is usually quicker than decompressing. Moving from notation to the embodied layer takes longer than the reverse, as you must reconstruct the internal richness from which the externalization originally came.
 

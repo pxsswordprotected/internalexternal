@@ -2,7 +2,6 @@
 title: "Embodiment and Somatic Stabilization"
 sectionNumber: "2.2"
 parentNumber: "2"
-order: 7
 summary: "[PLACEHOLDER: Add section summary]"
 draft: true
 ---

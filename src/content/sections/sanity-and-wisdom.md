@@ -2,7 +2,6 @@
 title: "Sanity & Wisdom"
 sectionNumber: "7.1"
 parentNumber: "7"
-order: 26
 summary: "[PLACEHOLDER: Add section summary]"
 draft: true
 ---

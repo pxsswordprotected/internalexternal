@@ -47,6 +47,7 @@ export default config({
       label: "Essay sections",
       slugField: "title",
       path: "src/content/sections/*",
+      columns: ["sectionNumber"],
       format: { contentField: "content" },
       schema: {
         title: fields.slug({ name: { label: "Title" } }),
@@ -55,7 +56,6 @@ export default config({
           label: "Parent section number",
           description: "Leave blank for a top-level section.",
         }),
-        order: fields.integer({ label: "Reading order" }),
         summary: fields.text({
           label: "Homepage summary",
           multiline: true,

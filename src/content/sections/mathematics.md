@@ -2,7 +2,6 @@
 title: "Mathematics"
 sectionNumber: "3.3"
 parentNumber: "3"
-order: 11
 summary: "[PLACEHOLDER: Add section summary]"
 draft: true
 ---

@@ -2,7 +2,6 @@
 title: "Emergence and Failed Gestalts"
 sectionNumber: "4.1"
 parentNumber: "4"
-order: 17
 summary: "[PLACEHOLDER: Add section summary]"
 draft: true
 ---
