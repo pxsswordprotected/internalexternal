@@ -194,12 +194,9 @@ a:hover {
 
 .prose img {
   display: block;
-  width: min(1100px, calc(100vw - 3rem));
-  max-width: none;
+  width: 100%;
   height: auto;
   margin: 2.5rem 0 0;
-  margin-left: 50%;
-  transform: translateX(-50%);
 }
 
 .prose figcaption,
