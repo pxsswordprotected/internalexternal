@@ -1,5 +1,5 @@
 ---
-title: Universal structural preserving transformations
+title: Rethinking Notation & Language
 sectionNumber: '8.2'
 parentNumber: '8'
 summary: Universal structural preserving transformations
