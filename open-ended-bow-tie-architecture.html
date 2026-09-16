@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Open-ended bow-tie architecture</title>
+<style>
+  html, body {
+    margin: 0;
+    min-height: 100%;
+    background: #ffffff;
+  }
+  body {
+    display: grid;
+    place-items: center;
+  }
+  svg {
+    display: block;
+    width: 100%;
+    height: auto;
+    background: #ffffff;
+  }
+</style>
+</head>
+<body>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" width="100%" height="auto" role="img" aria-labelledby="diagram-title diagram-description">
+  <title id="diagram-title">Open-ended bow-tie architecture</title>
+  <desc id="diagram-description">Raw high-dimensional input converges through inference and compression at a central bottleneck. Generative branches decompress the state into output and action. A large return arrow carries output back as new input.</desc>
+
+  <defs>
+    <marker id="arrowhead" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto" markerUnits="strokeWidth">
+      <path d="M 1 1 L 9 5 L 1 9" fill="none" stroke="#111111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+    <marker id="loop-arrowhead" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto" markerUnits="strokeWidth">
+      <path d="M 1 1 L 9 5 L 1 9" fill="none" stroke="#111111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+    <style>
+      .line { fill: none; stroke: #111111; stroke-width: 1.7; stroke-linecap: round; stroke-linejoin: round; }
+      .fine { fill: none; stroke: #111111; stroke-width: 1.5; stroke-linecap: round; stroke-linejoin: round; }
+      .loop { fill: none; stroke: #111111; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+      .endpoint { fill: #ffffff; stroke: #111111; stroke-width: 1.5; }
+      .label { fill: #111111; font-family: system-ui, Helvetica, Arial, sans-serif; text-anchor: middle; }
+      .section-label { font-size: 17px; font-weight: 650; letter-spacing: 1.3px; }
+      .body-label { font-size: 15px; font-weight: 500; }
+      .small-label { font-size: 13px; font-weight: 450; }
+      .tiny-label { font-size: 12px; font-weight: 450; }
+      .caption { font-size: 14px; font-style: italic; font-weight: 400; }
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="1200" height="700" fill="#ffffff"/>
+
+  <path class="loop" d="M 1080 350 C 1150 -55, 50 -55, 120 350" marker-end="url(#loop-arrowhead)"/>
+  <text class="label body-label" x="600" y="28">output becomes new input · recurrent loop</text>
+
+  <text class="label section-label" x="350" y="118">INFERENCE · COMPRESSION</text>
+  <text class="label section-label" x="850" y="118">GENERATION · DECOMPRESSION</text>
+
+  <path class="line" d="M 120 150 L 600 350 L 120 550 Z"/>
+  <path class="line" d="M 600 350 L 1080 150 L 1080 550 Z"/>
+
+  <g marker-end="url(#arrowhead)">
+    <path class="fine" d="M 132 185 L 581 339"/>
+    <path class="fine" d="M 132 265 L 579 344"/>
+    <path class="fine" d="M 132 350 L 578 350"/>
+    <path class="fine" d="M 132 435 L 579 356"/>
+    <path class="fine" d="M 132 515 L 581 361"/>
+  </g>
+
+  <g class="fine">
+    <path d="M 622 350 L 720 350"/>
+    <path d="M 720 350 L 800 250 L 885 250"/>
+    <path d="M 720 350 L 800 450 L 885 450"/>
+    <path d="M 885 250 L 1065 180"/>
+    <path d="M 885 250 L 1065 250"/>
+    <path d="M 885 250 L 1065 320"/>
+    <path d="M 885 450 L 1065 380"/>
+    <path d="M 885 450 L 1065 450"/>
+    <path d="M 885 450 L 1065 520"/>
+  </g>
+
+  <g>
+    <circle class="endpoint" cx="1065" cy="180" r="4"/>
+    <circle class="endpoint" cx="1065" cy="250" r="4"/>
+    <circle class="endpoint" cx="1065" cy="320" r="4"/>
+    <circle class="endpoint" cx="1065" cy="380" r="4"/>
+    <circle class="endpoint" cx="1065" cy="450" r="4"/>
+    <circle class="endpoint" cx="1065" cy="520" r="4"/>
+  </g>
+
+  <circle cx="600" cy="350" r="22" fill="#ffffff" stroke="#111111" stroke-width="1.8"/>
+
+  <text class="label body-label" x="790" y="216">deep priors (wide invariance)</text>
+
+  <text class="label body-label" x="600" y="398">BOTTLENECK</text>
+  <text class="label small-label" x="600" y="420">compressed field · deep priors</text>
+  <text class="label tiny-label" x="600" y="442">minimum sufficient, target-relevant state</text>
+
+  <text class="label small-label" x="138" y="593">input (raw, high-dimensional)</text>
+  <text class="label small-label" x="405" y="593">many inputs converge</text>
+  <text class="label small-label" x="935" y="593">shallow / specific priors → output &amp; action</text>
+
+  <text class="label caption" x="600" y="666">Raw input is compressed to invariants at the bottleneck, then decompressed generatively into output — a continuous cycle, not a one-way pipeline.</text>
+</svg>
+</body>
+</html>

@@ -1,0 +1,602 @@
+# Substack copyedit change ledger
+
+- Corrections: **570**
+- Original lines affected: **210**
+- Original word/punctuation tokens retained unchanged: **99.18%**
+- Scope: spelling, punctuation, agreement, missing words, and plainly broken grammar only. URLs and heading structure were preserved.
+- Line numbers refer to the pre-copyedit `substack-essay.md` export.
+
+## Front matter
+
+- **Line 9:** <code>what it proceeds</code> → <code>what it represents</code> — “Proceeds” cannot take the object “what” here, but “processes” is not evidently the intended meaning. “Represents” is the smallest clear correction in context.
+
+## 1. The Structural Ontology
+
+- **Line 25:** <code>In this layer sits images, simulations, metaphors, concepts, and models</code> → <code>In this layer sit images, simulations, metaphors, concepts, and models</code> — The plural compound subject requires the plural verb “sit.”
+- **Line 27:** <code>notional expression</code> → <code>notational expression</code> — The essay’s defined layer and the surrounding contrast require “notational”; “notional” is evidently a typographical substitution.
+- **Line 27:** <code>belief, it</code> → <code>belief; it</code> — Corrects a comma splice between two independent clauses.
+- **Line 27:** <code>forms which naturally leaves out richness</code> → <code>forms which naturally leave out richness</code> — The relative pronoun “which” refers to the plural noun “forms,” so the verb must be plural (“leave”).
+- **Line 29:** <code>an english sentence</code> → <code>an English sentence</code> — The proper adjective “English” must be capitalized.
+- **Line 29:** <code>compression and decompression within the stack is bidirectional</code> → <code>compression and decompression within the stack are bidirectional</code> — The compound subject “compression and decompression” requires the plural verb “are.”
+- **Line 37:** <code>emerging from interactions with active priors, state and context</code> → <code>emerging from interactions with active priors, state and context.</code> — The sentence is missing its terminal period.
+- **Line 39:** <code>work and research like [Michael Levin’s](https://allencenter.tufts.edu/our-team/michael-levin) on [bioelectric pattern memory](https://royalsocietypublishing.org/rstb/article/376/1821/20190765/31461/Bistability-of-somatic-pattern-memories-stochastic) suggests</code> → <code>work and research like [Michael Levin’s](https://allencenter.tufts.edu/our-team/michael-levin) on [bioelectric pattern memory](https://royalsocietypublishing.org/rstb/article/376/1821/20190765/31461/Bistability-of-somatic-pattern-memories-stochastic) suggest</code> — The compound subject “work and research” requires the plural verb “suggest.”
+- **Line 39:** <code>embedded in:</code> → <code>embedded:</code> — The final “in” duplicates the preposition already supplied by “in which.”
+- **Line 41:** <code>a subset of properties, like which are downstream</code> → <code>a subset of properties, which are downstream</code> — “Like which are” is ungrammatical; removing “like” restores the relative clause.
+- **Line 41:** <code>implicity</code> → <code>implicitly</code> — “Implicity” is a misspelling of the adverb “implicitly.”
+- **Line 43:** <code>the confidence assigned to sensory input</code> → <code>the confidence assigned to sensory input.</code> — The sentence is missing terminal punctuation.
+- **Line 43:** <code>from scratch which is a result</code> → <code>from scratch, which is a result</code> — The comma is needed before the nonrestrictive relative clause referring to the preceding idea.
+- **Line 43:** <code>as input and context changes</code> → <code>as input and context change</code> — The compound subject “input and context” requires the plural verb “change.”
+- **Line 43:** <code>such as: precision</code> → <code>such as precision</code> — A colon should not follow “such as” when it directly introduces examples.
+- **Line 45:** <code>how rigid that target is held</code> → <code>how rigidly that target is held</code> — The verb phrase “is held” requires the adverb “rigidly,” not the adjective “rigid.”
+- **Line 45:** <code>the left over targets</code> → <code>the leftover targets</code> — “Leftover” is one word when used attributively before a noun.
+- **Line 47:** <code>at once which is why</code> → <code>at once, which is why</code> — A comma is needed before the nonrestrictive consequence clause.
+- **Line 47:** <code>)**.**</code> → <code>).</code> — The period is accidentally enclosed in standalone bold Markdown formatting.
+- **Line 53:** <code>insight to how</code> → <code>insight into how</code> — The correct preposition in this construction is “into.”
+- **Line 59:** <code>branches are committed too</code> → <code>branches are committed to</code> — The required preposition is “to,” not the adverb “too.”
+- **Line 59:** <code>authority over depends on them</code> → <code>authority over what depends on them</code> — The object of the preposition “over” is missing; “what” completes the noun clause.
+- **Line 59:** <code>each of which rest</code> → <code>each of which rests</code> — The singular subject “each” requires “rests.”
+- **Line 59:** <code>but its interpretation influenced by energetic capacity changes</code> → <code>but its interpretation is influenced by energetic capacity changes</code> — The objective defect is the missing finite verb “is.” The proposed edit additionally changes the pronoun and makes “changes” the main verb, altering the likely meaning.
+- **Line 59:** <code>The sensory signals are the same, but its interpretation is influenced by energetic capacity changes which branches are committed to.</code> → <code>The sensory signals are the same, but their interpretation is influenced by energetic capacity, which changes which branches are committed to.</code> — The original has a broken construction: “energetic capacity” cannot simultaneously complete “influenced by” and serve as the subject of “changes” without punctuation or coordination. “Their” also agrees with the plural antecedent “signals.”
+- **Line 63:** <code>If I am talking to a friend one moment, then switch to using my phone in the middle of the conversation, the context and object of the phone bring new properties into the field.</code> → <code>If I am talking to a friend one moment and then switch to using my phone in the middle of the conversation, the context and object of the phone bring new properties into the field.</code> — The two coordinated verbs within the dependent “if” clause require a coordinator; adding “and” prevents the sentence from being misconstructed as an if-then clause followed by another independent clause.
+- **Line 65:** <code>But, this selection</code> → <code>But this selection</code> — A comma should not separate the coordinating conjunction “But” from the main clause.
+- **Line 69:** <code>Branching happens mostly happens further out</code> → <code>Branching mostly happens further out</code> — Removes the duplicated word “happens.”
+- **Line 75:** <code>ie generated unpleasant images of falling off the building causes you</code> → <code>i.e., generated unpleasant images of falling off the building cause you</code> — Correct abbreviation and subject–verb agreement.
+- **Line 77:** <code>present reality or intellectual knowledge, they can also preserve</code> → <code>present reality or intellectual knowledge; they can also preserve</code> — Fixes a comma splice between independent clauses.
+- **Line 81:** <code>in itself as whole</code> → <code>in itself as a whole</code> — Adds the missing article in the phrase “as a whole.”
+- **Line 81:** <code>) points out that meditation acts</code> → <code>) point out that meditation acts</code> — Compound linked subject requires plural verb.
+- **Line 81:** <code>Information theoretic estimates</code> → <code>Information-theoretic estimates</code> — Hyphenates a compound modifier before a noun.
+- **Line 81:** <code>The first being the</code> → <code>The first is the</code> — Repairs a malformed sentence fragment by supplying a finite verb.
+- **Line 81:** <code>as [Laukkonen &amp; Slagter](https://pubmed.ncbi.nlm.nih.gov/34139248/) point out that meditation acts</code> → <code>as [Laukkonen &amp; Slagter](https://pubmed.ncbi.nlm.nih.gov/34139248/) point out, meditation acts</code> — The construction incorrectly combines “as ... point out” with a following “that” clause. With introductory “as ... point out,” a comma is required instead of “that.”
+- **Line 81:** <code>And lastly, meditation progress seemingly points to the phenomenology of this reduction in compressing sensory totality as [Laukkonen &amp; Slagter](https://pubmed.ncbi.nlm.nih.gov/34139248/) point out, meditation acts as something like predictive deconstruction:</code> → <code>And lastly, meditation progress seemingly points to the phenomenology of this reduction in compressing sensory totality. As [Laukkonen &amp; Slagter](https://pubmed.ncbi.nlm.nih.gov/34139248/) point out, meditation acts as something like predictive deconstruction:</code> — The original has a malformed clause boundary; a sentence break is required before “As.”
+- **Line 81:** <code>1 gigabits/s</code> → <code>1 gigabit/s</code> — The unit must be singular after “1.”
+- **Line 81:** <code>cannot be experienced directly so any mention of it is theoretical.</code> → <code>cannot be experienced directly, so any mention of it is theoretical.</code> — A comma is required before “so” when it joins these two independent clauses.
+- **Line 83:** <code>whether done automatic or manually</code> → <code>whether done automatically or manually</code> — Uses the adverb “automatically” in parallel with “manually.”
+- **Line 83:** <code>Attention is a process of that directs precision</code> → <code>Attention is a process that directs precision</code> — Removes the extraneous preposition that makes the construction ungrammatical.
+- **Line 85:** <code>practices hits</code> → <code>practices hit</code> — Fixes subject–verb agreement.
+- **Line 87:** <code>form but rather, the system</code> → <code>form, but rather the system</code> — Places the comma correctly in the “not ... but rather” construction.
+- **Line 87:** <code>experience through, on another level</code> → <code>experience; on another level</code> — Removes the redundant preposition and fixes the comma splice between independent clauses.
+- **Line 87:** <code>in which</code> → <code>through which</code> — Uses the correct relative construction for viewing experience through a lens.
+- **Line 93:** <code>before which requires</code> → <code>before, which requires</code> — Adds the comma needed before a nonrestrictive relative clause.
+- **Line 93:** <code>helps here in which</code> → <code>helps here, in that</code> — Fixes a malformed subordinating construction.
+- **Line 97:** <code>successfully,</code> → <code>successfully.</code> — Replaces the sentence-final comma with a period.
+- **Line 101:** <code>whether or not the system consciously prefers it</code> → <code>whether or not the system consciously prefers them</code> — The pronoun must agree with the plural antecedent “configurations.”
+- **Line 103:** <code>threat signals from environment</code> → <code>threat signals from the environment</code> — Adds the missing definite article.
+- **Line 105:** <code>time consuming</code> → <code>time-consuming</code> — Hyphenates the compound adjective.
+- **Line 107:** <code>available by the system</code> → <code>available to the system</code> — Corrects the preposition used with “available.”
+- **Line 107:** <code>current available actions</code> → <code>currently available actions</code> — Uses the adverb required to modify “available.”
+- **Line 109:** <code>are are</code> → <code>are</code> — Removes a duplicated word.
+- **Line 109:** <code>versus actually doing</code> → <code>and actually doing</code> — Coordinates the two gerund phrases that form the compound subject.
+- **Line 109:** <code>Can I recognize</code> → <code>Recognizing</code> — Changes the interrogative clause into a grammatical subject for “are.”
+- **Line 109:** <code>than a state that allows you to actually act on that self-awareness</code> → <code>than that of a state that allows you to actually act on that self-awareness</code> — This fixes a faulty comparison: the reachability of one state must be compared with the reachability of the other state, not with the other state itself.
+- **Line 111:** <code>our perception and actions depends</code> → <code>our perception and actions depend</code> — Fixes subject–verb agreement with a compound subject.
+- **Line 115:** <code>emotions is similar</code> → <code>emotions are similar</code> — Corrects subject–verb agreement with the plural subject “emotions.”
+- **Line 115:** <code>What they name is that of gestalts, of the pin-point construction of things that have differing properties.</code> → <code>What they name are gestalts, pin-point constructions of things that have differing properties.</code> — “That of” has no antecedent here, and the plural complement “gestalts” requires a plural construction.
+- **Line 117:** <code>Thoughts are still an organizing gestalts</code> → <code>Thoughts are still organizing gestalts</code> — Removes the singular article before the plural noun “gestalts.”
+- **Line 117:** <code>and carrying the semantics</code> → <code>and that carries the semantics</code> — Restores parallel grammatical structure in the series of relative clauses modifying “gestalt.”
+- **Line 117:** <code>decoupled from what is going on, that is, physical reality does not represent this thought, and it carries</code> → <code>decoupled from what is going on—that is, physical reality does not represent this thought—and it carries</code> — The explanatory independent clause introduced by “that is” must be properly set off rather than joined with commas.
+- **Line 117:** <code>Taking the example of a thought about a blue dog, this thought</code> → <code>In the example of a thought about a blue dog, the thought</code> — The introductory participial phrase dangles because “this thought” cannot perform the action “taking.”
+- **Line 117:** <code>First we must answer, what is thought?</code> → <code>First we must answer: what is thought?</code> — A colon, rather than a comma, should introduce the direct question. Retaining lowercase “what” avoids an unnecessary, style-dependent capitalization change.
+- **Line 119:** <code>mention the boundaries</code> → <code>mention that the boundaries</code> — The clause after “mention” requires “that” here to avoid broken sentence grammar.
+- **Line 123:** <code>Hence why rumination</code> → <code>Hence, rumination</code> — Corrects the malformed sentence opening “Hence why.”
+- **Line 123:** <code>the same kind of the thoughts themselves</code> → <code>the same kind as the thoughts themselves</code> — Corrects the ungrammatical comparative construction “same kind of” to “same kind as.”
+- **Line 123:** <code>Self-awareness about thoughts exist</code> → <code>Self-awareness about thoughts exists</code> — Corrects subject–verb agreement with the singular subject “Self-awareness.”
+- **Line 125:** <code>in the sense that it draws more responses</code> → <code>in the sense that they draw more responses</code> — Corrects pronoun agreement with the plural antecedent “some thoughts.”
+- **Line 125:** <code>anatomial</code> → <code>anatomical</code> — Objective misspelling.
+- **Line 125:** <code>some which have agendas</code> → <code>some of which have agendas</code> — Missing word: the partitive relative construction requires “of.”
+- **Line 127:** <code>repeatdly</code> → <code>repeatedly</code> — Corrects a spelling error.
+- **Line 127:** <code>, vs. the background ongoing sense</code> → <code>, contrasts with the background ongoing sense</code> — The original is a fragment, but “while” would not supply a main verb; “contrasts with” makes the sentence grammatical with minimal change.
+- **Line 127:** <code>attention– resting</code> → <code>attention – resting</code> — Missing space before the en dash.
+- **Line 127:** <code>effecting the field</code> → <code>affecting the field</code> — Corrected the verb: the field is being influenced, not brought into existence.
+- **Line 127:** <code>This room is shaped this way, this sound is like this, this sensation in my foot feels like this.</code> → <code>This room is shaped this way; this sound is like this; this sensation in my foot feels like this.</code> — The original joins three independent clauses with commas.
+- **Line 129:** <code>Equally as important is the implications</code> → <code>Equally as important are the implications</code> — Corrects subject–verb agreement with the plural subject “implications.”
+- **Line 131:** <code>ride a bide</code> → <code>ride a bike</code> — Corrects a spelling error.
+- **Line 131:** <code>such as as bodily actions</code> → <code>such as bodily actions</code> — Removes the duplicated word “as.”
+- **Line 131:** <code>meaning through generation</code> → <code>meaning that through generation</code> — Added the missing conjunction in the explanatory clause.
+- **Line 131:** <code>"something is clearly persistent though, what is it?"</code> → <code>"Something is clearly persistent, though. What is it?"</code> — The quotation contains a comma splice between two independent clauses; parenthetical “though” also requires a preceding comma.
+- **Line 131:** <code>, that of embodied signals,</code> → <code>—embodied signals—</code> — The singular substitute “that” has no valid antecedent matching the plural “markers”; the phrase functions as an explanatory appositive.
+- **Line 131:** <code>signals— but</code> → <code>signals—but</code> — Malformed punctuation spacing: the em dash has a space on only one side.
+- **Line 133:** <code>the tower changing itself for instance.</code> → <code>the tower changing itself, for instance.</code> — Sets off the final parenthetical phrase with a comma.
+- **Line 133:** <code>The tower retunes itself as it is used, it not only is changed</code> → <code>The tower retunes itself as it is used; it not only is changed</code> — Corrects a comma splice between independent clauses.
+- **Line 133:** <code>the strings themselves, rather, the outputs</code> → <code>the strings themselves; rather, the outputs</code> — Corrects a comma splice between independent clauses.
+- **Line 133:** <code>levels which represents</code> → <code>levels which represent</code> — Corrects subject–verb agreement with the plural noun “levels.”
+- **Line 133:** <code>strings that responds to weight</code> → <code>strings that respond to weight</code> — Corrects subject–verb agreement with the plural noun “strings.”
+- **Line 133:** <code>Here, this persistence *is* memory, meaning, the medium by which things travel is through landscapes, not specific states.</code> → <code>Here, this persistence *is* memory, meaning that landscapes, not specific states, are the medium through which things travel.</code> — The original has a malformed “the medium by which … is through” construction and an erroneous comma after “meaning.”
+- **Line 137:** <code>pass pass through</code> → <code>pass through</code> — Removes the duplicated word “pass.”
+- **Line 137:** <code>how knowledge takes from</code> → <code>how knowledge takes form</code> — Corrects the apparent word error in the phrase “takes form.”
+- **Line 137:** <code>three layer stack</code> → <code>three-layer stack</code> — Hyphenates a compound modifier before a noun.
+- **Line 139:** <code>a stored lookup table cannot produce that, rules and structure can</code> → <code>a stored lookup table cannot produce that; rules and structure can</code> — Corrects a comma splice between independent clauses.
+- **Line 141:** <code>that thing is no longer salient, therefore it is marked</code> → <code>that thing is no longer salient; therefore it is marked</code> — Corrects a comma splice.
+- **Line 141:** <code>catepillar's</code> → <code>caterpillar's</code> — Corrects a spelling error.
+- **Line 141:** <code>meant to distorted</code> → <code>meant to be distorted</code> — Adds the missing auxiliary verb.
+- **Line 141:** <code>suvival</code> → <code>survival</code> — Corrects a spelling error.
+- **Line 141:** <code>degredation</code> → <code>degradation</code> — Corrects a spelling error.
+- **Line 141:** <code>measurment</code> → <code>measurement</code> — Corrects a spelling error.
+- **Line 141:** <code>here, salience</code> → <code>here; salience</code> — Corrects a comma splice between two independent clauses.
+- **Line 141:** <code>as how</code> → <code>as</code> — Removes an extra word that makes the construction ungrammatical.
+- **Line 141:** <code>The way it picks out what matters is done so through the field</code> → <code>The way it picks out what matters is through the field</code> — The construction “the way ... is done so” is grammatically malformed; “is through” correctly links the stated way to its means.
+- **Line 143:** <code>persistant</code> → <code>persistent</code> — Corrects a spelling error.
+- **Line 145:** <code>something fantastical that clearly do not represent</code> → <code>something fantastical that clearly does not represent</code> — Corrects subject-verb agreement with singular “something.”
+- **Line 145:** <code>rather than say, 156</code> → <code>rather than, say, 156</code> — Correctly sets off the parenthetical word “say.”
+- **Line 145:** <code>a lookup tables</code> → <code>lookup tables</code> — Corrects an article-number mismatch.
+- **Line 145:** <code>are missed in related regions</code> → <code>are made in related regions</code> — Corrected an evident word substitution in the sentence about where recall mistakes occur.
+- **Line 145:** <code>Mistakes in recall are made in related regions of strings in the spider tower, branches of the dependency tree, not a mistake in trying to access static, isolated storage.</code> → <code>Mistakes in recall are made in related regions of strings in the spider tower, branches of the dependency tree, not in trying to access static, isolated storage.</code> — The original lacks parallelism, but “not in trying” is a smaller correction than “not while trying” and retains the intended contrast.
+- **Line 147:** <code>occuring</code> → <code>occurring</code> — Corrects a spelling error.
+- **Line 147:** <code>low reachability when means retuning</code> → <code>low reachability which means retuning</code> — Corrects an obvious incorrect relative word.
+- **Line 147:** <code>repeition</code> → <code>repetition</code> — Corrects a spelling error.
+- **Line 147:** <code>preceisly</code> → <code>precisely</code> — Corrects a spelling error.
+- **Line 147:** <code>qualities, those</code> → <code>qualities; those</code> — Corrects a comma splice between two independent clauses.
+- **Line 149:** <code>precicely</code> → <code>precisely</code> — Corrects a spelling error.
+- **Line 151:** <code>intepretation</code> → <code>interpretation</code> — Corrects a spelling error.
+- **Line 151:** <code>a practice that can be seen as "freezing" a memory in time through image, influence how</code> → <code>a practice that can be seen as "freezing" a memory in time through image, influences how</code> — Corrects subject-verb agreement with singular “practice.”
+- **Line 151:** <code>but changing what we attend to</code> → <code>by changing what we attend to</code> — Corrects the malformed construction describing the means by which the structure changes.
+- **Line 151:** <code>enviornment</code> → <code>environment</code> — Corrects a spelling error.
+- **Line 151:** <code>leaves out details for instance, as laid out in the compression gradient</code> → <code>leaves out details, for instance, as laid out in the compression gradient</code> — The parenthetical phrase “for instance” requires an opening comma here.
+- **Line 153:** <code>reverabting</code> → <code>reverberating</code> — Corrects a spelling error.
+- **Line 153:** <code>reverabtes</code> → <code>reverberates</code> — Corrects a spelling error.
+- **Line 153:** <code>vocal chord movements</code> → <code>vocal cord movements</code> — Corrects “chord” to the anatomical term “cord.”
+- **Line 153:** <code>an affect across all three layers</code> → <code>an effect across all three layers</code> — Corrects the noun-form word choice.
+- **Line 153:** <code>What is meant by this is that, often times</code> → <code>What is meant by this is that often times</code> — Removes an incorrect comma after “that.”
+- **Line 153:** <code>vocal chord movements</code> → <code>vocal cord movements</code> — Corrects the anatomical term; “chord” is a misspelling here.
+- **Line 153:** <code>As laid out above this is not the case</code> → <code>As laid out above, this is not the case</code> — A comma is required after the introductory phrase.
+- **Line 155:** <code>asily</code> → <code>easily</code> — Corrects a spelling error.
+- **Line 155:** <code>repeition</code> → <code>repetition</code> — Corrects a spelling error.
+- **Line 155:** <code>arbitrary pairs with no underlying shared structure needs</code> → <code>arbitrary pairs with no underlying shared structure need</code> — Corrects subject-verb agreement with plural “pairs.”
+- **Line 155:** <code>mathemtical</code> → <code>mathematical</code> — Corrects a spelling error.
+- **Line 155:** <code>dependcy</code> → <code>dependency</code> — Corrects a spelling error.
+- **Line 155:** <code>collapases</code> → <code>collapses</code> — Corrects a spelling error.
+- **Line 155:** <code>immeditely</code> → <code>immediately</code> — Corrects a spelling error.
+- **Line 155:** <code>there is little structure-sensitive rules</code> → <code>there are few structure-sensitive rules</code> — Corrects number agreement and the quantifier used with a plural count noun.
+- **Line 155:** <code>neccrasily</code> → <code>necessarily</code> — Corrects a spelling error.
+- **Line 155:** <code>"3x5" cannot be anything, which is why you don't get answers like "200," rather you might get an answer like "20."</code> → <code>"3x5" cannot be anything, which is why you don't get answers like "200"; rather, you might get an answer like "20."</code> — “Rather” does not coordinate the two independent clauses; a semicolon is needed, followed by a comma after the conjunctive adverb.
+- **Line 155:** <code>Remembering that structure can be broad, meaning "3x5" and "3x6" share fundamental structure but differ in their wide branches of used inference, certain structure can collapse options before effort is put in to remember something.</code> → <code>Given that structure can be broad, meaning "3x5" and "3x6" share fundamental structure but differ in their wide branches of used inference, certain structure can collapse options before effort is put in to remember something.</code> — The opening participial phrase “Remembering that ...” dangles because the grammatical subject, “certain structure,” cannot do the remembering.
+- **Line 159:** <code>yes or no, it is dependent</code> → <code>yes or no; it is dependent</code> — Corrects a comma splice between independent clauses.
+- **Line 159:** <code>multiple choice question</code> → <code>multiple-choice question</code> — Hyphenates a compound modifier before a noun.
+- **Line 159:** <code>when judging our ability to memorize a speech, it is dependent</code> → <code>when judging our ability to memorize a speech, our judgment is dependent</code> — Corrects a dangling introductory modifier and supplies the appropriate subject.
+- **Line 159:** <code>evaluation if a memory has been accessed successfully</code> → <code>evaluation of whether a memory has been accessed successfully</code> — Corrects the ungrammatical preposition and conjunction.
+- **Line 161:** <code>in such a way to which we can</code> → <code>in such a way that we can</code> — Corrects an ungrammatical relative construction.
+- **Line 161:** <code>and error correct by responding</code> → <code>and error-correct by responding</code> — Hyphenates the compound verb.
+- **Line 161:** <code>changed sense the output</code> → <code>changed since the output</code> — Corrects the misspelling of "since."
+- **Line 161:** <code>then I recall the memory a year later</code> → <code>and then I recall the memory a year later</code> — Keeps the second action within the conditional clause and repairs the malformed if-then construction.
+- **Line 161:** <code>heart beat</code> → <code>heartbeat</code> — Corrects the spelling of the noun.
+- **Line 161:** <code>Most people would probably answer, yes that's the same memory, but why is this?</code> → <code>Most people would probably answer, "Yes, that's the same memory," but why is this?</code> — Direct speech following “answer” requires quotation punctuation; “Yes” also requires a following comma here.
+- **Line 163:** <code>location.  Because</code> → <code>location. Because</code> — Removes an unintended extra space between sentences.
+- **Line 163:** <code>If the target is "does this memory produce suffering," then the answer would be no, this is not the same memory.</code> → <code>If the target is "does this memory produce suffering," then the answer would be no; this is not the same memory.</code> — The comma incorrectly joins two independent clauses.
+- **Line 163:** <code>If the target is something like "did this happen to me" then yes the memory would be the same.</code> → <code>If the target is something like "did this happen to me," then yes, the memory would be the same.</code> — The introductory conditional clause requires a comma, conventionally placed inside the closing quotation mark, and the response word “yes” requires a following comma.
+- **Line 167:** <code>which as Levin puts it is essential</code> → <code>which, as Levin puts it, is essential</code> — Sets off the parenthetical clause with commas.
+- **Line 167:** <code>high dimensional input</code> → <code>high-dimensional input</code> — Hyphenates a compound modifier before a noun.
+- **Line 167:** <code>a middle narrow points</code> → <code>a middle narrow point</code> — Corrects singular article–noun agreement.
+- **Line 167:** <code>is in a shape of a bow tie</code> → <code>is in the shape of a bow tie</code> — Corrects the article in the fixed construction.
+- **Line 167:** <code>deterioration, it</code> → <code>deterioration; it</code> — Corrects a comma splice between two independent clauses.
+- **Line 167:** <code>Essentially, we have rich experiences, we "make" compressed latent representations, then this results in reconstructed memory.</code> → <code>Essentially, we have rich experiences; we "make" compressed latent representations; then this results in reconstructed memory.</code> — The original contains comma splices between independent clauses.
+- **Line 169:** <code>It is implied human perception</code> → <code>It is implied that human perception</code> — Adds the missing complementizer needed after the passive construction “It is implied.”
+- **Line 170:** <code>closed off pipeline</code> → <code>closed-off pipeline</code> — Hyphenates a compound modifier before a noun.
+- **Line 170:** <code>lower dimensional causes</code> → <code>lower-dimensional causes</code> — Hyphenates a compound modifier before a noun.
+- **Line 170:** <code>many inflows of information, whether it be biological information or sensory information, or some type of data points converge into one point</code> → <code>many inflows of information—whether biological information, sensory information, or some type of data point—converge into one point</code> — Repaired agreement and set off the parenthetical list so the plural subject connects clearly to “converge.”
+- **Line 172:** <code>resulting in complex system</code> → <code>resulting in a complex system</code> — Supplies the missing article before a singular count noun.
+- **Line 172:** <code>Information is constly flowing</code> → <code>Information is constantly flowing</code> — Corrects a spelling error.
+- **Line 172:** <code>continously overlapping</code> → <code>continuously overlapping</code> — Corrects a spelling error.
+- **Line 172:** <code>made clear here, that</code> → <code>made clear here that</code> — Removes an incorrect comma before a restrictive content clause.
+- **Line 172:** <code>process this, then that</code> → <code>process this; then that</code> — Corrects a comma splice between independent clauses.
+- **Line 172:** <code>"raw" input coming in, a bottleneck</code> → <code>"raw" input coming in; a bottleneck</code> — Corrects a comma splice between independent clauses.
+- **Line 174:** <code>repeatead</code> → <code>repeated</code> — Correct a spelling error.
+- **Line 174:** <code>how next new input is interpreted</code> → <code>how the next new input is interpreted</code> — Add the missing definite article.
+- **Line 174:** <code>a perceived stitched together continuous experience</code> → <code>a perceived stitched-together continuous experience</code> — Hyphenate the compound modifier before the noun.
+- **Line 174:** <code>a stitched together continuous experience</code> → <code>a stitched-together continuous experience</code> — Hyphenate the compound modifier before the noun.
+- **Line 174:** <code>how the next new input is interpreted which changes output</code> → <code>how the next new input is interpreted, which changes output</code> — A comma is required before the supplementary relative clause describing the result of the input’s interpretation.
+- **Line 174:** <code>are seemingly the most compressed, as to be processed as quickly as possible</code> → <code>are seemingly the most compressed so as to be processed as quickly as possible</code> — The purpose construction requires “so as to,” not “as to” alone.
+- **Line 174:** <code>if our sensory experience is constantly changing which feeds back</code> → <code>if our sensory experience is constantly changing, which feeds back</code> — A comma is required before the supplementary relative clause referring to the preceding situation.
+- **Line 178:** <code>suffiecent</code> → <code>sufficient</code> — Correct a spelling error.
+- **Line 178:** <code>preciesly</code> → <code>precisely</code> — Correct a spelling error.
+- **Line 180:** <code>thatrcan</code> → <code>that can</code> — Correct a typographical error joining two words.
+- **Line 180:** <code>behahior</code> → <code>behavior</code> — Correct a spelling error.
+- **Line 180:** <code>is not regenerated every 100ms, instead the pattern</code> → <code>is not regenerated every 100ms; instead, the pattern</code> — Correct a comma splice between independent clauses.
+- **Line 180:** <code>Structure here meaning</code> → <code>Structure here means</code> — Repair a malformed sentence fragment by supplying the finite verb.
+- **Line 180:** <code>like retina and early visual cortex</code> → <code>like the retina and early visual cortex</code> — Add the missing article before the singular count noun.
+- **Line 180:** <code>findings something to eat</code> → <code>finding something to eat</code> — Correct the erroneous verb form.
+- **Line 180:** <code>going from left to right, the most decompressed input to the most compressed, is a process</code> → <code>going from left to right, from the most decompressed input to the most compressed, is a process</code> — The second range requires “from” to complete the “from ... to ...” construction.
+- **Line 182:** <code>memory and structure is what *can* be</code> → <code>memory and structure are what *can* be</code> — Correct subject–verb agreement for the compound subject.
+- **Line 184:** <code>interpreting those input signals, broad priors mark</code> → <code>interpreting those input signals; broad priors mark</code> — Correct a comma splice between independent clauses.
+- **Line 184:** <code>there is not hard cognition/bodily split</code> → <code>there is not a hard cognition/bodily split</code> — Add the missing article before the singular count noun.
+- **Line 184:** <code>lies deep priors</code> → <code>lie deep priors</code> — Correct subject–verb agreement with the plural subject in the inverted construction.
+- **Line 184:** <code>lies the most shallow priors</code> → <code>lie the most shallow priors</code> — Corrects subject–verb disagreement with the plural subject “priors.”
+- **Line 184:** <code>spread across in a space of time</code> → <code>spread across a space of time</code> — Removes the accidentally duplicated preposition in the phrase.
+- **Line 184:** <code>it's not that simple of a modeling</code> → <code>it's not that simple a model</code> — “That simple of a modeling” is a malformed construction; the count noun “model” is required here.
+- **Line 184:** <code>going from priors that constrain almost everything, to priors that constrain less and less generation</code> → <code>going from priors that constrain almost everything to priors that constrain less and less generation</code> — The comma incorrectly separates the paired “from” and “to” phrases.
+- **Line 184:** <code>meaning we interpret some level of input, dependent on what we're measuring like from 100ms to a year, then the interpretation of the input produces what we output</code> → <code>meaning we interpret some level of input, dependent on what we're measuring like from 100ms to a year, and then the interpretation of the input produces what we output</code> — The comma incorrectly joins two clauses; adding “and” supplies the missing coordinating conjunction.
+- **Line 186:** <code>which branch out of the organizing target and has its own bow-tie</code> → <code>which branch out of the organizing target and have their own bow-ties</code> — Correct agreement with the plural antecedent “sub-targets.”
+- **Line 186:** <code>a  simple example</code> → <code>a simple example</code> — Remove the duplicated space.
+- **Line 186:** <code>There is no true "frozen" state of being, instead these nested architectures</code> → <code>There is no true "frozen" state of being; instead, these nested architectures</code> — Correct a comma splice between independent clauses.
+- **Line 186:** <code>intropduces</code> → <code>introduces</code> — Correct a spelling error.
+- **Line 186:** <code>which then produces even smaller targets</code> → <code>which then produce even smaller targets</code> — Corrects subject–verb disagreement with the plural antecedent “bow-ties.”
+- **Line 188:** <code>the underlying structure and memory that gives way to the field configuration</code> → <code>the underlying structure and memory that give way to the field configuration</code> — The relative-clause verb must agree with the compound antecedent “structure and memory.”
+- **Line 190:** <code>does not "erase" every difference that occurs in input, rather it can preserve</code> → <code>does not "erase" every difference that occurs in input; rather, it can preserve</code> — Correct a comma splice between independent clauses.
+- **Line 190:** <code>interpretes</code> → <code>interprets</code> — Correct a spelling error.
+- **Line 190:** <code>useful to the target is preserved</code> → <code>useful to the target are preserved</code> — Correct subject–verb agreement with “invariant relations.”
+- **Line 190:** <code>surface level changes</code> → <code>surface-level changes</code> — Hyphenate the compound modifier before the noun.
+- **Line 190:** <code>What is it meant by transformations?</code> → <code>What is meant by transformations?</code> — Remove the extraneous pronoun from the passive construction.
+- **Line 190:** <code>transformations  (SPT for short)</code> → <code>transformations (SPT for short)</code> — Remove the duplicated space.
+- **Line 190:** <code>the invariant relations, the "bundling together" of priors, useful to the target are preserved</code> → <code>the invariant relations, the "bundling together" of priors, useful to the target, are preserved</code> — A comma is required to close the intervening modifier before the main verb “are preserved.”
+- **Line 192:** <code>remain stables</code> → <code>remain stable</code> — Use the adjective, rather than a plural noun form, after “remain.”
+- **Line 194:** <code>Invariation's sibling</code> → <code>Invariance's sibling</code> — Correct the term to match the concept defined in the following sentence.
+- **Line 198:** <code>cost too much resources</code> → <code>cost too many resources</code> — Uses the count determiner required by the plural count noun “resources.”
+- **Line 198:** <code>input as for what</code> → <code>input for what</code> — Removes the extraneous word “as.”
+- **Line 198:** <code>compression ,</code> → <code>compression,</code> — Removes an erroneous space before the comma.
+- **Line 200:** <code>in service towards current concerns</code> → <code>in service of current concerns</code> — The fixed construction is “in service of,” not “in service towards.”
+- **Line 204:** <code>intellgence</code> → <code>intelligence</code> — Corrects a spelling error.
+- **Line 206:** <code>attempting reaching</code> → <code>attempting to reach</code> — Supplies the infinitive marker required after “attempting.”
+- **Line 206:** <code>a useable point in which the particular system can commit from</code> → <code>a useable point from which the particular system can commit</code> — The relative preposition is duplicated and misplaced: “in which … from” should be “from which.”
+- **Line 206:** <code>in service towards a target</code> → <code>in service of a target</code> — The fixed construction is “in service of,” not “in service towards.”
+- **Line 208:** <code>one path, instead the SPT</code> → <code>one path; instead, the SPT</code> — Fixes a comma splice and punctuates the conjunctive adverb “instead.”
+- **Line 210:** <code>eveidence</code> → <code>evidence</code> — Corrects a spelling error.
+- **Line 210:** <code>opposiing</code> → <code>opposing</code> — Corrects a spelling error.
+- **Line 210:** <code>does not mean goodness, it is</code> → <code>does not mean goodness; it is</code> — Fixes a comma splice between independent clauses.
+- **Line 210:** <code>in relation towards suffering</code> → <code>in relation to suffering</code> — The required preposition in this construction is “to,” not “towards.”
+- **Line 212:** <code>system, thus it changes</code> → <code>system; thus, it changes</code> — Fix comma splice and punctuate conjunctive adverb.
+- **Line 212:** <code>adaptivie</code> → <code>adaptive</code> — Corrects a spelling error.
+- **Line 212:** <code>modleing</code> → <code>modeling</code> — Corrects a spelling error.
+- **Line 212:** <code>intersting</code> → <code>interesting</code> — Corrects a spelling error.
+- **Line 212:** <code>privield-human</code> → <code>privileged-human</code> — Corrects a spelling error.
+- **Line 214:** <code>and acted upon through nested trees</code> → <code>and are acted upon through nested trees</code> — Supplies the auxiliary needed for the coordinated passive construction.
+- **Line 214:** <code>precicely</code> → <code>precisely</code> — Corrects a spelling error.
+- **Line 214:** <code>figner</code> → <code>finger</code> — Corrects a spelling error.
+- **Line 214:** <code>does is not necasily</code> → <code>is not necessarily</code> — Removes an extraneous auxiliary and corrects a spelling error.
+- **Line 214:** <code>medschool</code> → <code>med school</code> — Corrects the spelling of the abbreviated term.
+- **Line 214:** <code>the sizing of these bow-ties will be smaller in comparison to those of the constraining, more dominant ones</code> → <code>the sizing of these bow-ties will be smaller in comparison to that of the constraining, more dominant ones</code> — “Sizing” is singular, so its substitute must be the singular “that,” not “those.”
+- **Line 214:** <code>These nested targets are of course smaller from both a spatiotemporal scale and problem-solving level, how many means to reach the same endpoint, which means</code> → <code>These nested targets are of course smaller on both a spatiotemporal scale and a problem-solving level—how many means there are to reach the same endpoint—which means</code> — The original has broken prepositional parallelism and an unintegrated explanatory phrase. This version makes only the additions and punctuation needed to repair them.
+- **Line 216:** <code>smaller-scale inference-cycle</code> → <code>smaller-scale inference-cycles</code> — Corrects number agreement with the plural subject and the absence of a singular determiner.
+- **Line 218:** <code>system as a whole, is when</code> → <code>system as a whole is when</code> — Removes a comma incorrectly separating the subject clause from its predicate.
+- **Line 218:** <code>in accordance to</code> → <code>in accordance with</code> — Corrects the preposition used with “accordance.”
+- **Line 218:** <code>perturbations that offsets</code> → <code>perturbations that offset</code> — Corrects subject–verb agreement with plural “perturbations.”
+- **Line 218:** <code>Where you can "stop" observation</code> → <code>When you can "stop" observation</code> — The clause refers to the time at which observation can stop and must correspond with the following “is when.”
+- **Line 220:** <code>must not be careful to confuse</code> → <code>must be careful not to confuse</code> — Corrects the misplaced negation in the construction “be careful not to confuse.”
+- **Line 220:** <code>Here though,</code> → <code>Here, though,</code> — Adds the comma needed to set off the parenthetical adverb.
+- **Line 220:** <code>organi9zation</code> → <code>organization</code> — Corrects a typographical error.
+- **Line 220:** <code>temperates</code> → <code>temperatures</code> — Corrects a spelling error.
+- **Line 220:** <code>chaning</code> → <code>changing</code> — Corrects a spelling error.
+- **Line 220:** <code>continously</code> → <code>continuously</code> — Corrects a spelling error.
+- **Line 220:** <code>cognitive light code</code> → <code>cognitive light cone</code> — Corrects an evident typo; the term used throughout the passage is “cognitive light cone.”
+- **Line 220:** <code>in service towards</code> → <code>in service of</code> — Corrects the malformed idiom “in service of.”
+- **Line 220:** <code>their phone dies</code> → <code>their phone dying</code> — Makes the item parallel with the surrounding gerund phrases.
+- **Line 222:** <code>bow-tie  specifies</code> → <code>bow-tie specifies</code> — Removes a duplicated space.
+- **Line 224:** <code>scale-up continuously</code> → <code>scale up continuously</code> — Removes the incorrect hyphen from the verb phrase “scale up.”
+- **Line 224:** <code>In humans for instance,</code> → <code>In humans, for instance,</code> — Adds the comma needed to set off “for instance.”
+- **Line 224:** <code>In humans, for instance, we can sense light, sound, chemicals, touch, and internal bodily states, we can integrate and preserve a certain amount of information because of structure and memory, and we can control external things through our physical bodies.</code> → <code>In humans, for instance, we can sense light, sound, chemicals, touch, and internal bodily states; we can integrate and preserve a certain amount of information because of structure and memory; and we can control external things through our physical bodies.</code> — The original contains independent clauses joined by commas; semicolons correct the comma splice.
+
+## 2. The Dynamics of Fit
+
+- **Line 242:** <code>When facing threatening input</code> → <code>When you face threatening input</code> — Corrects a dangling modifier: the grammatical subject of the original sentence is “the field’s most heavily weighted target,” which cannot face the input.
+- **Line 244:** <code>torwards</code> → <code>towards</code> — Corrects a spelling error.
+- **Line 244:** <code>contraction, and</code> → <code>contraction and</code> — Removes an incorrect comma between two coordinated objects of the preposition.
+- **Line 244:** <code>seperate</code> → <code>separate</code> — Corrects a spelling error.
+- **Line 246:** <code>experienced either mundane</code> → <code>experienced as either mundane</code> — Adds the preposition required by “experienced” before the predicate description.
+- **Line 246:** <code>processed less costly</code> → <code>processed more cheaply</code> — Replaces an adjective with the adverb required to modify “processed.”
+- **Line 246:** <code>relatviely</code> → <code>relatively</code> — Corrects a spelling error.
+- **Line 246:** <code>positive or negative difference</code> → <code>positive or negative differences</code> — Corrects number agreement with the plural noun “waves.”
+- **Line 246:** <code>levels.&amp;nbsp;</code> → <code>levels.</code> — Remove the stray HTML nonbreaking-space token at the end of the line.
+- **Line 248:** <code>their predicted cost</code> → <code>its predicted cost</code> — Corrects pronoun agreement with the mass noun “input.”
+- **Line 248:** <code>Because  input</code> → <code>Because input</code> — Removes a duplicated space.
+- **Line 248:** <code>level.&amp;nbsp;You</code> → <code>level. You</code> — Replace the HTML nonbreaking-space token with a normal space.
+- **Line 248:** <code>against.&amp;nbsp;Note</code> → <code>against. Note</code> — Replace the HTML nonbreaking-space token with a normal space.
+- **Line 248:** <code>a&amp;nbsp;cumulative</code> → <code>a cumulative</code> — Replace the HTML nonbreaking-space token with a normal space.
+- **Line 252:** <code>first time can</code> → <code>first time, can</code> — Adds the closing comma for the parenthetical example.
+- **Line 252:** <code>organize like</code> → <code>organize, like</code> — Adds the opening comma for the parenthetical example.
+- **Line 252:** <code>which the system attempts to calculate and organize which</code> → <code>as the system attempts to calculate and organize input, which</code> — Repaired a broken relative-clause sequence while retaining the stated meaning.
+- **Line 258:** <code>” rule demonstrates</code> → <code>” demonstrates</code> — Removes the duplicated word following the quoted name of the rule.
+- **Line 258:** <code>learning which people disengage</code> → <code>learning in which people disengage</code> — Adds the missing preposition required by the relative construction.
+- **Line 258:** <code>Interesingly</code> → <code>Interestingly</code> — Corrects a spelling error.
+- **Line 258:** <code>Eighty Five Percent Rule</code> → <code>Eighty-Five Percent Rule</code> — A spelled-out compound number from twenty-one through ninety-nine requires a hyphen.
+- **Line 264:** <code>as well</code> → <code>as well.</code> — Adds the missing sentence-ending period.
+- **Line 264:** <code>results of the difference</code> → <code>the result of the difference</code> — Corrects subject–verb agreement with the later singular verb “is” and supplies the article required by the singular count noun.
+- **Line 264:** <code>harder to integrate passages</code> → <code>harder-to-integrate passages</code> — The multiword phrase functions as a compound modifier before “passages” and requires hyphenation.
+- **Line 268:** <code>chronic stress and bad health lowers it</code> → <code>chronic stress and bad health lower it</code> — Corrects subject–verb agreement for the compound plural subject.
+- **Line 278:** <code>some type of priors-relationship</code> → <code>some type of relationship to priors</code> — “Priors-relationship” is a malformed compound construction.
+- **Line 296:** <code>notation become meaningful</code> → <code>notation becomes meaningful</code> — Fixes subject–verb agreement: the singular subject “notation” requires “becomes.”
+- **Line 296:** <code>notional manipulation</code> → <code>notational manipulation</code> — Corrected the term to match the surrounding discussion of notation.
+- **Line 302:** <code>The quantity and measurement of slack now needs</code> → <code>The quantity and measurement of slack now need</code> — Fixes subject–verb agreement for the compound subject “quantity and measurement.”
+- **Line 304:** <code>Capacity here meaning</code> → <code>Capacity here means</code> — Fixes a malformed sentence fragment by supplying the finite verb required by the subject “Capacity.”
+- **Line 310:** <code>in the body it not adding</code> → <code>in the body is not adding</code> — Fixes the missing verb in the construction “is not adding.”
+- **Line 310:** <code>across all contexts, it is in relation</code> → <code>across all contexts; it is in relation</code> — Fixes a comma splice between two independent clauses.
+- **Line 312:** <code>Chaotic environments that are unpredictable requires</code> → <code>Chaotic environments that are unpredictable require</code> — Fixes subject–verb agreement with the plural subject “environments.”
+- **Line 312:** <code>arrive predictability</code> → <code>arrive predictably</code> — Replaces the noun with the adverb required to modify “arrive.”
+- **Line 314:** <code>Other options become unavailable, the only thing</code> → <code>Other options become unavailable; the only thing</code> — Fixes a comma splice between two independent clauses.
+- **Line 314:** <code>shut off from doing anything, the system will</code> → <code>shut off from doing anything; the system will</code> — Fixes a comma splice between two independent clauses.
+- **Line 314:** <code>one-to-many, this is because</code> → <code>one-to-many; this is because</code> — Fix comma splice.
+- **Line 314:** <code>an asymmetry was noted that</code> → <code>an asymmetry was noted:</code> — The content clause is malformed after the noun phrase “an asymmetry.” A colon correctly introduces the explanation of the noted asymmetry.
+- **Line 316:** <code>is too vague, what matters</code> → <code>is too vague; what matters</code> — Fix comma splice.
+- **Line 316:** <code>Again, slack is not just one simple number, it is context dependent.</code> → <code>Again, slack is not just one simple number; it is context dependent.</code> — Corrects a comma splice between two independent clauses.
+- **Line 316:** <code>attentional and working-memory</code> → <code>attentional and working-memory capacity</code> — The coordinated adjectives “attentional” and “working-memory” require a head noun in this list.
+- **Line 320:** <code>tend to fail centering around the same reason</code> → <code>tend to fail for the same reason</code> — Fixes a plainly ungrammatical construction.
+- **Line 322:** <code>possibilties remian</code> → <code>possibilities remain</code> — Fixes two spelling errors.
+
+## 3. Learning and Expertise
+
+- **Line 338:** <code>Going back to mathematics to demonstrate metaphor’s importance for understanding, mathematics is</code> → <code>Going back to mathematics to demonstrate metaphor’s importance for understanding, we see that mathematics is</code> — The introductory participial phrase otherwise dangles because “mathematics” cannot perform the action of going back.
+- **Line 384:** <code>confirugation</code> → <code>configuration</code> — Corrects a spelling error.
+- **Line 384:** <code>condioned</code> → <code>conditioned</code> — Corrects a spelling error.
+- **Line 388:** <code>a loop of integration and action that retune the field</code> → <code>a loop of integration and action that retunes the field</code> — Corrects subject-verb agreement: the singular noun “loop” takes “retunes.”
+- **Line 415:** <code>Fit is how well a probe satisfies the current field, coherence is how well your model holds together internally, and truth is correspondence with reality.</code> → <code>Fit is how well a probe satisfies the current field; coherence is how well your model holds together internally; and truth is correspondence with reality.</code> — Corrects comma splices between three independent clauses.
+- **Line 421:** <code>field  →</code> → <code>field →</code> — Remove the duplicated space.
+- **Line 423:** <code>However, the loop also needs intuition to run, it is a contingent relationship.</code> → <code>However, the loop also needs intuition to run; it is a contingent relationship.</code> — Corrects a comma splice between independent clauses.
+- **Line 427:** <code>'“in the real world.”</code> → <code>“in the real world.”</code> — Removes an extraneous apostrophe before the opening quotation mark.
+- **Line 427:** <code>rather than only one being ran at individually</code> → <code>rather than only one being run individually</code> — Corrects the past participle “ran” to “run” and removes the extraneous preposition “at.”
+- **Line 431:** <code>This is Gendlin’s findings at play.</code> → <code>These are Gendlin’s findings at play.</code> — Corrects subject–complement number agreement.
+- **Line 443:** <code>since his concerns contemplative action which is geared</code> → <code>since his work concerns contemplative action which is geared</code> — Adding “work” repairs the plainly ungrammatical construction; the proposed comma before “which” is not indisputably required.
+- **Line 447:** <code>in complementary ways by adding structure into the environment, while the other compresses it into retrievable internal structure.</code> → <code>in complementary ways: one adds structure into the environment, while the other compresses it into retrievable internal structure.</code> — Corrects the incomplete one–the other construction and its malformed coordination.
+- **Line 447:** <code>Justin Skycack</code> → <code>Justin Skycak</code> — The surname is misspelled; the correct spelling is “Skycak.”
+- **Line 453:** <code>the probe is unsurprising which does not produce a noticeable spike.</code> → <code>the probe is unsurprising, which does not produce a noticeable spike.</code> — Adds the comma required before a nonrestrictive relative clause.
+- **Line 473:** <code>asks was</code> → <code>asks: Was</code> — Introduce and capitalize the direct question correctly.
+- **Line 473:** <code>baseline a</code> → <code>baseline, a</code> — Add the required comma after the introductory dependent clause.
+- **Line 501:** <code>an equally shapeless gangue of false or inadequate ideas, it will gradually emerge</code> → <code>an equally shapeless gangue of false or inadequate ideas; it will gradually emerge</code> — This is a comma splice joining two independent clauses.
+- **Line 507:** <code>can be ran simultaneously</code> → <code>can be run simultaneously</code> — Use the past participle "run" after "can be."
+- **Line 507:** <code>can be ran at parallel</code> → <code>can be run in parallel</code> — Use the past participle "run" after "can be" and the correct preposition in the phrase "in parallel."
+- **Line 507:** <code>there exists two main orientations</code> → <code>there exist two main orientations</code> — Make the verb agree with the plural subject "two main orientations."
+- **Line 509:** <code>much harder to do closed</code> → <code>much harder to do in a closed loop</code> — Supply the missing words needed to make the construction grammatical and explicit.
+- **Line 509:** <code>misonerms</code> → <code>misnomers</code> — Correct the misspelling of "misnomers."
+- **Line 509:** <code>moreso</code> → <code>more so</code> — Correct the spelling of "more so."
+- **Line 509:** <code>point-of-view</code> → <code>point of view</code> — The noun phrase “point of view” is not hyphenated when used as the object of a preposition.
+- **Line 511:** <code>any mechanism that contribute</code> → <code>any mechanism that contributes</code> — Make the verb agree with the singular subject "mechanism."
+- **Line 511:** <code>to like fear and authority so</code> → <code>too, like fear and authority, so</code> — Correct "to" to the additive adverb "too" and punctuate the parenthetical example and coordinated clause.
+- **Line 511:** <code>go of, this</code> → <code>go of; this</code> — Fix a comma splice between independent clauses.
+- **Line 513:** <code>ontological constraints the frame</code> → <code>ontological constraints of the frame</code> — Supply the missing preposition linking "constraints" and "the frame."
+- **Line 513:** <code>current field so naturally</code> → <code>current field, so naturally</code> — Add the comma before "so" joining two independent clauses.
+- **Line 513:** <code>Truth-making on the other hand is</code> → <code>Truth-making, on the other hand, is</code> — Set off the parenthetical phrase "on the other hand" with commas.
+- **Line 515:** <code>on its own, it just modulates</code> → <code>on its own; it just modulates</code> — Fix a comma splice between independent clauses.
+- **Line 517:** <code>may be initially be</code> → <code>may initially be</code> — Removes a duplicated form of “be.”
+- **Line 517:** <code>Michael Nielson</code> → <code>Michael Nielsen</code> — Misspelled name.
+- **Line 518:** <code>Those set of stories</code> → <code>That set of stories</code> — Corrects demonstrative agreement with the singular noun “set.”
+- **Line 518:** <code>That set of stories are</code> → <code>That set of stories is</code> — Clear subject–verb disagreement: the singular head noun “set” requires “is.”
+- **Line 518:** <code>seals the cluster off to outside feedback</code> → <code>seals the cluster off from outside feedback</code> — The phrasal construction “seal off” takes “from” when identifying what is excluded.
+- **Line 520:** <code>it effects the system's ability</code> → <code>it affects the system's ability</code> — Uses the required verb “affects” rather than the noun-derived “effects.”
+- **Line 520:** <code>This is long since why I have believed</code> → <code>This is why I have long believed</code> — Corrects a malformed adverb placement.
+- **Line 528:** <code>un-trustworthy</code> → <code>untrustworthy</code> — Corrects the spelling of “untrustworthy.”
+- **Line 528:** <code>And, a fact</code> → <code>And a fact</code> — Removes an unnecessary comma after the coordinating conjunction.
+- **Line 530:** <code>even if in full is has never appeared</code> → <code>even if in full it has never appeared</code> — Corrects the mistyped pronoun “is” to “it.”
+- **Line 530:** <code>reoganized</code> → <code>reorganized</code> — Corrects a spelling error.
+- **Line 534:** <code>while remaining poorly calibrated the training data</code> → <code>while remaining poorly calibrated because the training data</code> — Adds the missing conjunction needed to connect the causal clause.
+- **Line 534:** <code>making the field to distinguish</code> → <code>making the field distinguish</code> — Removes the ungrammatical infinitive marker after “making.”
+
+## 4. Emergence, Thresholds, and Creativity
+
+- **Line 560:** <code>qualityies</code> → <code>qualities</code> — Corrects a spelling error.
+- **Line 562:** <code>to correctly process</code> → <code>to be correctly processed</code> — The objects receive the processing, so the passive construction is required.
+- **Line 564:** <code>baseline.  When</code> → <code>baseline. When</code> — Removes the duplicated space after the period.
+- **Line 568:** <code>For instance in a sentence</code> → <code>For instance, in a sentence</code> — Adds the comma required after the introductory phrase “For instance.”
+- **Line 568:** <code>the relations of the features, and the features themselves</code> → <code>the relations of the features and the features themselves</code> — Removes an erroneous comma between two coordinated objects.
+- **Line 568:** <code>heart beat</code> → <code>heartbeat</code> — Corrects the spelling of the noun “heartbeat.”
+- **Line 580:** <code>your input history and field has learned</code> → <code>your input history and field have learned</code> — Corrects subject–verb agreement for the compound subject “input history and field.”
+- **Line 580:** <code>discontinous</code> → <code>discontinuous</code> — Corrects a spelling error.
+- **Line 580:** <code>this tweet by  because</code> → <code>this tweet because</code> — Removes a malformed attribution phrase containing a missing name and a duplicated space.
+- **Line 584:** <code>Lesswrong</code> → <code>LessWrong</code> — Corrects the capitalization of the proper name.
+- **Line 592:** <code>maybe be unavailable</code> → <code>may be unavailable</code> — Corrects the erroneous use of “maybe” in place of the verb phrase “may be.”
+- **Line 596:** <code>At the start, the path(s) to the endpoint is genuinely outside your representable space.</code> → <code>At the start, the path or paths to the endpoint are genuinely outside your representable space.</code> — The notation “path(s)” does not agree cleanly with the singular verb “is”; spelling out the alternatives and using “are” fixes the agreement.
+- **Line 598:** <code>too many minimizes</code> → <code>too many minimize</code> — Corrects subject–verb agreement.
+- **Line 598:** <code>too few constraints leaves</code> → <code>too few constraints leave</code> — Corrects subject–verb agreement.
+- **Line 598:** <code>boost creativity, too few cause</code> → <code>boost creativity; too few cause</code> — Corrects a comma splice between independent clauses.
+- **Line 602:** <code>constraintsm</code> → <code>constraints,</code> — Corrects an apparent mistyped “m” to the comma needed after the parenthetical example.
+- **Line 602:** <code>propertiesm</code> → <code>properties,</code> — Corrects an apparent mistyped “m” to the comma needed before the parenthetical example.
+
+## 5. Conflict, Control, and Suffering
+
+- **Line 614:** <code>name an emotion or define them</code> → <code>name an emotion or define it</code> — Corrects pronoun agreement with the singular antecedent “an emotion.”
+- **Line 614:** <code>This question has been attempted to be answered [*a lot*](https://plato.stanford.edu/entries/emotion/)*,* along with their load-bearing downstream effects on our mind-body system.</code> → <code>There have been [*a lot*](https://plato.stanford.edu/entries/emotion/) of attempts to answer this question and address emotions' load-bearing downstream effects on our mind-body system.</code> — The original passive construction is broken and “their” lacks a valid antecedent. The proposed replacement still leaves “answer this question a lot” awkward; this version repairs both problems while preserving the author’s wording where possible.
+- **Line 616:** <code>released or expressed, it is</code> → <code>released or expressed; it is</code> — Corrects a comma splice between independent clauses.
+- **Line 616:** <code>resuable</code> → <code>reusable</code> — Corrects a spelling error.
+- **Line 616:** <code>its definition and placement</code> → <code>their definition and placement</code> — Corrects pronoun-number disagreement with the plural antecedent “emotions.”
+- **Line 618:** <code>brew together which pulls</code> → <code>brew together, which pulls</code> — Adds the comma needed before the nonrestrictive clause referring to the preceding process.
+- **Line 618:** <code>it is clearly bodily signals</code> → <code>it is clear that bodily signals</code> — Corrects a plainly ungrammatical clause.
+- **Line 618:** <code>Taken as the field contains</code> → <code>Given that the field contains</code> — Corrects a malformed introductory construction.
+- **Line 620:** <code>everytime</code> → <code>every time</code> — Corrects the spelling of the adverbial phrase.
+- **Line 620:** <code>discrete, they</code> → <code>discrete; they</code> — Corrects a comma splice between two independent clauses.
+- **Line 622:** <code>move to state of avoidance</code> → <code>move to a state of avoidance</code> — Adds the missing article before the singular count noun “state.”
+- **Line 622:** <code>that relate to preferred states</code> → <code>that relates to preferred states</code> — Corrects subject–verb agreement with singular “way.”
+- **Line 622:** <code>They they organize</code> → <code>They organize</code> — Removes a duplicated word.
+- **Line 622:** <code>a sort of modulator that relate</code> → <code>a sort of modulator that relates</code> — Corrects subject–verb agreement with singular “modulator.”
+- **Line 622:** <code>built in to its known configuration</code> → <code>built into its known configuration</code> — Corrects the compound preposition “into.”
+- **Line 622:** <code>relates and connect</code> → <code>relates and connects</code> — Corrects subject–verb agreement in the coordinated verbs governed by singular “modulator.”
+- **Line 626:** <code>compressing nuanced ones into</code> → <code>compressing nuanced ones</code> — Removes a preposition that lacks an object and leaves the sentence incomplete.
+- **Line 626:** <code>high level, malleable organizations</code> → <code>high-level, malleable organizations</code> — Hyphenates a compound modifier before a noun.
+- **Line 626:** <code>as to activate readiness</code> → <code>so as to activate readiness</code> — Adds the missing “so” in the purpose construction “so as to.”
+- **Line 626:** <code>an emotional category itself, these are things</code> → <code>emotional categories themselves, these are things</code> — Corrects singular–plural agreement between the topic and “these.”
+- **Line 628:** <code>contractive sense it is</code> → <code>contractive since it is</code> — Corrects the mistaken word “sense” to the conjunction “since.”
+- **Line 628:** <code>mention contraction here, in the phenomenological sense</code> → <code>mention that contraction, in the phenomenological sense</code> — Corrects a malformed sentence by introducing the required content clause.
+- **Line 628:** <code>whether it is held with rigidity or making</code> → <code>whether they are held with rigidity or make</code> — Corrects pronoun agreement with plural “patterns” and restores grammatical parallelism.
+- **Line 628:** <code>interoceptive signals, creating a feedback loop</code> → <code>interoceptive signals, creates a feedback loop</code> — Supplies the finite verb needed to complete the sentence.
+- **Line 628:** <code>the high level organization</code> → <code>the high-level organization</code> — Hyphenates a compound modifier before a noun.
+- **Line 630:** <code>identity and friendship, both are valid</code> → <code>identity and friendship; both are valid</code> — Corrects a comma splice between independent clauses.
+- **Line 630:** <code>emotions are those that the high-level structure produces</code> → <code>emotions are those in which the high-level structure produces</code> — Corrects the malformed relative construction.
+- **Line 632:** <code>guaranteedß</code> → <code>guaranteed</code> — Removes an extraneous character.
+- **Line 634:** <code>the ladder is much more harmful</code> → <code>the latter is much more harmful</code> — Corrects the mistaken word “ladder” to “latter,” referring to suppression.
+- **Line 634:** <code>Hence why reappraisal and suppression</code> → <code>This is why reappraisal and suppression</code> — Corrects a sentence fragment.
+- **Line 634:** <code>or take different bodily action</code> → <code>or taking different bodily action</code> — Restores parallelism with the preceding gerund “changing.”
+- **Line 642:** <code>. Though friction and negative felt tone is most common here.</code> → <code>, though friction and negative felt tone are most common here.</code> — Joins the dependent clause to the preceding sentence and corrects subject-verb agreement for the compound subject.
+- **Line 642:** <code>you",”</code> → <code>you,”</code> — Remove mismatched duplicated closing quotation.
+- **Line 642:** <code>as cached such as</code> → <code>as a cached response, such as</code> — Supplied the missing noun and article in the example construction.
+- **Line 646:** <code>increasingly like in similar situations</code> → <code>increasingly likely in similar situations</code> — Corrects an obvious word-form error.
+- **Line 646:** <code>bodily thread signals</code> → <code>bodily threat signals</code> — Corrects the apparent misspelling of “threat.”
+- **Line 646:** <code>self reinforcing attractor</code> → <code>self-reinforcing attractor</code> — Hyphenates the compound modifier before the noun.
+- **Line 646:** <code>it make keep</code> → <code>it may keep</code> — Corrects an obvious typographical error in the modal verb.
+- **Line 650:** <code>Istead</code> → <code>Instead</code> — Corrects a spelling error.
+- **Line 650:** <code>safety for example,</code> → <code>safety, for example,</code> — Adds the missing comma before the parenthetical phrase.
+- **Line 650:** <code>structure preserving transformation</code> → <code>structure-preserving transformation</code> — Hyphenates the compound modifier before the noun.
+- **Line 652:** <code>long term health</code> → <code>long-term health</code> — Hyphenates the compound modifier before the noun.
+- **Line 656:** <code>are have high reachability</code> → <code>have high reachability</code> — Removes the duplicated auxiliary verb.
+- **Line 656:** <code>short horizon competitors</code> → <code>short-horizon competitors</code> — Hyphenates the compound modifier before the noun.
+- **Line 656:** <code>A long term target</code> → <code>A long-term target</code> — Hyphenates the compound modifier before the noun.
+- **Line 656:** <code>Self control</code> → <code>Self-control</code> — Corrects the standard hyphenation of the compound noun.
+- **Line 658:** <code>like somatic contraction more reachable</code> → <code>like somatic contraction, more reachable</code> — Adds the missing comma after the parenthetical example.
+- **Line 666:** <code>reducing enough of its magnitude as practically possible</code> → <code>reducing as much of its magnitude as practically possible</code> — Corrects the malformed comparative construction.
+- **Line 666:** <code>difference.&amp;nbsp;Technically,</code> → <code>difference. Technically,</code> — Replace the stray HTML nonbreaking-space entity with a normal space.
+- **Line 668:** <code>our field which is what</code> → <code>our field, which is what</code> — Adds the comma required before the nonrestrictive relative clause.
+- **Line 670:** <code>threatening of a target</code> → <code>a threat to a target</code> — Corrected the malformed noun phrase.
+- **Line 672:** <code>First order hurt</code> → <code>First-order hurt</code> — Hyphenate the compound modifier before the noun.
+- **Line 672:** <code>'fused to' or 'welded to' which seems</code> → <code>'fused to' or 'welded to,' which seems</code> — A comma is required before the supplementary relative clause introduced by “which.”
+- **Line 674:** <code>the target of</code> → <code>the target is</code> — The where-clause otherwise lacks a finite verb.
+- **Line 674:** <code>error.&amp;nbsp;Precision</code> → <code>error. Precision</code> — Replaced a stray nonbreaking-space entity with a normal space.
+- **Line 674:** <code>increase.&amp;nbsp;</code> → <code>increase.</code> — Removed a stray nonbreaking-space entity at the paragraph end.
+- **Line 683:** <code>Co-arising meaning</code> → <code>Co-arising means</code> — Fixes a malformed sentence fragment by supplying the finite verb.
+- **Line 699:** <code>representations, that bring about unpleasant sensations</code> → <code>representations that bring about unpleasant sensations</code> — The comma incorrectly separates the noun from its restrictive relative clause.
+- **Line 701:** <code>the latch itself, or contraction pattern stops</code> → <code>the latch itself, or contraction pattern, stops</code> — Adds the closing comma around the parenthetical alternative name.
+- **Line 703:** <code>a reaching towards of a target</code> → <code>a reaching towards a target</code> — Removes the extraneous preposition.
+- **Line 703:** <code>a mechanism as to prevent</code> → <code>a mechanism to prevent</code> — Removes the ungrammatical construction “as to prevent.”
+- **Line 703:** <code>Meaning, suffering can occur</code> → <code>That is, suffering can occur</code> — Fixes a malformed sentence fragment.
+- **Line 703:** <code>seen as the same way</code> → <code>seen in the same way</code> — The construction requires “in the same way,” not “as the same way.”
+- **Line 703:** <code>epistemic models in which it is buried deep into the field if contracted around enough</code> → <code>epistemic models: they can be buried deep in the field if contracted around enough</code> — The original pronoun and verb do not agree with “models,” and “in which” has no coherent relationship to its antecedent. A colon and independent clause make the smallest clear repair without implying that already-buried models are the ones affected.
+- **Line 703:** <code>bury priors deep into the body making them the default way of viewing things</code> → <code>bury priors deep into the body, making them the default way of viewing things</code> — The supplementary participial phrase expressing the result of the preceding clause requires a comma.
+- **Line 705:** <code>though practice like meditation</code> → <code>through practice like meditation</code> — Corrects the apparent typo in the preposition.
+- **Line 707:** <code>sense it is not organizing</code> → <code>since it is not organizing</code> — Corrects the misspelled conjunction.
+- **Line 707:** <code>be  not characterized</code> → <code>be not characterized</code> — Removes a duplicated space.
+- **Line 707:** <code>desire and pressure is what produces suffering</code> → <code>desire and pressure are what produce suffering</code> — Corrects subject-verb agreement for the compound subject.
+- **Line 707:** <code>the target itself which can be wholesome</code> → <code>the target itself, which can be wholesome</code> — A comma is required before the supplementary relative clause introduced by “which.”
+- **Line 709:** <code>it can produce apathy</code> → <code>they can produce apathy</code> — Corrects pronoun agreement with the plural antecedent “practices.”
+- **Line 709:** <code>or becomes disengagement somehow</code> → <code>or become disengagement somehow</code> — Corrects subject-verb agreement with the plural subject “practices.”
+- **Line 709:** <code>these practices that can help alleviate this type of suffering lowers</code> → <code>these practices that can help alleviate this type of suffering lower</code> — Corrects subject-verb agreement with the plural subject “practices.”
+- **Line 709:** <code>permance</code> → <code>permanence</code> — Corrects a spelling error.
+- **Line 709:** <code>like wanting of love or safety feel</code> → <code>like wanting of love or safety, feel</code> — Adds the closing comma for the parenthetical example.
+- **Line 711:** <code>permanace</code> → <code>permanence</code> — Corrects a spelling error.
+- **Line 711:** <code>regiestered</code> → <code>registered</code> — Corrects a spelling error.
+- **Line 711:** <code>succesfully</code> → <code>successfully</code> — Corrects a spelling error.
+- **Line 711:** <code>dissapointed</code> → <code>disappointed</code> — Corrects a spelling error.
+- **Line 711:** <code>assoaicted</code> → <code>associated</code> — Corrects a spelling error.
+- **Line 711:** <code>a another dessert</code> → <code>another dessert</code> — Removes a duplicated indefinite article.
+- **Line 711:** <code>indivual</code> → <code>individual</code> — Corrects a spelling error.
+- **Line 711:** <code>soley</code> → <code>solely</code> — Corrects a spelling error.
+- **Line 711:** <code>The cake is not the desired thing, what is desired</code> → <code>The cake is not the desired thing; what is desired</code> — Corrects a comma splice between independent clauses.
+- **Line 711:** <code>You do not desire the atoms of the thing, you desire the field configuration</code> → <code>You do not desire the atoms of the thing; you desire the field configuration</code> — Corrects a comma splice between independent clauses.
+- **Line 711:** <code>things are gestalts which organize input, they are not external objects</code> → <code>things are gestalts which organize input; they are not external objects</code> — Corrects a comma splice between independent clauses.
+- **Line 711:** <code>Underling</code> → <code>Underlying</code> — Corrects a spelling error.
+- **Line 711:** <code>whether it be desire for items, people, or states of being</code> → <code>whether they be desires for items, people, or states of being</code> — Pronoun–antecedent agreement: the plural antecedent “desires” requires “they,” not “it.”
+- **Line 713:** <code>a tool as to prevent collapse</code> → <code>a tool to prevent collapse</code> — Corrects a malformed infinitive construction.
+- **Line 715:** <code>IN theory</code> → <code>In theory</code> — Corrects capitalization.
+- **Line 717:** <code>conditions that used decrease background felt tone</code> → <code>conditions that used to decrease background felt tone</code> — Adds the missing word in the construction “used to.”
+- **Line 717:** <code>when a change in conditions drop you back</code> → <code>when a change in conditions drops you back</code> — Corrects subject-verb agreement: the singular subject “change” requires “drops.”
+- **Line 717:** <code>You feel better for a while, it becomes the norm</code> → <code>You feel better for a while; it becomes the norm</code> — Corrects a comma splice between independent clauses.
+- **Line 717:** <code>This allows our system to hold more slack for holding intensity and makes more field configurations easily reachable which results in fluidity.</code> → <code>This allows our system to hold more slack for holding intensity and makes more field configurations easily reachable, which results in fluidity.</code> — The singular verb “results” shows that the which-clause refers to the preceding proposition, not to the plural noun “configurations”; the clause therefore requires a comma.
+- **Line 717:** <code>Contraction is different, both dealing with mind and haptic contraction.</code> → <code>Contraction is different, whether dealing with mind contraction or haptic contraction.</code> — The original coordination is malformed. Repeating “contraction” after “mind” preserves the author’s terminology and makes the alternatives parallel.
+- **Line 719:** <code>first order hurt</code> → <code>first-order hurt</code> — Hyphenates a compound modifier before a noun.
+- **Line 719:** <code>These processes of suffering leads us</code> → <code>These processes of suffering lead us</code> — Corrects subject-verb agreement.
+
+## 6. Transparency
+
+- **Line 727:** <code>load bearing concept</code> → <code>load-bearing concept</code> — Hyphenates a compound modifier before a noun.
+- **Line 737:** <code>duck rabbit illusion</code> → <code>duck-rabbit illusion</code> — Hyphenates the compound modifier naming the illusion.
+- **Line 739:** <code>&amp;nbsp;</code> → <code></code> — Remove the stray HTML nonbreaking-space entity.
+- **Line 743:** <code>truth-making matter:</code> → <code>truth-making, matter:</code> — Closes the appositive phrase separating the subject from its verb.
+- **Line 743:** <code>updating cost comes from partly how many</code> → <code>updating cost comes partly from how many</code> — Corrects misplaced adverb in the prepositional phrase.
+- **Line 745:** <code>sitcky</code> → <code>sticky</code> — Corrects a spelling error.
+- **Line 745:** <code>hold hold</code> → <code>hold</code> — Removes a duplicated word.
+- **Line 753:** <code>is or was high ontological authority</code> → <code>is or was of high ontological authority</code> — The preposition “of” is required in the construction “be of high ontological authority.”
+- **Line 755:** <code>These students are no more stupid than you or me, they react as all the mathematicians in the world have reacted</code> → <code>These students are no more stupid than you or me; they react as all the mathematicians in the world have reacted</code> — Corrects a comma splice between two independent clauses.
+- **Line 757:** <code>here like, “When</code> → <code>here like “When</code> — Removes the incorrect comma between “like” and the example it introduces.
+- **Line 757:** <code>moreso</code> → <code>more so</code> — Corrects the standard spelling of the phrase.
+- **Line 757:** <code>which makes it harder to objectify</code> → <code>which makes them harder to objectify</code> — The pronoun must agree with and refer to the plural antecedent “categories and frames.”
+- **Line 759:** <code>there.&amp;nbsp;</code> → <code>there.</code> — Remove the stray HTML nonbreaking-space entity at the end of the paragraph.
+- **Line 759:** <code>towards&amp;nbsp;directly</code> → <code>towards directly</code> — Replace the stray HTML nonbreaking-space entity with a normal space.
+- **Line 761:** <code>contexts."</code> → <code>contexts.”</code> — Corrects the mismatched closing quotation mark.
+- **Line 761:** <code>rather, "what</code> → <code>rather, “what</code> — Corrects the mismatched opening quotation mark.
+- **Line 761:** <code>but rather, “what should we give authority to, how much to give, and in what contexts.”</code> → <code>but rather “what should we give authority to, how much to give, and in what contexts.”</code> — The comma incorrectly separates “rather” from the quoted complement that follows it.
+- **Line 767:** <code>Bear in mind, simply moving</code> → <code>Bear in mind simply moving</code> — Removes the comma incorrectly separating the verb from its complement.
+- **Line 767:** <code>just a fast heart beat.</code> → <code>just a fast heartbeat.</code> — Corrects the spelling of “heartbeat.”
+- **Line 767:** <code>parts like a fast heart beat,</code> → <code>parts like a fast heartbeat,</code> — Corrects the spelling of “heartbeat.”
+- **Line 767:** <code>Given low authority, we can see</code> → <code>When it is given low authority, we can see</code> — Corrects a dangling introductory modifier; the gestalt, not “we,” is given low authority.
+- **Line 767:** <code>a gestalt that if given enough ontological authority, can</code> → <code>a gestalt that, if given enough ontological authority, can</code> — Adds the opening comma for the parenthetical conditional phrase.
+- **Line 767:** <code>over generalization</code> → <code>overgeneralization</code> — Corrects the spelling of the compound noun.
+- **Line 773:** <code>Crucially when trying to achieve high transparency, this can be</code> → <code>Crucially, trying to achieve high transparency can be</code> — Corrects a dangling modifier and adds the comma after the introductory adverb.
+- **Line 775:** <code>expect for the change</code> → <code>expect the change</code> — The verb “expect” takes a direct object here, without “for.”
+- **Line 775:** <code>before it they become triggered</code> → <code>before if they become triggered</code> — “It” is an evident typo for the conditional conjunction “if.”
+- **Line 775:** <code>month long break</code> → <code>month-long break</code> — The compound modifier before “break” requires a hyphen.
+- **Line 775:** <code>same– someone</code> → <code>same—someone</code> — An em dash, not an en dash, is required for this break in the sentence.
+- **Line 775:** <code>would– what</code> → <code>would—what</code> — An em dash, not an en dash, is required for this break in the sentence.
+- **Line 775:** <code>even if tired or has poor external circumstances</code> → <code>even if they are tired or have poor external circumstances</code> — The original lacks a subject for the coordinated conditional predicates and mixes incompatible constructions.
+- **Line 775:** <code>someone with high equanimity and can see through</code> → <code>someone with high equanimity who can see through</code> — The original coordination is ungrammatical; “who” introduces the relative clause modifying “someone.”
+- **Line 775:** <code>ladder</code> → <code>latter</code> — “Latter” is the word referring to the second of the two previously mentioned conditions.
+- **Line 775:** <code>helps</code> → <code>help</code> — The compound subject “transparency and equanimity” requires a plural verb.
+- **Line 775:** <code>the condition in which whether the field latches onto a state in the first place</code> → <code>the condition that determines whether the field latches onto a state in the first place</code> — “In which whether” creates a broken clause construction; “that determines whether” supplies the required grammatical relationship.
+- **Line 777:** <code>predict difficulty to see as transparent</code> → <code>predicts difficulty in seeing them as transparent</code> — The singular head noun “depth” requires “predicts,” and “difficulty in seeing them” supplies the grammatically required construction and object.
+- **Line 779:** <code>depends on it which makes</code> → <code>depends on it, which makes</code> — A comma is required before the nonrestrictive relative clause.
+- **Line 779:** <code>happening to me” which</code> → <code>happening to me,” which</code> — A comma is required before the nonrestrictive relative clause.
+- **Line 779:** <code>For instance if</code> → <code>For instance, if</code> — The introductory phrase requires a following comma.
+- **Line 781:** <code>again, long enough time spent in the cast and the literal</code> → <code>again; after enough time spent in the cast, the literal</code> — This corrects the comma splice and supplies a grammatical temporal clause.
+- **Line 781:** <code>short term you</code> → <code>in the short term, you</code> — The introductory time phrase requires the preposition and comma.
+- **Line 781:** <code>releasing the contraction and restoring the patterns that were closed off becomes</code> → <code>releasing the contraction and restoring the patterns that were closed off become</code> — The compound subject requires the plural verb “become.”
+- **Line 785:** <code>the contraction latches which then confirms</code> → <code>the contraction latches, which then confirms</code> — A comma is required before the nonrestrictive relative clause.
+- **Line 785:** <code>aversion, as the only available action policy</code> → <code>aversion as the only available action policy</code> — The comma incorrectly separates the object of “leaves” from its complement.
+- **Line 785:** <code>first order hurt</code> → <code>first-order hurt</code> — The compound modifier before “hurt” requires a hyphen.
+- **Line 785:** <code>And in general this</code> → <code>And in general, this</code> — Punctuate introductory phrase.
+- **Line 787:** <code>remove the basin though since</code> → <code>remove the basin, though, since</code> — The interrupting adverb “though” requires commas.
+- **Line 789:** <code>structures which has</code> → <code>structures, which has</code> — The likely referent of “which” is the preceding strategy of targeting generative structures, not “structures” alone; a comma makes that clause-level reference grammatical while preserving the singular verb.
+- **Line 789:** <code>these types of changes however will</code> → <code>these types of changes, however, will</code> — The interrupting conjunctive adverb requires commas.
+- **Line 789:** <code>transparency effects structure</code> → <code>transparency affects structure</code> — “Affects” is the required verb meaning “influences.”
+- **Line 789:** <code>made obvious which reduces</code> → <code>made obvious, which reduces</code> — A comma is required before the nonrestrictive relative clause.
+- **Line 789:** <code>Importantly when</code> → <code>Importantly, when</code> — Punctuate introductory adverb.
+- **Line 791:** <code>the core action policy of craving and aversion loses the structure it was using as a substrate and that policy stops being the only available response</code> → <code>the core action policy of craving and aversion loses the structure it was using as a substrate, and that policy stops being the only available response</code> — A comma is required before “and” because it joins two independent clauses with separate subjects.
+- **Line 793:** <code>less resources</code> → <code>fewer resources</code> — “Resources” is a plural count noun and therefore takes “fewer.”
+- **Line 793:** <code>makes the surprise of resonance or friction propagates</code> → <code>makes the surprise of resonance or friction propagate</code> — After causative “makes,” the verb must be in the bare infinitive form.
+- **Line 793:** <code>high authority structure</code> → <code>high-authority structure</code> — The compound modifier before “structure” requires a hyphen.
+- **Line 793:** <code>a field with more available branches which makes the surprise of resonance or friction propagate through less structure</code> → <code>a field with more available branches, which makes the surprise of resonance or friction propagate through less structure</code> — The singular verb “makes” shows that “which” refers to the preceding situation rather than restrictively modifying the plural noun “branches,” so a comma is required.
+- **Line 797:** <code>the opposite of sensory clarity and transparency causes</code> → <code>the opposite of sensory clarity and transparency, causes</code> — Close the appositive phrase with a comma.
+- **Line 797:** <code>priors which means</code> → <code>priors, which means</code> — Add a comma before a nonrestrictive clause referring to the preceding statement.
+- **Line 797:** <code>those which means</code> → <code>those, which means</code> — Add a comma before a nonrestrictive clause referring to the preceding statement.
+- **Line 799:** <code>authority, there</code> → <code>authority; there</code> — Corrects a comma splice between two independent clauses.
+- **Line 801:** <code>Acting firmly while holding a gestalt with low ontological authority are not</code> → <code>Acting firmly while holding a gestalt with low ontological authority is not</code> — The gerund phrase functioning as the subject is singular.
+- **Line 801:** <code>Then action may be firm but in no way can they enter the loop of refinement oriented towards truth-making which would allow them to see the belief as transparent.</code> → <code>Then action may be firm, but in no way can they enter the loop of refinement oriented towards truth-making which would allow them to see the belief as transparent.</code> — A comma is required before “but” because it joins two independent clauses.
+
+## 7. Sanity, Wisdom, and Practice
+
+- **Line 811:** <code>held transparently, that they are made</code> → <code>held transparently and that they are made</code> — Add the missing conjunction between the two coordinated clauses governed by “established.”
+- **Line 811:** <code>they are made</code> → <code>it is made</code> — Corrects pronoun disagreement with the singular antecedent “any gestalt.”
+- **Line 824:** <code>which is so overwhelming complicated</code> → <code>which is so overwhelmingly complicated</code> — “Overwhelmingly” must be the adverb modifying “complicated.”
+- **Line 836:** <code>confusion and suffering sets in</code> → <code>confusion and suffering set in</code> — The compound subject requires a plural verb.
+- **Line 836:** <code>Moving up the ladder is an act of compression by dropping details into high-level patterns which collapses a dense data set.</code> → <code>Moving up the ladder is an act of compression by dropping details into high-level patterns which collapse a dense data set.</code> — The relative-clause verb must agree with its plural antecedent, “patterns.”
+- **Line 848:** <code>decising</code> → <code>deciding</code> — Objective misspelling.
+- **Line 850:** <code>every time it answer.</code> → <code>every time it answers.</code> — The singular subject “it” requires “answers.”
+- **Line 854:** <code>Wise Old Child" Vacha states</code> → <code>Wise Old Child," Vacha states</code> — Add the comma separating the quotation from its attribution.
+- **Line 854:** <code>I think the optimal state</code> → <code>"I think the optimal state</code> — Add the missing opening quotation mark for the statement attributed to Vacha.
+- **Line 858:** <code>But, we would</code> → <code>But we would</code> — Remove the incorrect comma after the coordinating conjunction.
+- **Line 860:** <code>holding gestalts as transparent that we must use for structure</code> → <code>holding gestalts that we must use for structure as transparent</code> — Corrects the malformed placement of the relative clause.
+- **Line 860:** <code>Here, you do not acquire wisdom by just adopting the correct model, you understand it</code> → <code>Here, you do not acquire wisdom by just adopting the correct model; you understand it</code> — Corrects a comma splice between two independent clauses.
+- **Line 860:** <code>what  .</code> → <code>what.</code> — Removes the malformed double space before the period.
+- **Line 860:** <code>This makes negation easier to describe wisdom</code> → <code>This makes wisdom easier to describe through negation</code> — Corrected the misplaced phrase without changing the claim.
+- **Line 860:** <code>preventing their dependency tree from containing what.</code> → <code>preventing their dependency tree from containing what is needed.</code> — The original ends with an incomplete fused-relative construction. This is a smaller, less repetitive completion than “what it needs to contain.”
+- **Line 860:** <code>after-the-fact</code> → <code>after the fact</code> — The phrase is adverbial here; “after-the-fact” is the hyphenated adjectival form.
+- **Line 864:** <code>intellctual</code> → <code>intellectual</code> — Corrects a spelling error.
+- **Line 864:** <code>there is no global endpoint here, there never is to insight</code> → <code>there is no global endpoint here; there never is to insight</code> — Corrects a comma splice between independent clauses.
+- **Line 864:** <code>what alternatives that is preventing you from seeing</code> → <code>what alternatives it is preventing you from seeing</code> — Replaces the incorrect demonstrative with the pronoun referring back to the gestalt.
+- **Line 864:** <code>there never is to insight</code> → <code>there never is an end to insight</code> — Restored the missing noun in the idiom “an end to.”
+- **Line 864:** <code>recognize it as a construction and which level of abstraction it sits at like being too detailed or too broad</code> → <code>recognize it as a construction and recognize the level of abstraction it sits at, such as whether it is too detailed or too broad</code> — The original coordination is broken, but the proposal narrows “which level” to only two alternatives. This version restores parallel grammar while preserving the broader idea of identifying the level.
+- **Line 866:** <code>about arrive at</code> → <code>about arriving at</code> — A gerund is required after the preposition “about.”
+- **Line 866:** <code>Sanity and wisdom is</code> → <code>Sanity and wisdom are</code> — Corrects subject-verb agreement for a compound subject.
+- **Line 866:** <code>It is understanding</code> → <code>They are about understanding</code> — The singular pronoun and predicate do not agree with the plural antecedent “Sanity and wisdom”; the replacement also completes the contrast with “are not about” in the preceding sentence.
+- **Line 868:** <code>quote that eloquently capture</code> → <code>quote that eloquently captures</code> — Corrects subject-verb agreement with singular “quote.”
+- **Line 872:** <code>those who has the naivety</code> → <code>those who have the naivety</code> — Subject–verb agreement: the plural antecedent “those” requires “have,” not “has.”
+- **Line 882:** <code>demands are made onto the world</code> → <code>demands are made on the world</code> — Corrects the preposition in the construction “make demands on.”
+- **Line 884:** <code>not only is important for pragmatic applications of theoretical thought, but inspecting</code> → <code>is important not only for pragmatic applications of theoretical thought, but also for inspecting</code> — Restores grammatical parallelism in the “not only ... but also” construction.
+- **Line 886:** <code>periods like consolidation while sleeping supports</code> → <code>periods like consolidation while sleeping support</code> — Corrects subject-verb agreement with plural “periods.”
+- **Line 886:** <code>the current field, repetition</code> → <code>the current field; repetition</code> — Corrects a comma splice in a series of independent clauses.
+- **Line 886:** <code>right now, dwelling</code> → <code>right now; dwelling</code> — Corrects a comma splice in a series of independent clauses.
+- **Line 886:** <code>attention changes is what is available</code> → <code>attention changes what is available</code> — Removes the extraneous verb that makes the clause ungrammatical.
+- **Line 888:** <code>feedback containing contradiction</code> → <code>feedback containing a contradiction</code> — Adds the missing article before the singular count noun “contradiction.”
+- **Line 888:** <code>different speeds which matters</code> → <code>different speeds, which matters</code> — Adds the comma required before a nonrestrictive “which” clause.
+- **Line 888:** <code>rewriting a sentence, updating</code> → <code>rewriting a sentence; updating</code> — Replaced a comma splice between independent clauses.
+- **Line 890:** <code>open in the field, too many constraints</code> → <code>open in the field; too many constraints</code> — Corrects a comma splice between independent constructions.
+- **Line 890:** <code>Too few constraints on the practice creates</code> → <code>Too few constraints on the practice create</code> — Corrects subject-verb agreement with plural “constraints.”
+- **Line 890:** <code>unable to access it under states</code> → <code>unable to access them under states</code> — Corrects pronoun agreement with plural “abilities.”
+- **Line 890:** <code>task at hand, slack</code> → <code>task at hand; slack</code> — The comma joins two independent clauses.
+- **Line 896:** <code>The words, the notation, is making</code> → <code>The words, the notation, are making</code> — Corrects subject–verb agreement with the plural subject “words.”
+- **Line 896:** <code>taking wanting to practice a conversational skill, this</code> → <code>take wanting to practice a conversational skill: this</code> — Fixes a dangling participial construction and the resulting comma splice while preserving the example.
+- **Line 896:** <code>Saying this, not all practice necessarily involves using this loop exactly as stated</code> → <code>That said, not all practice necessarily involves using this loop exactly as stated</code> — “Saying this” is a dangling participial modifier because the grammatical subject that follows (“not all practice”) is not doing the saying.
+- **Line 900:** <code>possible, naturally our system</code> → <code>possible; naturally our system</code> — Corrects a comma splice between independent clauses.
+- **Line 900:** <code>Of course often</code> → <code>Of course, often</code> — Adds the comma required after the introductory expression “Of course.”
+- **Line 900:** <code>frees attention assuming targets remain stable</code> → <code>frees attention, assuming targets remain stable</code> — Adds the comma needed before the supplementary participial clause.
+- **Line 900:** <code>changes is crucial</code> → <code>changes are crucial</code> — Corrects agreement with the compound subject “The mechanics of practice and what it structurally changes.”
+- **Line 904:** <code>as to not be reliant</code> → <code>so as not to be reliant</code> — Corrects the malformed purpose construction.
+- **Line 904:** <code>Therefore understanding invariants</code> → <code>Therefore, understanding invariants</code> — Adds the comma required after the introductory conjunctive adverb.
+- **Line 906:** <code>.  This resembles</code> → <code>. This resembles</code> — Removes a duplicated space after the period.
+- **Line 906:** <code>reconstruct the problem entirely different</code> → <code>reconstruct the problem entirely differently</code> — Replaces the adjective with the adverb required to modify “reconstruct.”
+- **Line 906:** <code>problem, their fields</code> → <code>problem; their fields</code> — Corrects a comma splice between independent clauses.
+- **Line 908:** <code>High quality training data</code> → <code>High-quality training data</code> — Hyphenates a compound modifier before a noun.
+- **Line 908:** <code>concrete examples which makes them valuable</code> → <code>concrete examples, which makes them valuable</code> — Adds the comma needed for a relative clause referring to the preceding proposition.
+- **Line 908:** <code>transformations– comparing</code> → <code>transformations – comparing</code> — Add the missing space before the spaced en dash.
+- **Line 910:** <code>as to remain open</code> → <code>so as to remain open</code> — Corrects the malformed purpose construction.
+- **Line 910:** <code>, and to not hold gestalts</code> → <code> and not holding gestalts</code> — Restores parallel structure with “acting.”
+- **Line 910:** <code>as to not hold current models</code> → <code>so as not to hold current models</code> — Corrects the malformed purpose construction.
+

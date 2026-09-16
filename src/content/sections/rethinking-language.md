@@ -1,6 +1,6 @@
 ---
-title: Rethinking Representations
-sectionNumber: '8.1'
+title: Rethinking Language
+sectionNumber: '8.2'
 parentNumber: '8'
 summary: Rethinking Representations
 draft: true
