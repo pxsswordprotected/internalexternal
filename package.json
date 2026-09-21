@@ -12,6 +12,7 @@
     "@keystatic/core": "^0.6.4",
     "@keystatic/next": "^5.0.4",
     "@markdoc/markdoc": "^0.5.8",
+    "@mdxeditor/editor": "4.2.5",
     "next": "^16.2.12",
     "react": "^19.2.8",
     "react-dom": "^19.2.8"

@@ -81,22 +81,8 @@ function serializeNode(node: Node): string {
       return "";
     case "image":
       return typeof node.attributes.alt === "string" ? node.attributes.alt : "";
-    case "tag": {
-      if (node.tag === "Diagram") {
-        const caption = node.attributes.caption;
-        const description = node.attributes.description;
-        const visibleText =
-          typeof caption === "string" && caption.length > 0
-            ? caption
-            : typeof description === "string"
-              ? description
-              : "";
-
-        return visibleText.length > 0 ? `${visibleText}\n\n` : "";
-      }
-
+    case "tag":
       return serializeChildren(node);
-    }
     default:
       return serializeChildren(node);
   }

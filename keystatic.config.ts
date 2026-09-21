@@ -1,5 +1,4 @@
 import { collection, config, fields, singleton } from "@keystatic/core";
-import { block } from "@keystatic/core/content-components";
 
 const richText = (label: string) =>
   fields.markdoc({
@@ -10,32 +9,6 @@ const richText = (label: string) =>
         directory: "public/images/sections",
         publicPath: "/images/sections/",
       },
-    },
-    components: {
-      Diagram: block({
-        label: "Diagram",
-        schema: {
-          name: fields.text({
-            label: "Diagram component name",
-            description:
-              "The matching component must be implemented before this diagram can render.",
-          }),
-          caption: fields.text({ label: "Caption", multiline: true }),
-          description: fields.text({
-            label: "Accessible description",
-            multiline: true,
-          }),
-          layout: fields.select({
-            label: "Layout",
-            options: [
-              { label: "Reading column", value: "column" },
-              { label: "Wide", value: "wide" },
-              { label: "Full width", value: "full" },
-            ],
-            defaultValue: "wide",
-          }),
-        },
-      }),
     },
   });
 

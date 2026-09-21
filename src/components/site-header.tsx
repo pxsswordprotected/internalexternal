@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { getSections, getSettings } from "@/lib/content";
+import { InlineEditToggle } from "@/components/inline-editor/inline-edit-toggle";
 
 export async function SiteHeader() {
   const [settings, sections] = await Promise.all([getSettings(), getSections()]);
@@ -12,6 +13,7 @@ export async function SiteHeader() {
         <div className="masthead__utilities">
           <span className="masthead__version" aria-disabled="true">Version log</span>
           <Link className="masthead__tools" href="/edit-sections">Essay section tools</Link>
+          {process.env.NODE_ENV === "development" ? <InlineEditToggle /> : null}
         </div>
       </div>
       <nav className="contents" aria-label="Essay sections">

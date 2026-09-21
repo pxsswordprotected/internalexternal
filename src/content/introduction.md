@@ -1,6 +1,11 @@
 ---
 title: Introduction
 ---
+Humanity's story, or rather that of a “universal” story, is characterized by increasing specificity. As things march along the ever-so-progressive process of entropic evolution, what naturally arises is a sense of increase in complexity. More and more things start to connect and depend on each other, creating systems that have feedback loops and downstream effects, eventually becoming incredibly chaotic. But through this process is a demarcation of specificity, the act of things becoming more pointy.&#x20;
+
+The human story very obviously outlines this: we’ve gone from primitive living in caves to developing and living in chaotic cities with vast interconnected economic systems and advanced architecture, something a human from even a few thousand years ago could literally never imagine. It is clear the action and adjective of creativity is of upmost importance here, as without it, the human species would be doomed to a state of static repetition, something seen in even our closest relatives, chimpanzees, [who cannot innovate tools across generations](https://en.wikipedia.org/wiki/Ratchet_effect#Cultural_anthropology). But what makes human specificity special? Specifically, why does our biology and downstream phenomenology allow for such impactful things?&#x20;
+
+I want to try to answer this in my own terms using my own reasoning, working with years of experience studying human perception, psychology, and behavior as an amateur. In this piece, I attempt to sketch out a working ontology explaining what we are doing in perception that is so important, and how this affects what we do and the systems we participate in. I do posit some riskable predictions that have their own consequences, but most of this work is a synthesis of past work done by many others. After all, this is the human story right? Drawing on current knowledge and taking steps to go into a specific direction is one way we are special as a species. I do not claim to have solved anything, or that my work is 100% correct in all areas, or I am an expert so you should take my word for it, but I do think my generative reframing of certain problems is valuable and has practical implications.
 
 > “There is indeed the inexpressible. This shows itself; it is the mystical.”
 >

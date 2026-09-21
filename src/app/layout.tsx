@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import localFont from "next/font/local";
 import { SiteHeader } from "@/components/site-header";
+import { InlineEditProvider } from "@/components/inline-editor/inline-edit-provider";
 import "./globals.css";
 
 const neueMontreal = localFont({
@@ -30,8 +31,10 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
         <a className="skip-link" href="#main-content">
           Skip to content
         </a>
-        <SiteHeader />
-        {children}
+        <InlineEditProvider>
+          <SiteHeader />
+          {children}
+        </InlineEditProvider>
       </body>
     </html>
   );

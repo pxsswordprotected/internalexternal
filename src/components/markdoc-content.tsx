@@ -1,47 +1,6 @@
-import Markdoc, { type Config, type Node } from "@markdoc/markdoc";
+import Markdoc, { type Node } from "@markdoc/markdoc";
 import React from "react";
-
-interface DiagramProps {
-  name?: string;
-  caption?: string;
-  description?: string;
-  layout?: "column" | "wide" | "full";
-}
-
-function Diagram({
-  name = "[PLACEHOLDER: Name this diagram]",
-  caption,
-  description,
-  layout = "wide",
-}: DiagramProps) {
-  return (
-    <figure className={`diagram diagram--${layout}`}>
-      <div className="diagram__placeholder" role="img" aria-label={description}>
-        [PLACEHOLDER: Implement diagram “{name}”]
-      </div>
-      {caption ? <figcaption>{caption}</figcaption> : null}
-    </figure>
-  );
-}
-
-const markdocConfig: Config = {
-  tags: {
-    Diagram: {
-      render: "Diagram",
-      selfClosing: true,
-      attributes: {
-        name: { type: String },
-        caption: { type: String },
-        description: { type: String },
-        layout: {
-          type: String,
-          matches: ["column", "wide", "full"],
-          default: "wide",
-        },
-      },
-    },
-  },
-};
+import { getMarkdocValidationMessages } from "@/lib/markdoc";
 
 interface MarkdocContentProps {
   content: () => Promise<{ node: Node }>;
@@ -49,21 +8,19 @@ interface MarkdocContentProps {
 
 export async function MarkdocContent({ content }: MarkdocContentProps) {
   const { node } = await content();
-  const errors = Markdoc.validate(node, markdocConfig);
+  const errors = getMarkdocValidationMessages(node);
 
   if (errors.length > 0) {
     throw new Error(
-      `Invalid essay content: ${errors.map((error) => error.error.message).join(", ")}`,
+      `Invalid essay content: ${errors.join(", ")}`,
     );
   }
 
-  const renderable = Markdoc.transform(node, markdocConfig);
+  const renderable = Markdoc.transform(node);
 
   return (
     <div className="prose">
-      {Markdoc.renderers.react(renderable, React, {
-        components: { Diagram },
-      })}
+      {Markdoc.renderers.react(renderable, React)}
     </div>
   );
 }

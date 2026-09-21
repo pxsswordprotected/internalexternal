@@ -1,3 +1,4 @@
+import { InlineEditableSection } from "@/components/inline-editor/inline-editable-section";
 import { MarkdocContent } from "@/components/markdoc-content";
 import { getIntroduction, getSections } from "@/lib/content";
 
@@ -10,21 +11,35 @@ export default async function Home() {
   return (
     <main id="main-content" className="page-shell continuous-essay">
       <article>
-        <section id="introduction">
-          <h1>Introduction</h1>
+        <InlineEditableSection
+          documentRef={{ kind: "introduction" }}
+          label="Introduction"
+          id="introduction"
+          headingLevel="h1"
+          heading="Introduction"
+        >
           <MarkdocContent content={introduction.content} />
-        </section>
+        </InlineEditableSection>
         {sections.map(({ slug, entry }) => {
-          const Heading = entry.parentNumber ? "h3" : "h2";
+          const headingLevel = entry.parentNumber ? "h3" : "h2";
+          const heading = (
+            <>
+              {entry.sectionNumber ? `${entry.sectionNumber} ` : ""}
+              {entry.title}
+            </>
+          );
           return (
-            <section
+            <InlineEditableSection
               key={slug}
+              documentRef={{ kind: "section", slug }}
+              label={entry.sectionNumber ? `${entry.sectionNumber} ${entry.title}` : entry.title}
               id={`section-${slug}`}
               className={entry.parentNumber ? "essay-subsection" : "essay-section"}
+              headingLevel={headingLevel}
+              heading={heading}
             >
-              <Heading>{entry.sectionNumber ? `${entry.sectionNumber} ` : ""}{entry.title}</Heading>
               <MarkdocContent content={entry.content} />
-            </section>
+            </InlineEditableSection>
           );
         })}
       </article>
