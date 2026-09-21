@@ -82,6 +82,7 @@ export default async function EditSectionsPage() {
           >
             Open Keystatic section list
           </Link>
+          <Link href="/keystatic/singleton/introduction">Edit introduction</Link>
           <CopyAllButton />
         </div>
       </header>

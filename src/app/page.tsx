@@ -1,73 +1,33 @@
-import Link from "next/link";
 import { MarkdocContent } from "@/components/markdoc-content";
-import { getIntroduction, getSections, getSettings } from "@/lib/content";
+import { getIntroduction, getSections } from "@/lib/content";
 
 export default async function Home() {
-  const [introduction, sections, settings] = await Promise.all([
+  const [introduction, sections] = await Promise.all([
     getIntroduction(),
     getSections(),
-    getSettings(),
   ]);
-  const topLevel = sections.filter((section) => !section.entry.parentNumber);
 
   return (
-    <main id="main-content" className="page-shell">
-      <article className="article-header">
-        <p className="eyebrow">Introduction</p>
-        <h1>{introduction.title}</h1>
-        <p className="byline">
-          {settings.author} · {settings.publicationDate}
-        </p>
-        <MarkdocContent content={introduction.content} />
+    <main id="main-content" className="page-shell continuous-essay">
+      <article>
+        <section id="introduction">
+          <h1>Introduction</h1>
+          <MarkdocContent content={introduction.content} />
+        </section>
+        {sections.map(({ slug, entry }) => {
+          const Heading = entry.parentNumber ? "h3" : "h2";
+          return (
+            <section
+              key={slug}
+              id={`section-${slug}`}
+              className={entry.parentNumber ? "essay-subsection" : "essay-section"}
+            >
+              <Heading>{entry.sectionNumber ? `${entry.sectionNumber} ` : ""}{entry.title}</Heading>
+              <MarkdocContent content={entry.content} />
+            </section>
+          );
+        })}
       </article>
-
-      <section className="contents" aria-labelledby="contents-heading">
-        <h2 id="contents-heading">Table of contents</h2>
-        <ol className="contents__list">
-          {topLevel.map((section) => {
-            const children = sections.filter(
-              (candidate) => candidate.entry.parentNumber === section.entry.sectionNumber,
-            );
-
-            return (
-              <li className="contents__group" key={section.slug}>
-                <Link className="contents__entry" href={`/sections/${section.slug}`}>
-                  <span className="contents__number">{section.entry.sectionNumber}.</span>
-                  <span>
-                    <strong>{section.entry.title}</strong>
-                    <span className="contents__summary placeholder">
-                      {section.entry.summary}
-                    </span>
-                  </span>
-                </Link>
-
-                {children.length > 0 ? (
-                  <ol className="contents__children">
-                    {children.map((child) => (
-                      <li key={child.slug}>
-                        <Link className="contents__entry" href={`/sections/${child.slug}`}>
-                          <span className="contents__number">{child.entry.sectionNumber}</span>
-                          <span>
-                            <strong>{child.entry.title}</strong>
-                            <span className="contents__summary placeholder">
-                              {child.entry.summary}
-                            </span>
-                          </span>
-                        </Link>
-                      </li>
-                    ))}
-                  </ol>
-                ) : null}
-              </li>
-            );
-          })}
-        </ol>
-      </section>
-
-      <aside className="placement-note">
-        <p>[PLACEHOLDER: Decide where the existing unnumbered opening draft belongs]</p>
-        <Link href="/draft-opening">Review preserved opening text</Link>
-      </aside>
     </main>
   );
 }

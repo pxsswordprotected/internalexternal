@@ -41,7 +41,7 @@ const richText = (label: string) =>
 
 export default config({
   storage: { kind: "local" },
-  ui: { brand: { name: "The Problem of Expression" } },
+  ui: { brand: { name: "Internal, then External" } },
   collections: {
     sections: collection({
       label: "Essay sections",
