@@ -1,11 +1,10 @@
 ---
-title: "Intuition {check whole for ai}"
-sectionNumber: "3.2"
-parentNumber: "3"
-summary: "[PLACEHOLDER: Add section summary]"
+title: 'Intuition '
+sectionNumber: '3.2'
+parentNumber: '3'
+summary: '[PLACEHOLDER: Add section summary]'
 draft: true
 ---
-
 Intuition is your priors, your implicit structure, speaking directly. It is the field generating a salient representation or feeling before any explicit derivation. It is salient because the field gives it enough precision to make it worth attending to. Intuition is not experienced as algorithmic, but is a valuable signal about experience. The result is fast and pre-verbal, and it does not land in the notational layer, but in either the representational or embodied layer. Intuition is not itself a fit signal: a fit signal reports whether something satisfies the current field, while intuition is the rapid process by which something salient is generated. Results of intuition, like having a feeling that two things connect, are handed to you by the field, which is why an externalization or representation generated from intuition can reveal information about experience.
 
 Intuition reaches toward possibilities through positive differences in felt tone and pulls back through negative differences. This is why a feeling of something being “off” is still a matter of intuition: the field is handing you a pre-verbal embodied assessment of fit before you have derived it step by step.

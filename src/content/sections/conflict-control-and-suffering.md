@@ -1,9 +1,5 @@
 ---
-title: "Conflict, Control, and Suffering"
-sectionNumber: "5"
-parentNumber: ""
-summary: "[PLACEHOLDER: Add section summary]"
+title: 'Emotions, Conflict & Suffering '
+sectionNumber: '5'
 draft: true
 ---
-
-[PLACEHOLDER: Add section introduction]

@@ -1,5 +1,5 @@
 ---
-title: Creativity and Structural Thresholds
+title: Structural Thresholds in Search Spaces & Creativity
 sectionNumber: '4.2'
 parentNumber: '4'
 summary: '[PLACEHOLDER: Add section summary]'
