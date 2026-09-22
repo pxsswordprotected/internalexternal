@@ -1,10 +1,33 @@
 import Link from "next/link";
+import { EssayContentsNav } from "@/components/essay-contents-nav";
 import { getSections, getSettings } from "@/lib/content";
 import { InlineEditToggle } from "@/components/inline-editor/inline-edit-toggle";
 
 export async function SiteHeader() {
   const [settings, sections] = await Promise.all([getSettings(), getSections()]);
   const firstRoot = sections.find((section) => section.entry.sectionNumber && !section.entry.parentNumber);
+  const contentsItems = [
+    {
+      targetId: "introduction",
+      href: "/#introduction",
+      label: "Introduction",
+      slug: null,
+      sectionNumber: null,
+      parentNumber: null,
+      grouped: false,
+    },
+    ...sections.map((section) => ({
+      targetId: `section-${section.slug}`,
+      href: `/#section-${section.slug}`,
+      label: `${section.entry.sectionNumber ? `${section.entry.sectionNumber} ` : ""}${section.entry.title}`,
+      slug: section.slug,
+      sectionNumber: section.entry.sectionNumber,
+      parentNumber: section.entry.parentNumber,
+      grouped:
+        !section.entry.sectionNumber ||
+        (!section.entry.parentNumber && section !== firstRoot),
+    })),
+  ];
 
   return (
     <header className="site-header">
@@ -16,21 +39,7 @@ export async function SiteHeader() {
           {process.env.NODE_ENV === "development" ? <InlineEditToggle /> : null}
         </div>
       </div>
-      <nav className="contents" aria-label="Essay sections">
-        <ol className="contents__list">
-          <li><Link href="/#introduction">Introduction</Link></li>
-          {sections.map((section) => (
-            <li
-              key={section.slug}
-              className={!section.entry.sectionNumber || (!section.entry.parentNumber && section !== firstRoot) ? "contents__group" : undefined}
-            >
-              <Link href={`/#section-${section.slug}`}>
-                {section.entry.sectionNumber ? `${section.entry.sectionNumber} ` : ""}{section.entry.title}
-              </Link>
-            </li>
-          ))}
-        </ol>
-      </nav>
+      <EssayContentsNav items={contentsItems} />
     </header>
   );
 }
