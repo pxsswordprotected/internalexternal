@@ -5,7 +5,6 @@ import { InlineEditToggle } from "@/components/inline-editor/inline-edit-toggle"
 
 export async function SiteHeader() {
   const [settings, sections] = await Promise.all([getSettings(), getSections()]);
-  const firstRoot = sections.find((section) => section.entry.sectionNumber && !section.entry.parentNumber);
   const contentsItems = [
     {
       targetId: "introduction",
@@ -23,9 +22,7 @@ export async function SiteHeader() {
       slug: section.slug,
       sectionNumber: section.entry.sectionNumber,
       parentNumber: section.entry.parentNumber,
-      grouped:
-        !section.entry.sectionNumber ||
-        (!section.entry.parentNumber && section !== firstRoot),
+      grouped: !section.entry.sectionNumber || !section.entry.parentNumber,
     })),
   ];
 
