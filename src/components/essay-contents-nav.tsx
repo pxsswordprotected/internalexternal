@@ -20,11 +20,12 @@ export function EssayContentsNav({
   items: readonly EssayContentsItem[];
 }) {
   const pathname = usePathname();
+  const isContinuousEssay = pathname === "/" || pathname === "/compressed";
   const [activeTargetId, setActiveTargetId] = useState("introduction");
   const linkElements = useRef(new Map<string, HTMLAnchorElement>());
 
   const exactActiveItem =
-    pathname === "/"
+    isContinuousEssay
       ? items.find((item) => item.targetId === activeTargetId) ?? null
       : items.find(
           (item) =>
@@ -48,7 +49,7 @@ export function EssayContentsNav({
   }
 
   useEffect(() => {
-    if (pathname !== "/") {
+    if (!isContinuousEssay) {
       return;
     }
 
@@ -107,7 +108,7 @@ export function EssayContentsNav({
         window.cancelAnimationFrame(animationFrame);
       }
     };
-  }, [items, pathname]);
+  }, [items, pathname, isContinuousEssay]);
 
   useEffect(() => {
     if (
@@ -160,7 +161,7 @@ export function EssayContentsNav({
                   }
                 }}
                 className={`contents__link${isActive ? " contents__link--active" : ""}`}
-                href={item.href}
+                href={pathname === "/compressed" ? `/compressed#${item.targetId}` : item.href}
                 aria-current={isExactActive ? "location" : undefined}
                 onClick={() => setActiveTargetId(item.targetId)}
               >

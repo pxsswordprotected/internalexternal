@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { EssayContentsNav } from "@/components/essay-contents-nav";
+import { EssayVersionNavigation } from "@/components/essay-version-navigation";
 import { getSections, getSettings } from "@/lib/content";
 import { InlineEditToggle } from "@/components/inline-editor/inline-edit-toggle";
 
@@ -32,8 +33,10 @@ export async function SiteHeader() {
         <Link className="masthead__title" href="/">{settings.siteTitle}</Link>
         <div className="masthead__utilities">
           <span className="masthead__version" aria-disabled="true">Version log</span>
-          <Link className="masthead__tools" href="/edit-sections">Essay section tools</Link>
-          {process.env.NODE_ENV === "development" ? <InlineEditToggle /> : null}
+          <EssayVersionNavigation>
+            <Link className="masthead__tools" href="/edit-sections">Essay section tools</Link>
+            {process.env.NODE_ENV === "development" ? <InlineEditToggle /> : null}
+          </EssayVersionNavigation>
         </div>
       </div>
       <EssayContentsNav items={contentsItems} />
