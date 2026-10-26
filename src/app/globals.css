@@ -86,7 +86,7 @@ a:hover {
   text-decoration: none;
 }
 
-.masthead__utilities {
+.page-tools {
   display: flex;
   flex-wrap: wrap;
   gap: 6px 16px;
@@ -120,17 +120,16 @@ a:hover {
   color: var(--muted);
   font-size: 16px;
   line-height: 1.3;
-  text-decoration: underline;
-  text-underline-offset: 0.18em;
+  text-decoration: none;
 }
 
-.masthead__tools {
+.page-tools__link {
   color: var(--ink);
   text-decoration: underline;
   text-underline-offset: 0.18em;
 }
 
-.masthead__edit {
+.page-tools__edit {
   padding: 0;
   border: 0;
   background: transparent;
@@ -142,12 +141,26 @@ a:hover {
   text-underline-offset: 0.18em;
 }
 
-.masthead__edit:hover {
+.page-tools__edit:hover {
   text-decoration-color: currentColor;
+}
+
+.page-tools__note {
+  color: var(--muted);
 }
 
 .masthead__version:hover {
   color: var(--ink);
+}
+
+a.masthead__version::after {
+  content: "+";
+  margin-left: 0.25em;
+  visibility: hidden;
+}
+
+a.masthead__version:is(:hover, :focus-visible)::after {
+  visibility: visible;
 }
 
 .masthead__version--active {
@@ -202,6 +215,21 @@ button:focus-visible {
     padding: 4px;
     width: 298px;
     z-index: 10;
+  }
+
+  /* Right of the sidebar divider (left: 338px); sits below the inline editor toolbar while editing. */
+  .page-tools {
+    position: fixed;
+    left: 354px;
+    top: 16px;
+    z-index: 10;
+    min-height: 31.2px;
+    align-items: center;
+    background: var(--paper);
+  }
+
+  body.inline-edit-mode .page-tools {
+    top: 72px;
   }
 
   body > main {
@@ -333,7 +361,7 @@ button:focus-visible {
 }
 
 .contents {
-  margin-top: 104px;
+  margin-top: 77px;
   font-size: 16px;
   line-height: 1.3;
 }
@@ -362,6 +390,30 @@ button:focus-visible {
 .contents--tracking .contents__link:hover,
 .contents--tracking .contents__link:focus-visible {
   color: var(--ink);
+}
+
+/* Zero-width so the "+" never reflows the list. */
+.contents--tracking .contents__link:not(.contents__link--active)::after {
+  content: "\00a0+";
+  display: inline-block;
+  width: 0;
+  white-space: nowrap;
+  visibility: hidden;
+}
+
+.contents--tracking .contents__link:not(.contents__link--active):is(:hover, :focus-visible)::after {
+  visibility: visible;
+}
+
+@media (min-width: 761px) {
+  /* Scale the sidebar so all ~36 lines and 6 group gaps fit below the masthead. */
+  .contents {
+    font-size: clamp(11px, calc((100vh - 117px) / 54), 16px);
+  }
+
+  .contents__group {
+    margin-top: 1em;
+  }
 }
 
 .editor-index__header {

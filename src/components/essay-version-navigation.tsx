@@ -9,7 +9,7 @@ export function EssayVersionNavigation({ children }: { children: ReactNode }) {
   return (
     <>
       {original ? (
-        <span className="masthead__version">Longer original · read-only</span>
+        <span className="page-tools__note">Longer original · read-only</span>
       ) : (
         children
       )}

@@ -37,12 +37,12 @@ export async function SiteHeader() {
           <span className="masthead__bullet" aria-hidden="true" />
           <VersionLogLink />
         </div>
-        <div className="masthead__utilities">
-          <EssayVersionNavigation>
-            <Link className="masthead__tools" href="/edit-sections">Essay section tools</Link>
-            {process.env.NODE_ENV === "development" ? <InlineEditToggle /> : null}
-          </EssayVersionNavigation>
-        </div>
+      </div>
+      <div className="page-tools">
+        <EssayVersionNavigation>
+          <Link className="page-tools__link" href="/edit-sections">Essay section tools</Link>
+          {process.env.NODE_ENV === "development" ? <InlineEditToggle /> : null}
+        </EssayVersionNavigation>
       </div>
       <EssayContentsNav items={contentsItems} />
     </header>

@@ -11,7 +11,7 @@ export function InlineEditToggle() {
 
   return (
     <button
-      className="masthead__edit"
+      className="page-tools__edit"
       type="button"
       onClick={toggleEnabled}
     >
