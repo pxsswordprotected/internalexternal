@@ -3,6 +3,7 @@
   --muted: #BFBFBF;
   --rule: #BFBFBF;
   --paper: #FFFFFF;
+  --signature-blue: #457FEA;
   --column: 75ch;
 }
 
@@ -48,6 +49,10 @@ a {
 
 a:hover {
   text-decoration-color: currentColor;
+}
+
+.prose a:hover {
+  color: var(--signature-blue);
 }
 
 .skip-link {
@@ -149,7 +154,7 @@ a:hover {
 }
 
 .masthead__version:hover {
-  color: #457fea;
+  color: var(--signature-blue);
 }
 
 a.masthead__version::after {
@@ -416,7 +421,7 @@ button:focus-visible {
 }
 
 .edition-note a:is(:hover, :focus-visible) {
-  color: #457fea;
+  color: var(--signature-blue);
 }
 
 .edition-note a:is(:hover, :focus-visible)::after {
