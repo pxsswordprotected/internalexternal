@@ -1599,209 +1599,209 @@ This map records original introduction locations and sections that reuse the con
 
 | Concept | First full statement, or first statement if no full-definition marker | Sections using the same concept |
 |---|---|---|
-| abstraction | [1.5 · sections/bow-tie-architecture.md:10](../src/content/sections/bow-tie-architecture.md#L10) (first statement) | 1.5, 3.7, 7.1 |
-| action | [3.7 · sections/training-data.md:9](../src/content/sections/training-data.md#L9) (first statement) | 3.7, 6.2 |
-| action-policy | [1.5 · sections/bow-tie-architecture.md:28](../src/content/sections/bow-tie-architecture.md#L28) (first statement) | 1.5, 5.1, 5.3, 6.2 |
-| active-inference | [1.2 · sections/the-field.md:40](../src/content/sections/the-field.md#L40) | 1.2, 1.4, 1.5, 2.1, 2.2, 2.3, 3.4, 4.1, 5.2, 5.3 |
-| agency | [1.4 · sections/thoughts-and-memories.md:18](../src/content/sections/thoughts-and-memories.md#L18) (first statement) | 1.4, 1.5 |
-| aha-moment | [3.2 · sections/intuition.md:12](../src/content/sections/intuition.md#L12) (first statement) | 3.2, 3.4 |
-| amodal-perception | [1.2 · sections/the-field.md:74](../src/content/sections/the-field.md#L74) (first statement) | 1.2, 1.4 |
-| apathy | [7.1 · sections/sanity-and-wisdom.md:59](../src/content/sections/sanity-and-wisdom.md#L59) | 5.3, 7.1 |
-| argument-is-war | [1.2 · sections/the-field.md:60](../src/content/sections/the-field.md#L60) (first statement) | 1.2, 3.1 |
-| articulation | [3.2 · sections/intuition.md:14](../src/content/sections/intuition.md#L14) (first statement) | 3.2, 3.4 |
-| association | [2.4 · sections/language.md:17](../src/content/sections/language.md#L17) (first statement) | 2.4, 3.1 |
-| attention | [1.2 · sections/the-field.md:70](../src/content/sections/the-field.md#L70) | 1.2, 1.4, 3.7 |
-| attractor | [1.3 · sections/chunking-gestalts-and-attractors.md:18](../src/content/sections/chunking-gestalts-and-attractors.md#L18) | 1.3, 2.2, 5.2 |
-| attractor-basin | [1.3 · sections/chunking-gestalts-and-attractors.md:20](../src/content/sections/chunking-gestalts-and-attractors.md#L20) | 1.3, 2.3, 5.2, 6.2 |
-| author-scaffolding | [1 · sections/the-structural-ontology.md:5](../src/content/sections/the-structural-ontology.md#L5) (first statement) | 1, 1.1, 1.2, 1.3, 1.5, 2, 2.2, 3, 3.1, 3.2, 3.3, 3.4, 3.5, 3.6, 3.7, 4, 4.1, 4.2, 5, 5.2, 5.3, 6, 6.1 |
-| available-chunks | [3.7 · sections/training-data.md:9](../src/content/sections/training-data.md#L9) (first statement) | 3.7, 4.1, 4.2 |
-| awareness | [1.2 · sections/the-field.md:74](../src/content/sections/the-field.md#L74) (first statement) | 1.2, 1.4 |
-| baseline | [3.5 · sections/the-loop-of-refinement.md:52](../src/content/sections/the-loop-of-refinement.md#L52) (first statement) | 3.5, 4.1 |
-| baseline-felt-tone | [5.3 · sections/the-suffering-loop.md:61](../src/content/sections/the-suffering-loop.md#L61) (first statement) | 5.3, 6.2, 7.2 |
-| behavior | [3.1 · sections/metaphors.md:11](../src/content/sections/metaphors.md#L11) (first statement) | 3.1, 5.2 |
-| bessis | [3.2 · sections/intuition.md:16](../src/content/sections/intuition.md#L16) (first statement) | 3.2, 3.3 |
-| bow-tie-architecture | [1.5 · sections/bow-tie-architecture.md:10, 86](../src/content/sections/bow-tie-architecture.md#L10) | 1.4, 1.5, 2.4 |
-| calibration | [3.5 · sections/the-loop-of-refinement.md:92](../src/content/sections/the-loop-of-refinement.md#L92) (first statement) | 3.5, 3.7 |
-| capacity | [2.3 · sections/slack.md:10](../src/content/sections/slack.md#L10) | 2.1, 2.3 |
-| chunking | [1.2 · sections/the-field.md:50](../src/content/sections/the-field.md#L50) | 1.2, 1.3, 5.1, 7.2 |
-| citation-support | [1.1 · sections/the-compression-gradient.md:8, 9, 10](../src/content/sections/the-compression-gradient.md#L8) (first statement) | 1.1, 1.2, 1.3, 2.3, 2.4 |
-| closed-loop | [3.5 · sections/the-loop-of-refinement.md:18](../src/content/sections/the-loop-of-refinement.md#L18) | 3.5, 3.6, 4.2, 7.1 |
-| cognitive-light-cone | [1.5 · sections/bow-tie-architecture.md:92](../src/content/sections/bow-tie-architecture.md#L92) | 1.5, 7.2 |
-| coherence | [3.5 · sections/the-loop-of-refinement.md:16](../src/content/sections/the-loop-of-refinement.md#L16) | 1.2, 3.5 |
-| compression | [Introduction · introduction.md:16](../src/content/introduction.md#L16) | Introduction, Opening draft, 1.1, 1.4, 1.5, 2.1, 5.1, 7.1 |
-| compression-gradient | [Introduction · introduction.md:18](../src/content/introduction.md#L18) (first statement) | Introduction, Opening draft, 1.4, 1.5, 2.4, 3.1, 3.2, 3.3, 3.4, 5.1, 6.1, 7.2 |
-| conditioning | [1.4 · sections/thoughts-and-memories.md:20](../src/content/sections/thoughts-and-memories.md#L20) (first statement) | 1.4, 3.4, 5.1 |
-| constraints | [1.2 · sections/the-field.md:20](../src/content/sections/the-field.md#L20) | 1.2, 3.5, 7.2 |
-| context | [1.4 · sections/thoughts-and-memories.md:22](../src/content/sections/thoughts-and-memories.md#L22) (first statement) | 1.4, 1.5, 5.1 |
-| context-dependence | [2.2 · sections/embodiment-and-somatic-stabilization.md:36](../src/content/sections/embodiment-and-somatic-stabilization.md#L36) (first statement) | 2.2, 3.4 |
-| continuity | [1.4 · sections/thoughts-and-memories.md:36](../src/content/sections/thoughts-and-memories.md#L36) (first statement) | 1.4, 1.5 |
-| contraction | [1.2 · sections/the-field.md:66](../src/content/sections/the-field.md#L66) (first statement) | 1.2, 5.1, 5.3, 6.2 |
-| contraction-release | [2.1 · sections/the-energetic-triad.md:42](../src/content/sections/the-energetic-triad.md#L42) (first statement) | 2.1, 5.3 |
-| correspondence | [3.5 · sections/the-loop-of-refinement.md:12](../src/content/sections/the-loop-of-refinement.md#L12) (first statement) | 3.5, 3.6 |
-| creativity | [4.2 · sections/structural-thresholds-in-search-spaces-and-creativity.md:8, 10](../src/content/sections/structural-thresholds-in-search-spaces-and-creativity.md#L8) | Introduction, 1.5, 4.2 |
-| culture | [1.4 · sections/thoughts-and-memories.md:44](../src/content/sections/thoughts-and-memories.md#L44) (first statement) | 1.4, 5.1 |
-| danger-frame | [1.4 · sections/thoughts-and-memories.md:34](../src/content/sections/thoughts-and-memories.md#L34) (first statement) | 1.4, 1.5 |
-| de-chunking | [6.2 · sections/transparency-6-2.md:14](../src/content/sections/transparency-6-2.md#L14) (first statement) | 6.2, 7.2 |
-| dechunking | [1.3 · sections/chunking-gestalts-and-attractors.md:16](../src/content/sections/chunking-gestalts-and-attractors.md#L16) (first statement) | 1.3, 1.4, 6.1 |
-| decompression | [1.1 · sections/the-compression-gradient.md:21](../src/content/sections/the-compression-gradient.md#L21) | 1.1, 1.4, 1.5, 2.4, 3.1, 7.1 |
-| deep-priors | [1.2 · sections/the-field.md:34](../src/content/sections/the-field.md#L34) (first statement) | 1.2, 2.1, 2.2, 3.4, 3.5, 3.6, 5.3 |
-| default-field | [1.2 · sections/the-field.md:34](../src/content/sections/the-field.md#L34) | 1.2, 3.5, 3.7 |
-| dependency-tree | [1.2 · sections/the-field.md:52](../src/content/sections/the-field.md#L52) | 1.2, 1.4, 1.5, 2.1, 3.4, 3.5, 3.7, 4.2, 5.1, 5.3, 6.2 |
-| describability-versus-instantiability | [3.7 · sections/training-data.md:15](../src/content/sections/training-data.md#L15) (first statement) | 3.7, 4.1 |
-| desire-proxy | [5.3 · sections/the-suffering-loop.md:55](../src/content/sections/the-suffering-loop.md#L55) | 5.3, 6.1 |
-| diagram | [1.2 · sections/the-field.md:46](../src/content/sections/the-field.md#L46) (first statement) | 1.2, 1.3 |
-| echo-chamber | [3.6 · sections/real-making-vs-truth-making.md:16](../src/content/sections/real-making-vs-truth-making.md#L16) (first statement) | 3.6, 3.7 |
-| einstein | [2.2 · sections/embodiment-and-somatic-stabilization.md:34](../src/content/sections/embodiment-and-somatic-stabilization.md#L34) (first statement) | 2.2, 3.3 |
-| embodied-knowledge | [3.5 · sections/the-loop-of-refinement.md:46](../src/content/sections/the-loop-of-refinement.md#L46) (first statement) | 3.5, 3.7, 7.2 |
-| embodied-layer | [1.1 · sections/the-compression-gradient.md:19](../src/content/sections/the-compression-gradient.md#L19) | 1.1, 1.4 |
-| emergence | [4.1 · sections/emergence-and-failed-gestalts.md:8](../src/content/sections/emergence-and-failed-gestalts.md#L8) | 1.5, 4.1 |
-| emotion | [5.1 · sections/emotions.md:14](../src/content/sections/emotions.md#L14) | 1.4, 3.7, 5.1 |
-| emptiness | [6.1 · sections/emptiness-and-ontological-authority.md:8](../src/content/sections/emptiness-and-ontological-authority.md#L8) | 5.3, 6.1 |
-| energetic-triad | [2.1 · sections/the-energetic-triad.md:20](../src/content/sections/the-energetic-triad.md#L20) | 2.1, 2.2, 3.4, 6.2, 6.3 |
-| engram | [1.4 · sections/thoughts-and-memories.md:28](../src/content/sections/thoughts-and-memories.md#L28) (first statement) | 1.4, 1.5 |
-| environment | [1.4 · sections/thoughts-and-memories.md:44](../src/content/sections/thoughts-and-memories.md#L44) (first statement) | 1.4, 2.3 |
-| epistemic-status | [Introduction · introduction.md:8](../src/content/introduction.md#L8) (first statement) | Introduction, 6.3 |
-| equanimity | [5.3 · sections/the-suffering-loop.md:57](../src/content/sections/the-suffering-loop.md#L57) | 2.3, 5.3, 6.2, 7.1 |
-| error-correction | [1.4 · sections/thoughts-and-memories.md:54](../src/content/sections/thoughts-and-memories.md#L54) (first statement) | 1.4, 3.6 |
-| ethics | [7.1 · sections/sanity-and-wisdom.md:57](../src/content/sections/sanity-and-wisdom.md#L57) (first statement) | 7.1, 7.2 |
-| evolution | [1.5 · sections/bow-tie-architecture.md:96](../src/content/sections/bow-tie-architecture.md#L96) (first statement) | 1.5, 4.2 |
-| expansion | [3.4 · sections/resonance-and-friction.md:13](../src/content/sections/resonance-and-friction.md#L13) (first statement) | 3.4, 5.3 |
-| expertise | [1.2 · sections/the-field.md:40](../src/content/sections/the-field.md#L40) (first statement) | 1.2, 1.3, 1.4, 2.4, 3.4, 3.5, 7.2 |
-| external-feedback | [3.5 · sections/the-loop-of-refinement.md:24](../src/content/sections/the-loop-of-refinement.md#L24) (first statement) | 3.5, 3.6 |
-| externalization | [1.1 · sections/the-compression-gradient.md:15](../src/content/sections/the-compression-gradient.md#L15) (first statement) | 1.1, 3.2, 3.5 |
-| failed-higher-order-gestalt | [4.1 · sections/emergence-and-failed-gestalts.md:14](../src/content/sections/emergence-and-failed-gestalts.md#L14) | 4.1, 4.2 |
-| fear | [3.6 · sections/real-making-vs-truth-making.md:12](../src/content/sections/real-making-vs-truth-making.md#L12) (first statement) | 3.6, 5.1 |
-| feedback | [1.5 · sections/bow-tie-architecture.md:16](../src/content/sections/bow-tie-architecture.md#L16) (first statement) | 1.5, 3.7 |
-| felt-safety | [2.3 · sections/slack.md:34](../src/content/sections/slack.md#L34) (first statement) | 2.3, 3.6 |
-| felt-sense | [3.4 · sections/resonance-and-friction.md:11](../src/content/sections/resonance-and-friction.md#L11) | 1.5, 2.1, 2.2, 2.4, 3.1, 3.4, 3.5 |
-| felt-shift | [3.4 · sections/resonance-and-friction.md:13](../src/content/sections/resonance-and-friction.md#L13) | 3.4, 6.2 |
-| field | [1.2 · sections/the-field.md:8](../src/content/sections/the-field.md#L8) | 1.1, 1.2, 1.4, 1.5, 2.1, 3.2 |
-| field-calibration | [3.2 · sections/intuition.md:16](../src/content/sections/intuition.md#L16) (first statement) | 3.2, 3.3, 3.4, 3.5 |
-| field-configuration | [2.2 · sections/embodiment-and-somatic-stabilization.md:24](../src/content/sections/embodiment-and-somatic-stabilization.md#L24) (first statement) | 2.2, 3.4, 5.1, 5.3 |
-| field-dissonance | [5.2 · sections/field-dissonance.md:8](../src/content/sections/field-dissonance.md#L8) | 5.2, 7.2 |
-| field-fit | [3.1 · sections/metaphors.md:19](../src/content/sections/metaphors.md#L19) (first statement) | 3.1, 3.4 |
-| field-properties | [1.2 · sections/the-field.md:8](../src/content/sections/the-field.md#L8) (first statement) | 1.2, 3.2, 3.4, 3.5, 4.1, 4.2 |
-| field-retuning | [3.4 · sections/resonance-and-friction.md:25](../src/content/sections/resonance-and-friction.md#L25) (first statement) | 3.4, 3.5 |
-| fit-distance | [1.2 · sections/the-field.md:20](../src/content/sections/the-field.md#L20) | 1.2, 3.4, 5.3, 7.1 |
-| fluency | [1.4 · sections/thoughts-and-memories.md:38](../src/content/sections/thoughts-and-memories.md#L38) | 1.4, 3.4, 7.2 |
-| formal-proof | [3.2 · sections/intuition.md:18](../src/content/sections/intuition.md#L18) (first statement) | 3.2, 3.3 |
-| framing | [1.4 · sections/thoughts-and-memories.md:52](../src/content/sections/thoughts-and-memories.md#L52) (first statement) | 1.4, 2.4 |
-| free-energy-principle | [1.5 · sections/bow-tie-architecture.md:14](../src/content/sections/bow-tie-architecture.md#L14) (first statement) | 1.5, 2.1 |
-| friction | [3.4 · sections/resonance-and-friction.md:13](../src/content/sections/resonance-and-friction.md#L13) | 2.1, 2.4, 3.4, 3.5, 3.6, 3.7, 4.1, 5.2, 5.3, 6.1, 6.2, 6.3, 7.1, 7.2 |
-| gendlin | [3.4 · sections/resonance-and-friction.md:9](../src/content/sections/resonance-and-friction.md#L9) (first statement) | 3.4, 3.5 |
-| generalization | [1.5 · sections/bow-tie-architecture.md:10](../src/content/sections/bow-tie-architecture.md#L10) (first statement) | 1.5, 3.7, 7.2 |
-| generative-memory | [1.4 · sections/thoughts-and-memories.md:26](../src/content/sections/thoughts-and-memories.md#L26) (first statement) | 1.4, 1.5 |
-| gestalt | [1.3 · sections/chunking-gestalts-and-attractors.md:8](../src/content/sections/chunking-gestalts-and-attractors.md#L8) | 1.3, 1.4, 1.5, 2.1, 4.1 |
-| gestalt-prerequisites | [1.3 · sections/chunking-gestalts-and-attractors.md:30](../src/content/sections/chunking-gestalts-and-attractors.md#L30) (first statement) | 1.3, 3.7, 4.1, 4.2 |
-| gestalt-stability | [4.1 · sections/emergence-and-failed-gestalts.md:14](../src/content/sections/emergence-and-failed-gestalts.md#L14) (first statement) | 4.1, 4.2 |
-| goodness | [1.4 · sections/thoughts-and-memories.md:34](../src/content/sections/thoughts-and-memories.md#L34) (first statement) | 1.4, 1.5 |
-| gradual-structure-abrupt-appearance | [4.1 · sections/emergence-and-failed-gestalts.md:32](../src/content/sections/emergence-and-failed-gestalts.md#L32) (first statement) | 4.1, 4.2 |
-| grothendieck | [3.3 · sections/mathematics.md:13](../src/content/sections/mathematics.md#L13) (first statement) | 3.3, 3.4 |
-| haptic-contraction | [2.2 · sections/embodiment-and-somatic-stabilization.md:10](../src/content/sections/embodiment-and-somatic-stabilization.md#L10) | 2.2, 5.3, 6.1, 6.2 |
-| ignorance | [3.5 · sections/the-loop-of-refinement.md:84](../src/content/sections/the-loop-of-refinement.md#L84) (first statement) | 3.5, 5.3 |
-| ineffability | [Introduction · introduction.md:14](../src/content/introduction.md#L14) (first statement) | Introduction, Opening draft, 1.1, 7.1 |
-| input-diversity | [3.7 · sections/training-data.md:9](../src/content/sections/training-data.md#L9) (first statement) | 3.7, 4.2 |
-| integration | [2.1 · sections/the-energetic-triad.md:14](../src/content/sections/the-energetic-triad.md#L14) | 2.1, 3.6, 5.2 |
-| integration-cost | [2.1 · sections/the-energetic-triad.md:24](../src/content/sections/the-energetic-triad.md#L24) (first statement) | 2.1, 3.5, 4.1, 4.2, 5.3, 6.2, 6.3, 7.2 |
-| intelligence | [1.5 · sections/bow-tie-architecture.md:70](../src/content/sections/bow-tie-architecture.md#L70) | 1.5, 6.1 |
-| interoception | [2.1 · sections/the-energetic-triad.md:40](../src/content/sections/the-energetic-triad.md#L40) | 2.1, 5.1, 6.2 |
-| intuition | [3.2 · sections/intuition.md:8](../src/content/sections/intuition.md#L8) | 3.1, 3.2, 3.5 |
-| knowledge | [Introduction · introduction.md:18](../src/content/introduction.md#L18) | Introduction, Opening draft, 1.4 |
-| language | [2.4 · sections/language.md:7, 9](../src/content/sections/language.md#L7) | Introduction, Opening draft, 2.4 |
-| latch-release | [2.2 · sections/embodiment-and-somatic-stabilization.md:20](../src/content/sections/embodiment-and-somatic-stabilization.md#L20) (first statement) | 2.2, 2.3 |
-| latched-contraction | [5.1 · sections/emotions.md:34](../src/content/sections/emotions.md#L34) (first statement) | 5.1, 5.3 |
-| leakage | [5.1 · sections/emotions.md:32](../src/content/sections/emotions.md#L32) (first statement) | 5.1, 5.2 |
-| learning | [1.5 · sections/bow-tie-architecture.md:38](../src/content/sections/bow-tie-architecture.md#L38) | 1.4, 1.5, 2.2, 7.2 |
-| loop-of-refinement | [3.2 · sections/intuition.md:16](../src/content/sections/intuition.md#L16) | 3.2, 3.3, 3.4, 3.5, 3.6, 3.7, 4.1, 4.2, 6.2, 7.1, 7.2 |
-| lossy-compression | [3.1 · sections/metaphors.md:17](../src/content/sections/metaphors.md#L17) (first statement) | 3.1, 3.2 |
-| lossy-notation | [3.3 · sections/mathematics.md:15](../src/content/sections/mathematics.md#L15) (first statement) | 3.3, 3.5, 4.1 |
-| mathematical-intuition | [3.2 · sections/intuition.md:16](../src/content/sections/intuition.md#L16) (first statement) | 3.2, 3.3 |
-| mathematician | [2.1 · sections/the-energetic-triad.md:36](../src/content/sections/the-energetic-triad.md#L36) (first statement) | 2.1, 2.2 |
-| mathematics | [3.1 · sections/metaphors.md:17](../src/content/sections/metaphors.md#L17) (first statement) | 3.1, 3.2 |
-| meditation | [1.2 · sections/the-field.md:68](../src/content/sections/the-field.md#L68) (first statement) | 1.2, 2.2, 5.3 |
-| memory | [1.4 · sections/thoughts-and-memories.md:24](../src/content/sections/thoughts-and-memories.md#L24) | 1.4, 1.5, 6.2, 7.2 |
-| metabolic-limits | [1.4 · sections/thoughts-and-memories.md:34](../src/content/sections/thoughts-and-memories.md#L34) (first statement) | 1.4, 1.5 |
-| metaphor | [3.1 · sections/metaphors.md:9](../src/content/sections/metaphors.md#L9) | 2.4, 3.1, 3.5, 7.1 |
-| model-status | [1.2 · sections/the-field.md:16](../src/content/sections/the-field.md#L16) (first statement) | 1.2, 2.1, 2.4 |
-| mood | [5.1 · sections/emotions.md:14](../src/content/sections/emotions.md#L14) | 1.4, 5.1 |
-| moth-metamorphosis | [1.4 · sections/thoughts-and-memories.md:24](../src/content/sections/thoughts-and-memories.md#L24) (first statement) | 1.4, 1.5 |
-| nested-targets | [1.5 · sections/bow-tie-architecture.md:34](../src/content/sections/bow-tie-architecture.md#L34) (first statement) | 1.5, 2.1 |
-| notation | [Introduction · introduction.md:18](../src/content/introduction.md#L18) (first statement) | Introduction, Opening draft, 1.4, 2.2, 3.3, 3.5, 7.1, 7.2 |
-| notational-layer | [1.1 · sections/the-compression-gradient.md:19](../src/content/sections/the-compression-gradient.md#L19) | 1.1, 3.1 |
-| novelty | [3.7 · sections/training-data.md:15](../src/content/sections/training-data.md#L15) (first statement) | 3.7, 4.2 |
-| objectification | [3.5 · sections/the-loop-of-refinement.md:40, 44](../src/content/sections/the-loop-of-refinement.md#L40) | 3.5, 6.1, 6.2, 7.2 |
-| ontological-authority | [6.1 · sections/emptiness-and-ontological-authority.md:20](../src/content/sections/emptiness-and-ontological-authority.md#L20) | 6.1, 6.2, 7.2 |
-| ontological-frame | [3.6 · sections/real-making-vs-truth-making.md:14](../src/content/sections/real-making-vs-truth-making.md#L14) (first statement) | 3.6, 3.7, 4.2 |
-| open-loop | [3.5 · sections/the-loop-of-refinement.md:18](../src/content/sections/the-loop-of-refinement.md#L18) | 3.5, 3.6, 3.7, 4.2, 7.1, 7.2 |
-| overgeneralization | [3.7 · sections/training-data.md:19](../src/content/sections/training-data.md#L19) (first statement) | 3.7, 6.2 |
-| phenomenal-transparency | [1.2 · sections/the-field.md:66](../src/content/sections/the-field.md#L66) | 1.2, 6.2 |
-| practice | [7.2 · sections/practice.md:16](../src/content/sections/practice.md#L16) | 1.5, 3.7, 4.2, 6.2, 7.2 |
-| precision-weighting | [1.2 · sections/the-field.md:22](../src/content/sections/the-field.md#L22) | 1.2, 1.3, 1.5, 2.1, 2.2, 2.3, 3.2, 3.4, 3.7, 4.1, 4.2, 5.1, 5.2, 6.1, 6.2, 6.3, 7.2 |
-| prediction | [1.5 · sections/bow-tie-architecture.md:98](../src/content/sections/bow-tie-architecture.md#L98) (first statement) | 1.5, 2.1 |
-| prediction-error | [1.2 · sections/the-field.md:50](../src/content/sections/the-field.md#L50) | 1.2, 1.5 |
-| prediction-relative-response | [3.5 · sections/the-loop-of-refinement.md:54](../src/content/sections/the-loop-of-refinement.md#L54) (first statement) | 3.5, 3.7, 4.1 |
-| prerequisites | [2.1 · sections/the-energetic-triad.md:18](../src/content/sections/the-energetic-triad.md#L18) (first statement) | 2.1, 7.2 |
-| prior-activation | [3.7 · sections/training-data.md:15](../src/content/sections/training-data.md#L15) (first statement) | 3.7, 4.2 |
-| prior-depth | [1.4 · sections/thoughts-and-memories.md:20](../src/content/sections/thoughts-and-memories.md#L20) (first statement) | 1.4, 1.5, 2.1, 2.2, 2.3 |
-| prior-regeneration | [1.2 · sections/the-field.md:18](../src/content/sections/the-field.md#L18) (first statement) | 1.2, 1.3 |
-| priors | [1.2 · sections/the-field.md:8](../src/content/sections/the-field.md#L8) | 1.2, 1.4, 1.5, 3.7 |
-| probe | [3.5 · sections/the-loop-of-refinement.md:36](../src/content/sections/the-loop-of-refinement.md#L36) | 3.5, 4.1, 7.2 |
-| psychedelics | [1.2 · sections/the-field.md:36](../src/content/sections/the-field.md#L36) (first statement) | 1.2, 2.2, 7.1 |
-| reachability | [1.3 · sections/chunking-gestalts-and-attractors.md:26](../src/content/sections/chunking-gestalts-and-attractors.md#L26) | 1.3, 1.4, 2.3, 3.4, 5.2, 5.3, 6.1, 6.2, 7.1, 7.2 |
-| reachable-configuration | [3.6 · sections/real-making-vs-truth-making.md:10](../src/content/sections/real-making-vs-truth-making.md#L10) (first statement) | 3.6, 4.2 |
-| reading | [1.5 · sections/bow-tie-architecture.md:34](../src/content/sections/bow-tie-architecture.md#L34) (first statement) | 1.5, 2.2 |
-| real-making | [3.6 · sections/real-making-vs-truth-making.md:10](../src/content/sections/real-making-vs-truth-making.md#L10) | 3.6, 6.1 |
-| recall | [1.4 · sections/thoughts-and-memories.md:24](../src/content/sections/thoughts-and-memories.md#L24) | 1.4, 1.5 |
-| recombination | [3.7 · sections/training-data.md:15](../src/content/sections/training-data.md#L15) (first statement) | 3.7, 4.2 |
-| reconstruction | [1.4 · sections/thoughts-and-memories.md:28, 30](../src/content/sections/thoughts-and-memories.md#L28) | 1.4, 1.5 |
-| reification | [6.1 · sections/emptiness-and-ontological-authority.md:22](../src/content/sections/emptiness-and-ontological-authority.md#L22) | 6.1, 6.2, 7.1 |
-| repetition | [2.4 · sections/language.md:17](../src/content/sections/language.md#L17) (first statement) | 2.4, 3.4, 3.7 |
-| representation | [1.1 · sections/the-compression-gradient.md:27](../src/content/sections/the-compression-gradient.md#L27) | 1.1, 2.2, 3.3, 3.5 |
-| representational-layer | [1.1 · sections/the-compression-gradient.md:19](../src/content/sections/the-compression-gradient.md#L19) | 1.1, 1.4, 3.1, 3.3 |
-| resonance | [3.4 · sections/resonance-and-friction.md:13](../src/content/sections/resonance-and-friction.md#L13) | 2.1, 2.4, 3.3, 3.4, 3.5, 3.6, 3.7, 4.1, 6.1, 6.2, 6.3, 7.1, 7.2 |
-| retrieval | [1.4 · sections/thoughts-and-memories.md:38](../src/content/sections/thoughts-and-memories.md#L38) (first statement) | 1.4, 7.2 |
-| rumination | [1.4 · sections/thoughts-and-memories.md:16](../src/content/sections/thoughts-and-memories.md#L16) | 1.4, 5.3 |
-| salience | [1.4 · sections/thoughts-and-memories.md:34](../src/content/sections/thoughts-and-memories.md#L34) (first statement) | 1.4, 1.5, 3.4 |
-| sanity | [7.1 · sections/sanity-and-wisdom.md:10](../src/content/sections/sanity-and-wisdom.md#L10) | 6.2, 7.1, 7.2 |
-| scarcity | [1.5 · sections/bow-tie-architecture.md:96](../src/content/sections/bow-tie-architecture.md#L96) (first statement) | 1.5, 2.3 |
-| selfhood | [1.4 · sections/thoughts-and-memories.md:16](../src/content/sections/thoughts-and-memories.md#L16) (first statement) | 1.4, 1.5 |
-| sensory-clarity | [3.5 · sections/the-loop-of-refinement.md:84](../src/content/sections/the-loop-of-refinement.md#L84) | 1.3, 1.4, 3.5, 6.2, 7.2 |
-| shared-priors | [1.2 · sections/the-field.md:58](../src/content/sections/the-field.md#L58) (first statement) | 1.2, 2.4 |
-| slack | [1.2 · sections/the-field.md:76](../src/content/sections/the-field.md#L76) | 1.2, 1.3, 2.1, 2.2, 2.3, 3.5, 3.6, 4.2, 5.3, 6.1, 6.2, 7.2 |
-| somatic-stabilization | [2 · sections/the-dynamics-of-fit.md:9](../src/content/sections/the-dynamics-of-fit.md#L9) (first statement) | 2, 2.2 |
-| specificity | [Introduction · introduction.md:4](../src/content/introduction.md#L4) (first statement) | Introduction, 1.5, 2.4 |
-| stance | [2.2 · sections/embodiment-and-somatic-stabilization.md:28](../src/content/sections/embodiment-and-somatic-stabilization.md#L28) | 2.2, 2.4 |
-| stress | [2.1 · sections/the-energetic-triad.md:40](../src/content/sections/the-energetic-triad.md#L40) (first statement) | 2.1, 3.6 |
-| structural-threshold | [4.2 · sections/structural-thresholds-in-search-spaces-and-creativity.md:8](../src/content/sections/structural-thresholds-in-search-spaces-and-creativity.md#L8) | 4.1, 4.2, 5.1, 5.2 |
-| structure | [1.5 · sections/bow-tie-architecture.md:26](../src/content/sections/bow-tie-architecture.md#L26) | 1.4, 1.5 |
-| structure-preserving-transformation | [1.2 · sections/the-field.md:64](../src/content/sections/the-field.md#L64) | 1.2, 1.5, 4.1, 7.2 |
-| substrate-change | [1.4 · sections/thoughts-and-memories.md:24](../src/content/sections/thoughts-and-memories.md#L24) (first statement) | 1.4, 1.5 |
-| suffering | [5.3 · sections/the-suffering-loop.md:10](../src/content/sections/the-suffering-loop.md#L10) | 1.4, 1.5, 3.5, 5.2, 5.3 |
-| suffering-loop | [6.2 · sections/transparency-6-2.md:28](../src/content/sections/transparency-6-2.md#L28) (first statement) | 6.2, 7.1 |
-| suppression | [5.1 · sections/emotions.md:34](../src/content/sections/emotions.md#L34) (first statement) | 5.1, 5.2 |
-| survival | [1.2 · sections/the-field.md:22](../src/content/sections/the-field.md#L22) (first statement) | 1.2, 1.5 |
-| symmetry-theory-of-valence | [1.2 · sections/the-field.md:12](../src/content/sections/the-field.md#L12) (first statement) | 1.2, 1.3, 6.3 |
-| tacit-knowledge | [1.1 · sections/the-compression-gradient.md:19](../src/content/sections/the-compression-gradient.md#L19) (first statement) | 1.1, 2.2, 3.2, 3.3, 3.5, 5.3 |
-| target | [1.2 · sections/the-field.md:24](../src/content/sections/the-field.md#L24) | 1.2, 1.5, 2.1 |
-| target-conflict | [1.2 · sections/the-field.md:26](../src/content/sections/the-field.md#L26) (first statement) | 1.2, 3.4 |
-| target-error | [1.2 · sections/the-field.md:50](../src/content/sections/the-field.md#L50) | 1.2, 1.4, 2.1, 2.2, 5.2, 5.3, 6.3 |
-| target-precision | [1.2 · sections/the-field.md:24](../src/content/sections/the-field.md#L24) | 1.2, 2.1 |
-| targets | [1.2 · sections/the-field.md:20](../src/content/sections/the-field.md#L20) (first statement) | 1.2, 1.4, 1.5, 3.5, 3.6, 3.7, 4.2, 7.1, 7.2 |
-| threat | [1.5 · sections/bow-tie-architecture.md:96](../src/content/sections/bow-tie-architecture.md#L96) (first statement) | 1.5, 2.3 |
-| trained-intuition | [3.2 · sections/intuition.md:12](../src/content/sections/intuition.md#L12) (first statement) | 3.2, 3.3 |
-| training-data | [3.7 · sections/training-data.md:9](../src/content/sections/training-data.md#L9) | 3.7, 4.2, 7.2 |
-| transparency | [6.2 · sections/transparency-6-2.md:8](../src/content/sections/transparency-6-2.md#L8) | 6.2, 7.1, 7.2 |
-| truth | [3.5 · sections/the-loop-of-refinement.md:16](../src/content/sections/the-loop-of-refinement.md#L16) | 3.4, 3.5, 6.2, 7.1, 7.2 |
-| truth-making | [3.6 · sections/real-making-vs-truth-making.md:14](../src/content/sections/real-making-vs-truth-making.md#L14) | 3.6, 3.7, 6.1 |
-| truth-seeking | [3.5 · sections/the-loop-of-refinement.md:18](../src/content/sections/the-loop-of-refinement.md#L18) (first statement) | 3.5, 3.6 |
-| unfinished-section | [3.5 · sections/the-loop-of-refinement.md:5, 6](../src/content/sections/the-loop-of-refinement.md#L5) (first statement) | 3.5, 3.6, 3.7, 4, 4.1, 4.2 |
-| valence | [1.2 · sections/the-field.md:20](../src/content/sections/the-field.md#L20) | 1.2, 2, 2.1, 2.4, 3.2, 3.4, 3.5, 5.1, 6.3 |
-| variables | [1.2 · sections/the-field.md:20](../src/content/sections/the-field.md#L20) | 1.2, 3.5 |
-| vascular-tension | [2.2 · sections/embodiment-and-somatic-stabilization.md:18](../src/content/sections/embodiment-and-somatic-stabilization.md#L18) (first statement) | 2.2, 2.4 |
-| vasocomputation | [2.2 · sections/embodiment-and-somatic-stabilization.md:16](../src/content/sections/embodiment-and-somatic-stabilization.md#L16) | 1.5, 2.2 |
-| water-bottle | [1.3 · sections/chunking-gestalts-and-attractors.md:14](../src/content/sections/chunking-gestalts-and-attractors.md#L14) (first statement) | 1.3, 1.5 |
-| wisdom | [7.1 · sections/sanity-and-wisdom.md:10](../src/content/sections/sanity-and-wisdom.md#L10) | 6.2, 7.1, 7.2 |
-| writing | [1.4 · sections/thoughts-and-memories.md:44](../src/content/sections/thoughts-and-memories.md#L44) (first statement) | 1.4, 2.4 |
+| abstraction | [1.5 · sections/bow-tie-architecture.md:10](../../compressed-essay/sections/bow-tie-architecture.md#L10) (first statement) | 1.5, 3.7, 7.1 |
+| action | [3.7 · sections/training-data.md:9](../../compressed-essay/sections/training-data.md#L9) (first statement) | 3.7, 6.2 |
+| action-policy | [1.5 · sections/bow-tie-architecture.md:28](../../compressed-essay/sections/bow-tie-architecture.md#L28) (first statement) | 1.5, 5.1, 5.3, 6.2 |
+| active-inference | [1.2 · sections/the-field.md:40](../../compressed-essay/sections/the-field.md#L40) | 1.2, 1.4, 1.5, 2.1, 2.2, 2.3, 3.4, 4.1, 5.2, 5.3 |
+| agency | [1.4 · sections/thoughts-and-memories.md:18](../../compressed-essay/sections/thoughts-and-memories.md#L18) (first statement) | 1.4, 1.5 |
+| aha-moment | [3.2 · sections/intuition.md:12](../../compressed-essay/sections/intuition.md#L12) (first statement) | 3.2, 3.4 |
+| amodal-perception | [1.2 · sections/the-field.md:74](../../compressed-essay/sections/the-field.md#L74) (first statement) | 1.2, 1.4 |
+| apathy | [7.1 · sections/sanity-and-wisdom.md:59](../../compressed-essay/sections/sanity-and-wisdom.md#L59) | 5.3, 7.1 |
+| argument-is-war | [1.2 · sections/the-field.md:60](../../compressed-essay/sections/the-field.md#L60) (first statement) | 1.2, 3.1 |
+| articulation | [3.2 · sections/intuition.md:14](../../compressed-essay/sections/intuition.md#L14) (first statement) | 3.2, 3.4 |
+| association | [2.4 · sections/language.md:17](../../compressed-essay/sections/language.md#L17) (first statement) | 2.4, 3.1 |
+| attention | [1.2 · sections/the-field.md:70](../../compressed-essay/sections/the-field.md#L70) | 1.2, 1.4, 3.7 |
+| attractor | [1.3 · sections/chunking-gestalts-and-attractors.md:18](../../compressed-essay/sections/chunking-gestalts-and-attractors.md#L18) | 1.3, 2.2, 5.2 |
+| attractor-basin | [1.3 · sections/chunking-gestalts-and-attractors.md:20](../../compressed-essay/sections/chunking-gestalts-and-attractors.md#L20) | 1.3, 2.3, 5.2, 6.2 |
+| author-scaffolding | [1 · sections/the-structural-ontology.md:5](../../compressed-essay/sections/the-structural-ontology.md#L5) (first statement) | 1, 1.1, 1.2, 1.3, 1.5, 2, 2.2, 3, 3.1, 3.2, 3.3, 3.4, 3.5, 3.6, 3.7, 4, 4.1, 4.2, 5, 5.2, 5.3, 6, 6.1 |
+| available-chunks | [3.7 · sections/training-data.md:9](../../compressed-essay/sections/training-data.md#L9) (first statement) | 3.7, 4.1, 4.2 |
+| awareness | [1.2 · sections/the-field.md:74](../../compressed-essay/sections/the-field.md#L74) (first statement) | 1.2, 1.4 |
+| baseline | [3.5 · sections/the-loop-of-refinement.md:52](../../compressed-essay/sections/the-loop-of-refinement.md#L52) (first statement) | 3.5, 4.1 |
+| baseline-felt-tone | [5.3 · sections/the-suffering-loop.md:61](../../compressed-essay/sections/the-suffering-loop.md#L61) (first statement) | 5.3, 6.2, 7.2 |
+| behavior | [3.1 · sections/metaphors.md:11](../../compressed-essay/sections/metaphors.md#L11) (first statement) | 3.1, 5.2 |
+| bessis | [3.2 · sections/intuition.md:16](../../compressed-essay/sections/intuition.md#L16) (first statement) | 3.2, 3.3 |
+| bow-tie-architecture | [1.5 · sections/bow-tie-architecture.md:10, 86](../../compressed-essay/sections/bow-tie-architecture.md#L10) | 1.4, 1.5, 2.4 |
+| calibration | [3.5 · sections/the-loop-of-refinement.md:92](../../compressed-essay/sections/the-loop-of-refinement.md#L92) (first statement) | 3.5, 3.7 |
+| capacity | [2.3 · sections/slack.md:10](../../compressed-essay/sections/slack.md#L10) | 2.1, 2.3 |
+| chunking | [1.2 · sections/the-field.md:50](../../compressed-essay/sections/the-field.md#L50) | 1.2, 1.3, 5.1, 7.2 |
+| citation-support | [1.1 · sections/the-compression-gradient.md:8, 9, 10](../../compressed-essay/sections/the-compression-gradient.md#L8) (first statement) | 1.1, 1.2, 1.3, 2.3, 2.4 |
+| closed-loop | [3.5 · sections/the-loop-of-refinement.md:18](../../compressed-essay/sections/the-loop-of-refinement.md#L18) | 3.5, 3.6, 4.2, 7.1 |
+| cognitive-light-cone | [1.5 · sections/bow-tie-architecture.md:92](../../compressed-essay/sections/bow-tie-architecture.md#L92) | 1.5, 7.2 |
+| coherence | [3.5 · sections/the-loop-of-refinement.md:16](../../compressed-essay/sections/the-loop-of-refinement.md#L16) | 1.2, 3.5 |
+| compression | [Introduction · introduction.md:16](../../compressed-essay/introduction.md#L16) | Introduction, Opening draft, 1.1, 1.4, 1.5, 2.1, 5.1, 7.1 |
+| compression-gradient | [Introduction · introduction.md:18](../../compressed-essay/introduction.md#L18) (first statement) | Introduction, Opening draft, 1.4, 1.5, 2.4, 3.1, 3.2, 3.3, 3.4, 5.1, 6.1, 7.2 |
+| conditioning | [1.4 · sections/thoughts-and-memories.md:20](../../compressed-essay/sections/thoughts-and-memories.md#L20) (first statement) | 1.4, 3.4, 5.1 |
+| constraints | [1.2 · sections/the-field.md:20](../../compressed-essay/sections/the-field.md#L20) | 1.2, 3.5, 7.2 |
+| context | [1.4 · sections/thoughts-and-memories.md:22](../../compressed-essay/sections/thoughts-and-memories.md#L22) (first statement) | 1.4, 1.5, 5.1 |
+| context-dependence | [2.2 · sections/embodiment-and-somatic-stabilization.md:36](../../compressed-essay/sections/embodiment-and-somatic-stabilization.md#L36) (first statement) | 2.2, 3.4 |
+| continuity | [1.4 · sections/thoughts-and-memories.md:36](../../compressed-essay/sections/thoughts-and-memories.md#L36) (first statement) | 1.4, 1.5 |
+| contraction | [1.2 · sections/the-field.md:66](../../compressed-essay/sections/the-field.md#L66) (first statement) | 1.2, 5.1, 5.3, 6.2 |
+| contraction-release | [2.1 · sections/the-energetic-triad.md:42](../../compressed-essay/sections/the-energetic-triad.md#L42) (first statement) | 2.1, 5.3 |
+| correspondence | [3.5 · sections/the-loop-of-refinement.md:12](../../compressed-essay/sections/the-loop-of-refinement.md#L12) (first statement) | 3.5, 3.6 |
+| creativity | [4.2 · sections/structural-thresholds-in-search-spaces-and-creativity.md:8, 10](../../compressed-essay/sections/structural-thresholds-in-search-spaces-and-creativity.md#L8) | Introduction, 1.5, 4.2 |
+| culture | [1.4 · sections/thoughts-and-memories.md:44](../../compressed-essay/sections/thoughts-and-memories.md#L44) (first statement) | 1.4, 5.1 |
+| danger-frame | [1.4 · sections/thoughts-and-memories.md:34](../../compressed-essay/sections/thoughts-and-memories.md#L34) (first statement) | 1.4, 1.5 |
+| de-chunking | [6.2 · sections/transparency-6-2.md:14](../../compressed-essay/sections/transparency-6-2.md#L14) (first statement) | 6.2, 7.2 |
+| dechunking | [1.3 · sections/chunking-gestalts-and-attractors.md:16](../../compressed-essay/sections/chunking-gestalts-and-attractors.md#L16) (first statement) | 1.3, 1.4, 6.1 |
+| decompression | [1.1 · sections/the-compression-gradient.md:21](../../compressed-essay/sections/the-compression-gradient.md#L21) | 1.1, 1.4, 1.5, 2.4, 3.1, 7.1 |
+| deep-priors | [1.2 · sections/the-field.md:34](../../compressed-essay/sections/the-field.md#L34) (first statement) | 1.2, 2.1, 2.2, 3.4, 3.5, 3.6, 5.3 |
+| default-field | [1.2 · sections/the-field.md:34](../../compressed-essay/sections/the-field.md#L34) | 1.2, 3.5, 3.7 |
+| dependency-tree | [1.2 · sections/the-field.md:52](../../compressed-essay/sections/the-field.md#L52) | 1.2, 1.4, 1.5, 2.1, 3.4, 3.5, 3.7, 4.2, 5.1, 5.3, 6.2 |
+| describability-versus-instantiability | [3.7 · sections/training-data.md:15](../../compressed-essay/sections/training-data.md#L15) (first statement) | 3.7, 4.1 |
+| desire-proxy | [5.3 · sections/the-suffering-loop.md:55](../../compressed-essay/sections/the-suffering-loop.md#L55) | 5.3, 6.1 |
+| diagram | [1.2 · sections/the-field.md:46](../../compressed-essay/sections/the-field.md#L46) (first statement) | 1.2, 1.3 |
+| echo-chamber | [3.6 · sections/real-making-vs-truth-making.md:16](../../compressed-essay/sections/real-making-vs-truth-making.md#L16) (first statement) | 3.6, 3.7 |
+| einstein | [2.2 · sections/embodiment-and-somatic-stabilization.md:34](../../compressed-essay/sections/embodiment-and-somatic-stabilization.md#L34) (first statement) | 2.2, 3.3 |
+| embodied-knowledge | [3.5 · sections/the-loop-of-refinement.md:46](../../compressed-essay/sections/the-loop-of-refinement.md#L46) (first statement) | 3.5, 3.7, 7.2 |
+| embodied-layer | [1.1 · sections/the-compression-gradient.md:19](../../compressed-essay/sections/the-compression-gradient.md#L19) | 1.1, 1.4 |
+| emergence | [4.1 · sections/emergence-and-failed-gestalts.md:8](../../compressed-essay/sections/emergence-and-failed-gestalts.md#L8) | 1.5, 4.1 |
+| emotion | [5.1 · sections/emotions.md:14](../../compressed-essay/sections/emotions.md#L14) | 1.4, 3.7, 5.1 |
+| emptiness | [6.1 · sections/emptiness-and-ontological-authority.md:8](../../compressed-essay/sections/emptiness-and-ontological-authority.md#L8) | 5.3, 6.1 |
+| energetic-triad | [2.1 · sections/the-energetic-triad.md:20](../../compressed-essay/sections/the-energetic-triad.md#L20) | 2.1, 2.2, 3.4, 6.2, 6.3 |
+| engram | [1.4 · sections/thoughts-and-memories.md:28](../../compressed-essay/sections/thoughts-and-memories.md#L28) (first statement) | 1.4, 1.5 |
+| environment | [1.4 · sections/thoughts-and-memories.md:44](../../compressed-essay/sections/thoughts-and-memories.md#L44) (first statement) | 1.4, 2.3 |
+| epistemic-status | [Introduction · introduction.md:8](../../compressed-essay/introduction.md#L8) (first statement) | Introduction, 6.3 |
+| equanimity | [5.3 · sections/the-suffering-loop.md:57](../../compressed-essay/sections/the-suffering-loop.md#L57) | 2.3, 5.3, 6.2, 7.1 |
+| error-correction | [1.4 · sections/thoughts-and-memories.md:54](../../compressed-essay/sections/thoughts-and-memories.md#L54) (first statement) | 1.4, 3.6 |
+| ethics | [7.1 · sections/sanity-and-wisdom.md:57](../../compressed-essay/sections/sanity-and-wisdom.md#L57) (first statement) | 7.1, 7.2 |
+| evolution | [1.5 · sections/bow-tie-architecture.md:96](../../compressed-essay/sections/bow-tie-architecture.md#L96) (first statement) | 1.5, 4.2 |
+| expansion | [3.4 · sections/resonance-and-friction.md:13](../../compressed-essay/sections/resonance-and-friction.md#L13) (first statement) | 3.4, 5.3 |
+| expertise | [1.2 · sections/the-field.md:40](../../compressed-essay/sections/the-field.md#L40) (first statement) | 1.2, 1.3, 1.4, 2.4, 3.4, 3.5, 7.2 |
+| external-feedback | [3.5 · sections/the-loop-of-refinement.md:24](../../compressed-essay/sections/the-loop-of-refinement.md#L24) (first statement) | 3.5, 3.6 |
+| externalization | [1.1 · sections/the-compression-gradient.md:15](../../compressed-essay/sections/the-compression-gradient.md#L15) (first statement) | 1.1, 3.2, 3.5 |
+| failed-higher-order-gestalt | [4.1 · sections/emergence-and-failed-gestalts.md:14](../../compressed-essay/sections/emergence-and-failed-gestalts.md#L14) | 4.1, 4.2 |
+| fear | [3.6 · sections/real-making-vs-truth-making.md:12](../../compressed-essay/sections/real-making-vs-truth-making.md#L12) (first statement) | 3.6, 5.1 |
+| feedback | [1.5 · sections/bow-tie-architecture.md:16](../../compressed-essay/sections/bow-tie-architecture.md#L16) (first statement) | 1.5, 3.7 |
+| felt-safety | [2.3 · sections/slack.md:34](../../compressed-essay/sections/slack.md#L34) (first statement) | 2.3, 3.6 |
+| felt-sense | [3.4 · sections/resonance-and-friction.md:11](../../compressed-essay/sections/resonance-and-friction.md#L11) | 1.5, 2.1, 2.2, 2.4, 3.1, 3.4, 3.5 |
+| felt-shift | [3.4 · sections/resonance-and-friction.md:13](../../compressed-essay/sections/resonance-and-friction.md#L13) | 3.4, 6.2 |
+| field | [1.2 · sections/the-field.md:8](../../compressed-essay/sections/the-field.md#L8) | 1.1, 1.2, 1.4, 1.5, 2.1, 3.2 |
+| field-calibration | [3.2 · sections/intuition.md:16](../../compressed-essay/sections/intuition.md#L16) (first statement) | 3.2, 3.3, 3.4, 3.5 |
+| field-configuration | [2.2 · sections/embodiment-and-somatic-stabilization.md:24](../../compressed-essay/sections/embodiment-and-somatic-stabilization.md#L24) (first statement) | 2.2, 3.4, 5.1, 5.3 |
+| field-dissonance | [5.2 · sections/field-dissonance.md:8](../../compressed-essay/sections/field-dissonance.md#L8) | 5.2, 7.2 |
+| field-fit | [3.1 · sections/metaphors.md:19](../../compressed-essay/sections/metaphors.md#L19) (first statement) | 3.1, 3.4 |
+| field-properties | [1.2 · sections/the-field.md:8](../../compressed-essay/sections/the-field.md#L8) (first statement) | 1.2, 3.2, 3.4, 3.5, 4.1, 4.2 |
+| field-retuning | [3.4 · sections/resonance-and-friction.md:25](../../compressed-essay/sections/resonance-and-friction.md#L25) (first statement) | 3.4, 3.5 |
+| fit-distance | [1.2 · sections/the-field.md:20](../../compressed-essay/sections/the-field.md#L20) | 1.2, 3.4, 5.3, 7.1 |
+| fluency | [1.4 · sections/thoughts-and-memories.md:38](../../compressed-essay/sections/thoughts-and-memories.md#L38) | 1.4, 3.4, 7.2 |
+| formal-proof | [3.2 · sections/intuition.md:18](../../compressed-essay/sections/intuition.md#L18) (first statement) | 3.2, 3.3 |
+| framing | [1.4 · sections/thoughts-and-memories.md:52](../../compressed-essay/sections/thoughts-and-memories.md#L52) (first statement) | 1.4, 2.4 |
+| free-energy-principle | [1.5 · sections/bow-tie-architecture.md:14](../../compressed-essay/sections/bow-tie-architecture.md#L14) (first statement) | 1.5, 2.1 |
+| friction | [3.4 · sections/resonance-and-friction.md:13](../../compressed-essay/sections/resonance-and-friction.md#L13) | 2.1, 2.4, 3.4, 3.5, 3.6, 3.7, 4.1, 5.2, 5.3, 6.1, 6.2, 6.3, 7.1, 7.2 |
+| gendlin | [3.4 · sections/resonance-and-friction.md:9](../../compressed-essay/sections/resonance-and-friction.md#L9) (first statement) | 3.4, 3.5 |
+| generalization | [1.5 · sections/bow-tie-architecture.md:10](../../compressed-essay/sections/bow-tie-architecture.md#L10) (first statement) | 1.5, 3.7, 7.2 |
+| generative-memory | [1.4 · sections/thoughts-and-memories.md:26](../../compressed-essay/sections/thoughts-and-memories.md#L26) (first statement) | 1.4, 1.5 |
+| gestalt | [1.3 · sections/chunking-gestalts-and-attractors.md:8](../../compressed-essay/sections/chunking-gestalts-and-attractors.md#L8) | 1.3, 1.4, 1.5, 2.1, 4.1 |
+| gestalt-prerequisites | [1.3 · sections/chunking-gestalts-and-attractors.md:30](../../compressed-essay/sections/chunking-gestalts-and-attractors.md#L30) (first statement) | 1.3, 3.7, 4.1, 4.2 |
+| gestalt-stability | [4.1 · sections/emergence-and-failed-gestalts.md:14](../../compressed-essay/sections/emergence-and-failed-gestalts.md#L14) (first statement) | 4.1, 4.2 |
+| goodness | [1.4 · sections/thoughts-and-memories.md:34](../../compressed-essay/sections/thoughts-and-memories.md#L34) (first statement) | 1.4, 1.5 |
+| gradual-structure-abrupt-appearance | [4.1 · sections/emergence-and-failed-gestalts.md:32](../../compressed-essay/sections/emergence-and-failed-gestalts.md#L32) (first statement) | 4.1, 4.2 |
+| grothendieck | [3.3 · sections/mathematics.md:13](../../compressed-essay/sections/mathematics.md#L13) (first statement) | 3.3, 3.4 |
+| haptic-contraction | [2.2 · sections/embodiment-and-somatic-stabilization.md:10](../../compressed-essay/sections/embodiment-and-somatic-stabilization.md#L10) | 2.2, 5.3, 6.1, 6.2 |
+| ignorance | [3.5 · sections/the-loop-of-refinement.md:84](../../compressed-essay/sections/the-loop-of-refinement.md#L84) (first statement) | 3.5, 5.3 |
+| ineffability | [Introduction · introduction.md:14](../../compressed-essay/introduction.md#L14) (first statement) | Introduction, Opening draft, 1.1, 7.1 |
+| input-diversity | [3.7 · sections/training-data.md:9](../../compressed-essay/sections/training-data.md#L9) (first statement) | 3.7, 4.2 |
+| integration | [2.1 · sections/the-energetic-triad.md:14](../../compressed-essay/sections/the-energetic-triad.md#L14) | 2.1, 3.6, 5.2 |
+| integration-cost | [2.1 · sections/the-energetic-triad.md:24](../../compressed-essay/sections/the-energetic-triad.md#L24) (first statement) | 2.1, 3.5, 4.1, 4.2, 5.3, 6.2, 6.3, 7.2 |
+| intelligence | [1.5 · sections/bow-tie-architecture.md:70](../../compressed-essay/sections/bow-tie-architecture.md#L70) | 1.5, 6.1 |
+| interoception | [2.1 · sections/the-energetic-triad.md:40](../../compressed-essay/sections/the-energetic-triad.md#L40) | 2.1, 5.1, 6.2 |
+| intuition | [3.2 · sections/intuition.md:8](../../compressed-essay/sections/intuition.md#L8) | 3.1, 3.2, 3.5 |
+| knowledge | [Introduction · introduction.md:18](../../compressed-essay/introduction.md#L18) | Introduction, Opening draft, 1.4 |
+| language | [2.4 · sections/language.md:7, 9](../../compressed-essay/sections/language.md#L7) | Introduction, Opening draft, 2.4 |
+| latch-release | [2.2 · sections/embodiment-and-somatic-stabilization.md:20](../../compressed-essay/sections/embodiment-and-somatic-stabilization.md#L20) (first statement) | 2.2, 2.3 |
+| latched-contraction | [5.1 · sections/emotions.md:34](../../compressed-essay/sections/emotions.md#L34) (first statement) | 5.1, 5.3 |
+| leakage | [5.1 · sections/emotions.md:32](../../compressed-essay/sections/emotions.md#L32) (first statement) | 5.1, 5.2 |
+| learning | [1.5 · sections/bow-tie-architecture.md:38](../../compressed-essay/sections/bow-tie-architecture.md#L38) | 1.4, 1.5, 2.2, 7.2 |
+| loop-of-refinement | [3.2 · sections/intuition.md:16](../../compressed-essay/sections/intuition.md#L16) | 3.2, 3.3, 3.4, 3.5, 3.6, 3.7, 4.1, 4.2, 6.2, 7.1, 7.2 |
+| lossy-compression | [3.1 · sections/metaphors.md:17](../../compressed-essay/sections/metaphors.md#L17) (first statement) | 3.1, 3.2 |
+| lossy-notation | [3.3 · sections/mathematics.md:15](../../compressed-essay/sections/mathematics.md#L15) (first statement) | 3.3, 3.5, 4.1 |
+| mathematical-intuition | [3.2 · sections/intuition.md:16](../../compressed-essay/sections/intuition.md#L16) (first statement) | 3.2, 3.3 |
+| mathematician | [2.1 · sections/the-energetic-triad.md:36](../../compressed-essay/sections/the-energetic-triad.md#L36) (first statement) | 2.1, 2.2 |
+| mathematics | [3.1 · sections/metaphors.md:17](../../compressed-essay/sections/metaphors.md#L17) (first statement) | 3.1, 3.2 |
+| meditation | [1.2 · sections/the-field.md:68](../../compressed-essay/sections/the-field.md#L68) (first statement) | 1.2, 2.2, 5.3 |
+| memory | [1.4 · sections/thoughts-and-memories.md:24](../../compressed-essay/sections/thoughts-and-memories.md#L24) | 1.4, 1.5, 6.2, 7.2 |
+| metabolic-limits | [1.4 · sections/thoughts-and-memories.md:34](../../compressed-essay/sections/thoughts-and-memories.md#L34) (first statement) | 1.4, 1.5 |
+| metaphor | [3.1 · sections/metaphors.md:9](../../compressed-essay/sections/metaphors.md#L9) | 2.4, 3.1, 3.5, 7.1 |
+| model-status | [1.2 · sections/the-field.md:16](../../compressed-essay/sections/the-field.md#L16) (first statement) | 1.2, 2.1, 2.4 |
+| mood | [5.1 · sections/emotions.md:14](../../compressed-essay/sections/emotions.md#L14) | 1.4, 5.1 |
+| moth-metamorphosis | [1.4 · sections/thoughts-and-memories.md:24](../../compressed-essay/sections/thoughts-and-memories.md#L24) (first statement) | 1.4, 1.5 |
+| nested-targets | [1.5 · sections/bow-tie-architecture.md:34](../../compressed-essay/sections/bow-tie-architecture.md#L34) (first statement) | 1.5, 2.1 |
+| notation | [Introduction · introduction.md:18](../../compressed-essay/introduction.md#L18) (first statement) | Introduction, Opening draft, 1.4, 2.2, 3.3, 3.5, 7.1, 7.2 |
+| notational-layer | [1.1 · sections/the-compression-gradient.md:19](../../compressed-essay/sections/the-compression-gradient.md#L19) | 1.1, 3.1 |
+| novelty | [3.7 · sections/training-data.md:15](../../compressed-essay/sections/training-data.md#L15) (first statement) | 3.7, 4.2 |
+| objectification | [3.5 · sections/the-loop-of-refinement.md:40, 44](../../compressed-essay/sections/the-loop-of-refinement.md#L40) | 3.5, 6.1, 6.2, 7.2 |
+| ontological-authority | [6.1 · sections/emptiness-and-ontological-authority.md:20](../../compressed-essay/sections/emptiness-and-ontological-authority.md#L20) | 6.1, 6.2, 7.2 |
+| ontological-frame | [3.6 · sections/real-making-vs-truth-making.md:14](../../compressed-essay/sections/real-making-vs-truth-making.md#L14) (first statement) | 3.6, 3.7, 4.2 |
+| open-loop | [3.5 · sections/the-loop-of-refinement.md:18](../../compressed-essay/sections/the-loop-of-refinement.md#L18) | 3.5, 3.6, 3.7, 4.2, 7.1, 7.2 |
+| overgeneralization | [3.7 · sections/training-data.md:19](../../compressed-essay/sections/training-data.md#L19) (first statement) | 3.7, 6.2 |
+| phenomenal-transparency | [1.2 · sections/the-field.md:66](../../compressed-essay/sections/the-field.md#L66) | 1.2, 6.2 |
+| practice | [7.2 · sections/practice.md:16](../../compressed-essay/sections/practice.md#L16) | 1.5, 3.7, 4.2, 6.2, 7.2 |
+| precision-weighting | [1.2 · sections/the-field.md:22](../../compressed-essay/sections/the-field.md#L22) | 1.2, 1.3, 1.5, 2.1, 2.2, 2.3, 3.2, 3.4, 3.7, 4.1, 4.2, 5.1, 5.2, 6.1, 6.2, 6.3, 7.2 |
+| prediction | [1.5 · sections/bow-tie-architecture.md:98](../../compressed-essay/sections/bow-tie-architecture.md#L98) (first statement) | 1.5, 2.1 |
+| prediction-error | [1.2 · sections/the-field.md:50](../../compressed-essay/sections/the-field.md#L50) | 1.2, 1.5 |
+| prediction-relative-response | [3.5 · sections/the-loop-of-refinement.md:54](../../compressed-essay/sections/the-loop-of-refinement.md#L54) (first statement) | 3.5, 3.7, 4.1 |
+| prerequisites | [2.1 · sections/the-energetic-triad.md:18](../../compressed-essay/sections/the-energetic-triad.md#L18) (first statement) | 2.1, 7.2 |
+| prior-activation | [3.7 · sections/training-data.md:15](../../compressed-essay/sections/training-data.md#L15) (first statement) | 3.7, 4.2 |
+| prior-depth | [1.4 · sections/thoughts-and-memories.md:20](../../compressed-essay/sections/thoughts-and-memories.md#L20) (first statement) | 1.4, 1.5, 2.1, 2.2, 2.3 |
+| prior-regeneration | [1.2 · sections/the-field.md:18](../../compressed-essay/sections/the-field.md#L18) (first statement) | 1.2, 1.3 |
+| priors | [1.2 · sections/the-field.md:8](../../compressed-essay/sections/the-field.md#L8) | 1.2, 1.4, 1.5, 3.7 |
+| probe | [3.5 · sections/the-loop-of-refinement.md:36](../../compressed-essay/sections/the-loop-of-refinement.md#L36) | 3.5, 4.1, 7.2 |
+| psychedelics | [1.2 · sections/the-field.md:36](../../compressed-essay/sections/the-field.md#L36) (first statement) | 1.2, 2.2, 7.1 |
+| reachability | [1.3 · sections/chunking-gestalts-and-attractors.md:26](../../compressed-essay/sections/chunking-gestalts-and-attractors.md#L26) | 1.3, 1.4, 2.3, 3.4, 5.2, 5.3, 6.1, 6.2, 7.1, 7.2 |
+| reachable-configuration | [3.6 · sections/real-making-vs-truth-making.md:10](../../compressed-essay/sections/real-making-vs-truth-making.md#L10) (first statement) | 3.6, 4.2 |
+| reading | [1.5 · sections/bow-tie-architecture.md:34](../../compressed-essay/sections/bow-tie-architecture.md#L34) (first statement) | 1.5, 2.2 |
+| real-making | [3.6 · sections/real-making-vs-truth-making.md:10](../../compressed-essay/sections/real-making-vs-truth-making.md#L10) | 3.6, 6.1 |
+| recall | [1.4 · sections/thoughts-and-memories.md:24](../../compressed-essay/sections/thoughts-and-memories.md#L24) | 1.4, 1.5 |
+| recombination | [3.7 · sections/training-data.md:15](../../compressed-essay/sections/training-data.md#L15) (first statement) | 3.7, 4.2 |
+| reconstruction | [1.4 · sections/thoughts-and-memories.md:28, 30](../../compressed-essay/sections/thoughts-and-memories.md#L28) | 1.4, 1.5 |
+| reification | [6.1 · sections/emptiness-and-ontological-authority.md:22](../../compressed-essay/sections/emptiness-and-ontological-authority.md#L22) | 6.1, 6.2, 7.1 |
+| repetition | [2.4 · sections/language.md:17](../../compressed-essay/sections/language.md#L17) (first statement) | 2.4, 3.4, 3.7 |
+| representation | [1.1 · sections/the-compression-gradient.md:27](../../compressed-essay/sections/the-compression-gradient.md#L27) | 1.1, 2.2, 3.3, 3.5 |
+| representational-layer | [1.1 · sections/the-compression-gradient.md:19](../../compressed-essay/sections/the-compression-gradient.md#L19) | 1.1, 1.4, 3.1, 3.3 |
+| resonance | [3.4 · sections/resonance-and-friction.md:13](../../compressed-essay/sections/resonance-and-friction.md#L13) | 2.1, 2.4, 3.3, 3.4, 3.5, 3.6, 3.7, 4.1, 6.1, 6.2, 6.3, 7.1, 7.2 |
+| retrieval | [1.4 · sections/thoughts-and-memories.md:38](../../compressed-essay/sections/thoughts-and-memories.md#L38) (first statement) | 1.4, 7.2 |
+| rumination | [1.4 · sections/thoughts-and-memories.md:16](../../compressed-essay/sections/thoughts-and-memories.md#L16) | 1.4, 5.3 |
+| salience | [1.4 · sections/thoughts-and-memories.md:34](../../compressed-essay/sections/thoughts-and-memories.md#L34) (first statement) | 1.4, 1.5, 3.4 |
+| sanity | [7.1 · sections/sanity-and-wisdom.md:10](../../compressed-essay/sections/sanity-and-wisdom.md#L10) | 6.2, 7.1, 7.2 |
+| scarcity | [1.5 · sections/bow-tie-architecture.md:96](../../compressed-essay/sections/bow-tie-architecture.md#L96) (first statement) | 1.5, 2.3 |
+| selfhood | [1.4 · sections/thoughts-and-memories.md:16](../../compressed-essay/sections/thoughts-and-memories.md#L16) (first statement) | 1.4, 1.5 |
+| sensory-clarity | [3.5 · sections/the-loop-of-refinement.md:84](../../compressed-essay/sections/the-loop-of-refinement.md#L84) | 1.3, 1.4, 3.5, 6.2, 7.2 |
+| shared-priors | [1.2 · sections/the-field.md:58](../../compressed-essay/sections/the-field.md#L58) (first statement) | 1.2, 2.4 |
+| slack | [1.2 · sections/the-field.md:76](../../compressed-essay/sections/the-field.md#L76) | 1.2, 1.3, 2.1, 2.2, 2.3, 3.5, 3.6, 4.2, 5.3, 6.1, 6.2, 7.2 |
+| somatic-stabilization | [2 · sections/the-dynamics-of-fit.md:9](../../compressed-essay/sections/the-dynamics-of-fit.md#L9) (first statement) | 2, 2.2 |
+| specificity | [Introduction · introduction.md:4](../../compressed-essay/introduction.md#L4) (first statement) | Introduction, 1.5, 2.4 |
+| stance | [2.2 · sections/embodiment-and-somatic-stabilization.md:28](../../compressed-essay/sections/embodiment-and-somatic-stabilization.md#L28) | 2.2, 2.4 |
+| stress | [2.1 · sections/the-energetic-triad.md:40](../../compressed-essay/sections/the-energetic-triad.md#L40) (first statement) | 2.1, 3.6 |
+| structural-threshold | [4.2 · sections/structural-thresholds-in-search-spaces-and-creativity.md:8](../../compressed-essay/sections/structural-thresholds-in-search-spaces-and-creativity.md#L8) | 4.1, 4.2, 5.1, 5.2 |
+| structure | [1.5 · sections/bow-tie-architecture.md:26](../../compressed-essay/sections/bow-tie-architecture.md#L26) | 1.4, 1.5 |
+| structure-preserving-transformation | [1.2 · sections/the-field.md:64](../../compressed-essay/sections/the-field.md#L64) | 1.2, 1.5, 4.1, 7.2 |
+| substrate-change | [1.4 · sections/thoughts-and-memories.md:24](../../compressed-essay/sections/thoughts-and-memories.md#L24) (first statement) | 1.4, 1.5 |
+| suffering | [5.3 · sections/the-suffering-loop.md:10](../../compressed-essay/sections/the-suffering-loop.md#L10) | 1.4, 1.5, 3.5, 5.2, 5.3 |
+| suffering-loop | [6.2 · sections/transparency-6-2.md:28](../../compressed-essay/sections/transparency-6-2.md#L28) (first statement) | 6.2, 7.1 |
+| suppression | [5.1 · sections/emotions.md:34](../../compressed-essay/sections/emotions.md#L34) (first statement) | 5.1, 5.2 |
+| survival | [1.2 · sections/the-field.md:22](../../compressed-essay/sections/the-field.md#L22) (first statement) | 1.2, 1.5 |
+| symmetry-theory-of-valence | [1.2 · sections/the-field.md:12](../../compressed-essay/sections/the-field.md#L12) (first statement) | 1.2, 1.3, 6.3 |
+| tacit-knowledge | [1.1 · sections/the-compression-gradient.md:19](../../compressed-essay/sections/the-compression-gradient.md#L19) (first statement) | 1.1, 2.2, 3.2, 3.3, 3.5, 5.3 |
+| target | [1.2 · sections/the-field.md:24](../../compressed-essay/sections/the-field.md#L24) | 1.2, 1.5, 2.1 |
+| target-conflict | [1.2 · sections/the-field.md:26](../../compressed-essay/sections/the-field.md#L26) (first statement) | 1.2, 3.4 |
+| target-error | [1.2 · sections/the-field.md:50](../../compressed-essay/sections/the-field.md#L50) | 1.2, 1.4, 2.1, 2.2, 5.2, 5.3, 6.3 |
+| target-precision | [1.2 · sections/the-field.md:24](../../compressed-essay/sections/the-field.md#L24) | 1.2, 2.1 |
+| targets | [1.2 · sections/the-field.md:20](../../compressed-essay/sections/the-field.md#L20) (first statement) | 1.2, 1.4, 1.5, 3.5, 3.6, 3.7, 4.2, 7.1, 7.2 |
+| threat | [1.5 · sections/bow-tie-architecture.md:96](../../compressed-essay/sections/bow-tie-architecture.md#L96) (first statement) | 1.5, 2.3 |
+| trained-intuition | [3.2 · sections/intuition.md:12](../../compressed-essay/sections/intuition.md#L12) (first statement) | 3.2, 3.3 |
+| training-data | [3.7 · sections/training-data.md:9](../../compressed-essay/sections/training-data.md#L9) | 3.7, 4.2, 7.2 |
+| transparency | [6.2 · sections/transparency-6-2.md:8](../../compressed-essay/sections/transparency-6-2.md#L8) | 6.2, 7.1, 7.2 |
+| truth | [3.5 · sections/the-loop-of-refinement.md:16](../../compressed-essay/sections/the-loop-of-refinement.md#L16) | 3.4, 3.5, 6.2, 7.1, 7.2 |
+| truth-making | [3.6 · sections/real-making-vs-truth-making.md:14](../../compressed-essay/sections/real-making-vs-truth-making.md#L14) | 3.6, 3.7, 6.1 |
+| truth-seeking | [3.5 · sections/the-loop-of-refinement.md:18](../../compressed-essay/sections/the-loop-of-refinement.md#L18) (first statement) | 3.5, 3.6 |
+| unfinished-section | [3.5 · sections/the-loop-of-refinement.md:5, 6](../../compressed-essay/sections/the-loop-of-refinement.md#L5) (first statement) | 3.5, 3.6, 3.7, 4, 4.1, 4.2 |
+| valence | [1.2 · sections/the-field.md:20](../../compressed-essay/sections/the-field.md#L20) | 1.2, 2, 2.1, 2.4, 3.2, 3.4, 3.5, 5.1, 6.3 |
+| variables | [1.2 · sections/the-field.md:20](../../compressed-essay/sections/the-field.md#L20) | 1.2, 3.5 |
+| vascular-tension | [2.2 · sections/embodiment-and-somatic-stabilization.md:18](../../compressed-essay/sections/embodiment-and-somatic-stabilization.md#L18) (first statement) | 2.2, 2.4 |
+| vasocomputation | [2.2 · sections/embodiment-and-somatic-stabilization.md:16](../../compressed-essay/sections/embodiment-and-somatic-stabilization.md#L16) | 1.5, 2.2 |
+| water-bottle | [1.3 · sections/chunking-gestalts-and-attractors.md:14](../../compressed-essay/sections/chunking-gestalts-and-attractors.md#L14) (first statement) | 1.3, 1.5 |
+| wisdom | [7.1 · sections/sanity-and-wisdom.md:10](../../compressed-essay/sections/sanity-and-wisdom.md#L10) | 6.2, 7.1, 7.2 |
+| writing | [1.4 · sections/thoughts-and-memories.md:44](../../compressed-essay/sections/thoughts-and-memories.md#L44) (first statement) | 1.4, 2.4 |
 
 ## Explicit original cross-section references
 
@@ -1822,23 +1822,23 @@ This checklist records inventory coverage and initial reader findings; it does n
 
 ## User-requested restoration checks
 
-All checks below verify exact original wording, its requested placement, and its presence in the rendered `/compressed` page.
+All checks below verify exact original wording, its requested placement, and its presence in the rendered `/` page.
 
-- [x] **Restoration 1 · section 1.5:** Synthesis introduction — [sections/bow-tie-architecture.md:10](sections/bow-tie-architecture.md#L10); original [sections/bow-tie-architecture.md:10](../src/content/sections/bow-tie-architecture.md#L10).
-- [x] **Restoration 2 · section 1.5:** Shared-core synthesis paragraph — [sections/bow-tie-architecture.md:16](sections/bow-tie-architecture.md#L16); original [sections/bow-tie-architecture.md:16](../src/content/sections/bow-tie-architecture.md#L16).
-- [x] **Restoration 3 · section 1.5:** Distributed middle-of-process clarification — [sections/bow-tie-architecture.md:22](sections/bow-tie-architecture.md#L22); original [sections/bow-tie-architecture.md:22](../src/content/sections/bow-tie-architecture.md#L22).
-- [x] **Restoration 4 · section 1.5:** Inference/generation coordination after the newt example — [sections/bow-tie-architecture.md:78](sections/bow-tie-architecture.md#L78); original [sections/bow-tie-architecture.md:78](../src/content/sections/bow-tie-architecture.md#L78).
-- [x] **Restoration 5 · section 1.5:** Abstract constraints and long-term specificity — [sections/bow-tie-architecture.md:90](sections/bow-tie-architecture.md#L90); original [sections/bow-tie-architecture.md:90](../src/content/sections/bow-tie-architecture.md#L90).
-- [x] **Restoration 6 · section 2.2:** Vasocomputation hypothesis qualifier — [sections/embodiment-and-somatic-stabilization.md:16](sections/embodiment-and-somatic-stabilization.md#L16); original [sections/embodiment-and-somatic-stabilization.md:18](../src/content/sections/embodiment-and-somatic-stabilization.md#L18).
-- [x] **Restoration 7 · section 3.2:** Central pre-verbal intuition claim — [sections/intuition.md:12](sections/intuition.md#L12); original [sections/intuition.md:12](../src/content/sections/intuition.md#L12).
-- [x] **Restoration 8 · section 1.4:** Flashcards topic sentences and compression-gradient context — [sections/thoughts-and-memories.md:46](sections/thoughts-and-memories.md#L46); original [sections/thoughts-and-memories.md:46](../src/content/sections/thoughts-and-memories.md#L46).
-- [x] **Restoration 9 · section 1.4:** Persistence question introducing memory — [sections/thoughts-and-memories.md:26](sections/thoughts-and-memories.md#L26); original [sections/thoughts-and-memories.md:26](../src/content/sections/thoughts-and-memories.md#L26).
-- [x] **Restoration 10 · section 6.2:** Sensory-clarity meditation analogy — [sections/transparency-6-2.md:40](sections/transparency-6-2.md#L40); original [sections/transparency-6-2.md:40](../src/content/sections/transparency-6-2.md#L40).
-- [x] **Restoration 11 · section 5.3:** Proxy resolution versus persistent target error — [sections/the-suffering-loop.md:53](sections/the-suffering-loop.md#L53); original [sections/the-suffering-loop.md:55](../src/content/sections/the-suffering-loop.md#L55).
-- [x] **Restoration 12 · section 6.1:** Working definition of emptiness — [sections/emptiness-and-ontological-authority.md:18](sections/emptiness-and-ontological-authority.md#L18); original [sections/emptiness-and-ontological-authority.md:18](../src/content/sections/emptiness-and-ontological-authority.md#L18).
-- [x] **Restoration 13 · section 1.1:** Upward compression and loss before the God example — [sections/the-compression-gradient.md:21](sections/the-compression-gradient.md#L21); original [sections/the-compression-gradient.md:21](../src/content/sections/the-compression-gradient.md#L21).
-- [x] **Restoration 14 · section 2.3:** No single scalar slack measurement — [sections/slack.md:22](sections/slack.md#L22); original [sections/slack.md:22](../src/content/sections/slack.md#L22).
-- [x] **Restoration 15 · section 3.3:** Interpretation of Tao’s shared-model quotation — [sections/mathematics.md:15](sections/mathematics.md#L15); original [sections/mathematics.md:15](../src/content/sections/mathematics.md#L15).
-- [x] **Restoration 16 · section 3.6:** Abstraction-level transition before the religion example — [sections/real-making-vs-truth-making.md:14](sections/real-making-vs-truth-making.md#L14); original [sections/real-making-vs-truth-making.md:14](../src/content/sections/real-making-vs-truth-making.md#L14).
-- [x] **Restoration 17 · section 1.2:** Theoretical-model qualification of the rich embodied landscape — [sections/the-field.md:67](sections/the-field.md#L67); original [sections/the-field.md:66](../src/content/sections/the-field.md#L66).
-- [x] **Restoration 18 · section 7.1:** Grothendieck closing-quotation lead-in — [sections/sanity-and-wisdom.md:63](sections/sanity-and-wisdom.md#L63); original [sections/sanity-and-wisdom.md:65](../src/content/sections/sanity-and-wisdom.md#L65).
+- [x] **Restoration 1 · section 1.5:** Synthesis introduction — [sections/bow-tie-architecture.md:10](sections/bow-tie-architecture.md#L10); original [sections/bow-tie-architecture.md:10](../../compressed-essay/sections/bow-tie-architecture.md#L10).
+- [x] **Restoration 2 · section 1.5:** Shared-core synthesis paragraph — [sections/bow-tie-architecture.md:16](sections/bow-tie-architecture.md#L16); original [sections/bow-tie-architecture.md:16](../../compressed-essay/sections/bow-tie-architecture.md#L16).
+- [x] **Restoration 3 · section 1.5:** Distributed middle-of-process clarification — [sections/bow-tie-architecture.md:22](sections/bow-tie-architecture.md#L22); original [sections/bow-tie-architecture.md:22](../../compressed-essay/sections/bow-tie-architecture.md#L22).
+- [x] **Restoration 4 · section 1.5:** Inference/generation coordination after the newt example — [sections/bow-tie-architecture.md:78](sections/bow-tie-architecture.md#L78); original [sections/bow-tie-architecture.md:78](../../compressed-essay/sections/bow-tie-architecture.md#L78).
+- [x] **Restoration 5 · section 1.5:** Abstract constraints and long-term specificity — [sections/bow-tie-architecture.md:90](sections/bow-tie-architecture.md#L90); original [sections/bow-tie-architecture.md:90](../../compressed-essay/sections/bow-tie-architecture.md#L90).
+- [x] **Restoration 6 · section 2.2:** Vasocomputation hypothesis qualifier — [sections/embodiment-and-somatic-stabilization.md:16](sections/embodiment-and-somatic-stabilization.md#L16); original [sections/embodiment-and-somatic-stabilization.md:18](../../compressed-essay/sections/embodiment-and-somatic-stabilization.md#L18).
+- [x] **Restoration 7 · section 3.2:** Central pre-verbal intuition claim — [sections/intuition.md:12](sections/intuition.md#L12); original [sections/intuition.md:12](../../compressed-essay/sections/intuition.md#L12).
+- [x] **Restoration 8 · section 1.4:** Flashcards topic sentences and compression-gradient context — [sections/thoughts-and-memories.md:46](sections/thoughts-and-memories.md#L46); original [sections/thoughts-and-memories.md:46](../../compressed-essay/sections/thoughts-and-memories.md#L46).
+- [x] **Restoration 9 · section 1.4:** Persistence question introducing memory — [sections/thoughts-and-memories.md:26](sections/thoughts-and-memories.md#L26); original [sections/thoughts-and-memories.md:26](../../compressed-essay/sections/thoughts-and-memories.md#L26).
+- [x] **Restoration 10 · section 6.2:** Sensory-clarity meditation analogy — [sections/transparency-6-2.md:40](sections/transparency-6-2.md#L40); original [sections/transparency-6-2.md:40](../../compressed-essay/sections/transparency-6-2.md#L40).
+- [x] **Restoration 11 · section 5.3:** Proxy resolution versus persistent target error — [sections/the-suffering-loop.md:53](sections/the-suffering-loop.md#L53); original [sections/the-suffering-loop.md:55](../../compressed-essay/sections/the-suffering-loop.md#L55).
+- [x] **Restoration 12 · section 6.1:** Working definition of emptiness — [sections/emptiness-and-ontological-authority.md:18](sections/emptiness-and-ontological-authority.md#L18); original [sections/emptiness-and-ontological-authority.md:18](../../compressed-essay/sections/emptiness-and-ontological-authority.md#L18).
+- [x] **Restoration 13 · section 1.1:** Upward compression and loss before the God example — [sections/the-compression-gradient.md:21](sections/the-compression-gradient.md#L21); original [sections/the-compression-gradient.md:21](../../compressed-essay/sections/the-compression-gradient.md#L21).
+- [x] **Restoration 14 · section 2.3:** No single scalar slack measurement — [sections/slack.md:22](sections/slack.md#L22); original [sections/slack.md:22](../../compressed-essay/sections/slack.md#L22).
+- [x] **Restoration 15 · section 3.3:** Interpretation of Tao’s shared-model quotation — [sections/mathematics.md:15](sections/mathematics.md#L15); original [sections/mathematics.md:15](../../compressed-essay/sections/mathematics.md#L15).
+- [x] **Restoration 16 · section 3.6:** Abstraction-level transition before the religion example — [sections/real-making-vs-truth-making.md:14](sections/real-making-vs-truth-making.md#L14); original [sections/real-making-vs-truth-making.md:14](../../compressed-essay/sections/real-making-vs-truth-making.md#L14).
+- [x] **Restoration 17 · section 1.2:** Theoretical-model qualification of the rich embodied landscape — [sections/the-field.md:67](sections/the-field.md#L67); original [sections/the-field.md:66](../../compressed-essay/sections/the-field.md#L66).
+- [x] **Restoration 18 · section 7.1:** Grothendieck closing-quotation lead-in — [sections/sanity-and-wisdom.md:63](sections/sanity-and-wisdom.md#L63); original [sections/sanity-and-wisdom.md:65](../../compressed-essay/sections/sanity-and-wisdom.md#L65).

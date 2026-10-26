@@ -95,6 +95,27 @@ a:hover {
   line-height: 1.3;
 }
 
+.masthead__meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px 10px;
+  font-size: 16px;
+  line-height: 1.3;
+}
+
+.masthead__edition {
+  color: var(--muted);
+  font-style: italic;
+}
+
+.masthead__bullet {
+  flex: none;
+  width: 5px;
+  height: 5px;
+  background: var(--muted);
+}
+
 .masthead__version {
   color: var(--muted);
   font-size: 16px;
@@ -126,6 +147,10 @@ a:hover {
 }
 
 .masthead__version:hover {
+  color: var(--ink);
+}
+
+.masthead__version--active {
   color: var(--ink);
 }
 
@@ -497,6 +522,17 @@ button:focus-visible {
 
 .continuous-essay #introduction + section {
   margin-top: 16px;
+}
+
+.version-log__entry + .version-log__entry {
+  margin-top: 32px;
+}
+
+.version-log__divider {
+  width: 100%;
+  margin: 16px 0 0;
+  border: 0;
+  border-top: 1px solid var(--rule);
 }
 
 .continuous-essay section > :is(h1, h2, h3) {

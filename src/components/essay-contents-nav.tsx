@@ -20,7 +20,7 @@ export function EssayContentsNav({
   items: readonly EssayContentsItem[];
 }) {
   const pathname = usePathname();
-  const isContinuousEssay = pathname === "/" || pathname === "/compressed";
+  const isContinuousEssay = pathname === "/" || pathname === "/original";
   const [activeTargetId, setActiveTargetId] = useState("introduction");
   const linkElements = useRef(new Map<string, HTMLAnchorElement>());
 
@@ -161,7 +161,7 @@ export function EssayContentsNav({
                   }
                 }}
                 className={`contents__link${isActive ? " contents__link--active" : ""}`}
-                href={pathname === "/compressed" ? `/compressed#${item.targetId}` : item.href}
+                href={pathname === "/original" ? `/original#${item.targetId}` : item.href}
                 aria-current={isExactActive ? "location" : undefined}
                 onClick={() => setActiveTargetId(item.targetId)}
               >

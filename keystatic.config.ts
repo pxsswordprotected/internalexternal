@@ -40,6 +40,16 @@ export default config({
         content: richText("Section text"),
       },
     }),
+    versionLog: collection({
+      label: "Version log",
+      slugField: "version",
+      path: "src/content/version-log/*",
+      format: { contentField: "content" },
+      schema: {
+        version: fields.slug({ name: { label: "Version" } }),
+        content: richText("Version notes"),
+      },
+    }),
   },
   singletons: {
     settings: singleton({

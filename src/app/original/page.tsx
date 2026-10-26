@@ -3,13 +3,13 @@ import { MarkdocContent } from "@/components/markdoc-content";
 import { getIntroduction, getSections } from "@/lib/content";
 
 export const metadata: Metadata = {
-  title: "Compressed essay",
+  title: "Longer original essay",
 };
 
-export default async function CompressedEssayPage() {
+export default async function OriginalEssayPage() {
   const [introduction, sections] = await Promise.all([
-    getIntroduction("compressed"),
-    getSections("compressed"),
+    getIntroduction("original"),
+    getSections("original"),
   ]);
 
   return (

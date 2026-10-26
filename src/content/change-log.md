@@ -1,6 +1,13 @@
 # Change log
 
-Compressed copy of `src/content`; originals were not edited. Every original filename, numbered section, title, heading, author note, and diagram placeholder remains. The alternate opening draft retains its exact heading; duplicated body passages are preserved once in Introduction. Settings and seven short chapter roadmaps/scaffolds were copied unchanged.
+These reports describe compression of the longer original; neither essay’s wording changed when their locations were swapped. Every original filename, numbered section, title, heading, author note, and diagram placeholder remains. The alternate opening draft retains its exact heading; duplicated body passages are preserved once in Introduction. Settings and seven short chapter roadmaps/scaffolds were copied unchanged.
+
+## Current site locations
+
+- Main, editable compressed essay: `src/content`, viewed at `/`.
+- Longer, read-only original: `compressed-essay`, viewed at `/original`.
+
+The folders were swapped without changing essay text or frontmatter. Their existing names were retained; report links to the original were rebased to its new location.
 
 ## Counts
 

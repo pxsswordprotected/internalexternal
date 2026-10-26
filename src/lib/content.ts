@@ -22,7 +22,7 @@ export interface EssaySection {
 
 export const reader = createReader(process.cwd(), keystaticConfig);
 
-const compressedReader = createReader(process.cwd(), {
+const originalReader = createReader(process.cwd(), {
   ...keystaticConfig,
   collections: {
     ...keystaticConfig.collections,
@@ -49,9 +49,9 @@ export async function getSettings() {
 }
 
 export async function getSections(
-  version: "original" | "compressed" = "original",
+  version: "main" | "original" = "main",
 ): Promise<EssaySection[]> {
-  const contentReader = version === "compressed" ? compressedReader : reader;
+  const contentReader = version === "original" ? originalReader : reader;
   const sections: EssaySection[] = await contentReader.collections.sections.all();
   return sections.sort((left, right) => {
     const leftNumber = left.entry.sectionNumber?.trim();
@@ -78,6 +78,13 @@ export async function getSections(
   });
 }
 
+export async function getVersionLog() {
+  const versions = await reader.collections.versionLog.all();
+  return versions.sort((left, right) =>
+    sectionNumberCollator.compare(right.entry.version, left.entry.version),
+  );
+}
+
 export async function getCombinedEssayPlainText(): Promise<string> {
   const sections = await getSections();
   const documents = await Promise.all(
@@ -97,9 +104,9 @@ export async function getCombinedEssayPlainText(): Promise<string> {
 }
 
 export async function getIntroduction(
-  version: "original" | "compressed" = "original",
+  version: "main" | "original" = "main",
 ) {
-  const contentReader = version === "compressed" ? compressedReader : reader;
+  const contentReader = version === "original" ? originalReader : reader;
   const introduction = await contentReader.singletons.introduction.read();
   if (!introduction) {
     throw new Error("Introduction content is missing.");

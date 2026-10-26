@@ -3,6 +3,7 @@ import { EssayContentsNav } from "@/components/essay-contents-nav";
 import { EssayVersionNavigation } from "@/components/essay-version-navigation";
 import { getSections, getSettings } from "@/lib/content";
 import { InlineEditToggle } from "@/components/inline-editor/inline-edit-toggle";
+import { VersionLogLink } from "@/components/version-log-link";
 
 export async function SiteHeader() {
   const [settings, sections] = await Promise.all([getSettings(), getSections()]);
@@ -31,8 +32,12 @@ export async function SiteHeader() {
     <header className="site-header">
       <div className="masthead">
         <Link className="masthead__title" href="/">{settings.siteTitle}</Link>
+        <div className="masthead__meta">
+          <span className="masthead__edition">Working Edition v0.1</span>
+          <span className="masthead__bullet" aria-hidden="true" />
+          <VersionLogLink />
+        </div>
         <div className="masthead__utilities">
-          <span className="masthead__version" aria-disabled="true">Version log</span>
           <EssayVersionNavigation>
             <Link className="masthead__tools" href="/edit-sections">Essay section tools</Link>
             {process.env.NODE_ENV === "development" ? <InlineEditToggle /> : null}
