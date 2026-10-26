@@ -114,11 +114,11 @@ a:hover {
   font-style: italic;
 }
 
-.masthead__bullet {
+.masthead__star {
   flex: none;
-  width: 5px;
-  height: 5px;
-  background: var(--muted);
+  color: var(--muted);
+  font-size: 0.6em;
+  line-height: 1;
 }
 
 .masthead__version {

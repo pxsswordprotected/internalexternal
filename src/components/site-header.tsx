@@ -34,7 +34,7 @@ export async function SiteHeader() {
         <Link className="masthead__title" href="/">{settings.siteTitle}</Link>
         <div className="masthead__meta">
           <span className="masthead__edition">Working Edition v0.1</span>
-          <span className="masthead__bullet" aria-hidden="true" />
+          <span className="masthead__star" aria-hidden="true">★</span>
           <VersionLogLink />
         </div>
       </div>
