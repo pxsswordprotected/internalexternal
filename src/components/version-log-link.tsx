@@ -12,6 +12,7 @@ export function VersionLogLink() {
       href="/version-log"
       target="_self"
       aria-current={active ? "page" : undefined}
+      onClick={active ? (event) => event.preventDefault() : undefined}
     >
       Version log
     </Link>

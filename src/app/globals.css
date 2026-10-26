@@ -153,7 +153,7 @@ a:hover {
   color: var(--muted);
 }
 
-.masthead__version:hover {
+.masthead__version:not(.masthead__version--active):hover {
   color: var(--signature-blue);
 }
 
@@ -163,12 +163,14 @@ a.masthead__version::after {
   visibility: hidden;
 }
 
-a.masthead__version:is(:hover, :focus-visible)::after {
+a.masthead__version:not(.masthead__version--active):is(:hover, :focus-visible)::after {
   visibility: visible;
 }
 
+/* Current page: stays black and inert (click is prevented in VersionLogLink). */
 .masthead__version--active {
   color: var(--ink);
+  cursor: default;
 }
 
 a:focus-visible,
@@ -427,6 +429,24 @@ button:focus-visible {
 }
 
 .edition-note a:is(:hover, :focus-visible)::after {
+  content: "+";
+  margin-left: 0.25em;
+}
+
+.back-to-reading {
+  display: block;
+  width: fit-content;
+  margin-bottom: 16px;
+  color: var(--muted);
+  font-style: italic;
+  text-decoration: none;
+}
+
+.back-to-reading:is(:hover, :focus-visible) {
+  color: var(--signature-blue);
+}
+
+.back-to-reading:is(:hover, :focus-visible)::after {
   content: "+";
   margin-left: 0.25em;
 }

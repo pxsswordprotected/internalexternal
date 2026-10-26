@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { BackToReadingLink } from "@/components/back-to-reading-link";
 import { MarkdocContent } from "@/components/markdoc-content";
 import { getVersionLog } from "@/lib/content";
 
@@ -12,6 +13,7 @@ export default async function VersionLogPage() {
   return (
     <main id="main-content" className="page-shell continuous-essay version-log">
       <article>
+        <BackToReadingLink />
         {versions.map(({ slug, entry }) => (
           <section key={slug} id={`version-${slug}`} className="version-log__entry">
             <h2>Version {entry.version}</h2>

@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import localFont from "next/font/local";
 import { SiteHeader } from "@/components/site-header";
+import { PathnameHistory } from "@/components/back-to-reading-link";
 import { InlineEditProvider } from "@/components/inline-editor/inline-edit-provider";
 import "./globals.css";
 
@@ -32,6 +33,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
           Skip to content
         </a>
         <InlineEditProvider>
+          <PathnameHistory />
           <SiteHeader />
           {children}
         </InlineEditProvider>
