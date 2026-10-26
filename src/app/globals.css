@@ -227,8 +227,10 @@ button:focus-visible {
     left: 354px;
     top: 16px;
     z-index: 10;
-    min-height: 31.2px;
-    align-items: center;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 4px;
+    font-size: 12px;
     background: var(--paper);
   }
 

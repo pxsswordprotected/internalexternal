@@ -198,7 +198,7 @@ export function EssayContentsNav({
   return (
     <nav
       ref={navRef}
-      className={`contents${exactActiveItem ? " contents--tracking" : ""}`}
+      className={`contents${exactActiveItem || pathname === "/version-log" ? " contents--tracking" : ""}`}
       aria-label="Essay sections"
     >
       <ol className="contents__list">
