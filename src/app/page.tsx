@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { InlineEditableSection } from "@/components/inline-editor/inline-editable-section";
 import { MarkdocContent } from "@/components/markdoc-content";
 import { getIntroduction, getSections } from "@/lib/content";
@@ -11,6 +12,11 @@ export default async function Home() {
   return (
     <main id="main-content" className="page-shell continuous-essay">
       <article>
+        <p className="edition-note">
+          This is a working edition, meaning the text is neither complete nor final. It is in a
+          constant state of change, and you can find the changes in the{" "}
+          <Link href="/version-log" target="_self">version log</Link>.
+        </p>
         <InlineEditableSection
           documentRef={{ kind: "introduction" }}
           label="Introduction"

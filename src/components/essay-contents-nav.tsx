@@ -29,6 +29,7 @@ export function EssayContentsNav({
   const navRef = useRef<HTMLElement>(null);
 
   // Largest font size at which the real rendered lines (wrapped titles included) fit the sidebar.
+  // Set on the header so the masthead meta row shares it.
   useLayoutEffect(() => {
     const nav = navRef.current;
     const header = nav?.parentElement;
@@ -39,15 +40,16 @@ export function EssayContentsNav({
     const desktop = window.matchMedia("(min-width: 761px)");
 
     const fit = () => {
-      nav.style.fontSize = "";
+      header.style.removeProperty("--contents-font-size");
       if (!desktop.matches) {
         return;
       }
 
-      const available = header.clientHeight - nav.offsetTop;
       const fits = (size: number) => {
-        nav.style.fontSize = `${size}px`;
-        return nav.offsetHeight <= available;
+        header.style.setProperty("--contents-font-size", `${size}px`);
+        const contentBottom =
+          nav.getBoundingClientRect().bottom - header.getBoundingClientRect().top + header.scrollTop;
+        return contentBottom <= header.clientHeight;
       };
 
       if (fits(MAX_CONTENTS_FONT_SIZE)) {
@@ -64,7 +66,7 @@ export function EssayContentsNav({
           high = middle;
         }
       }
-      nav.style.fontSize = `${low}px`;
+      header.style.setProperty("--contents-font-size", `${low}px`);
     };
 
     fit();
@@ -76,7 +78,7 @@ export function EssayContentsNav({
     return () => {
       observer.disconnect();
       desktop.removeEventListener("change", fit);
-      nav.style.fontSize = "";
+      header.style.removeProperty("--contents-font-size");
     };
   }, [items]);
 
