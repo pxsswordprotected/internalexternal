@@ -2,7 +2,10 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useLayoutEffect, useRef, useState } from "react";
+
+const MIN_CONTENTS_FONT_SIZE = 11;
+const MAX_CONTENTS_FONT_SIZE = 16;
 
 export interface EssayContentsItem {
   targetId: string;
@@ -23,6 +26,59 @@ export function EssayContentsNav({
   const isContinuousEssay = pathname === "/" || pathname === "/original";
   const [activeTargetId, setActiveTargetId] = useState("introduction");
   const linkElements = useRef(new Map<string, HTMLAnchorElement>());
+  const navRef = useRef<HTMLElement>(null);
+
+  // Largest font size at which the real rendered lines (wrapped titles included) fit the sidebar.
+  useLayoutEffect(() => {
+    const nav = navRef.current;
+    const header = nav?.parentElement;
+    if (!nav || !header) {
+      return;
+    }
+
+    const desktop = window.matchMedia("(min-width: 761px)");
+
+    const fit = () => {
+      nav.style.fontSize = "";
+      if (!desktop.matches) {
+        return;
+      }
+
+      const available = header.clientHeight - nav.offsetTop;
+      const fits = (size: number) => {
+        nav.style.fontSize = `${size}px`;
+        return nav.offsetHeight <= available;
+      };
+
+      if (fits(MAX_CONTENTS_FONT_SIZE)) {
+        return;
+      }
+
+      let low = MIN_CONTENTS_FONT_SIZE;
+      let high = MAX_CONTENTS_FONT_SIZE;
+      for (let step = 0; step < 8; step += 1) {
+        const middle = (low + high) / 2;
+        if (fits(middle)) {
+          low = middle;
+        } else {
+          high = middle;
+        }
+      }
+      nav.style.fontSize = `${low}px`;
+    };
+
+    fit();
+    const observer = new ResizeObserver(fit);
+    observer.observe(header);
+    desktop.addEventListener("change", fit);
+    document.fonts.ready.then(fit);
+
+    return () => {
+      observer.disconnect();
+      desktop.removeEventListener("change", fit);
+      nav.style.fontSize = "";
+    };
+  }, [items]);
 
   const exactActiveItem =
     isContinuousEssay
@@ -139,6 +195,7 @@ export function EssayContentsNav({
 
   return (
     <nav
+      ref={navRef}
       className={`contents${exactActiveItem ? " contents--tracking" : ""}`}
       aria-label="Essay sections"
     >

@@ -406,7 +406,7 @@ button:focus-visible {
 }
 
 @media (min-width: 761px) {
-  /* Scale the sidebar so all ~36 lines and 6 group gaps fit below the masthead. */
+  /* Conservative first-paint size; EssayContentsNav then fits the real rendered lines exactly. */
   .contents {
     font-size: clamp(11px, calc((100vh - 117px) / 54), 16px);
   }
