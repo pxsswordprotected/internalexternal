@@ -6,6 +6,8 @@ import { useEffect, useLayoutEffect, useRef, useState } from "react";
 
 const MIN_CONTENTS_FONT_SIZE = 11;
 const MAX_CONTENTS_FONT_SIZE = 16;
+// Headroom for engines that round line boxes differently from getBoundingClientRect.
+const CONTENTS_FIT_SAFETY_PX = 2;
 
 export interface EssayContentsItem {
   targetId: string;
@@ -29,7 +31,8 @@ export function EssayContentsNav({
   const navRef = useRef<HTMLElement>(null);
 
   // Largest font size at which the real rendered lines (wrapped titles included) fit the sidebar.
-  // Set on the header so the masthead meta row shares it.
+  // Set on the header so the masthead meta row shares it. The sidebar is non-scrollable in CSS;
+  // scrolling is re-enabled only when the list cannot fit even at the minimum size.
   useLayoutEffect(() => {
     const nav = navRef.current;
     const header = nav?.parentElement;
@@ -39,17 +42,23 @@ export function EssayContentsNav({
 
     const desktop = window.matchMedia("(min-width: 761px)");
 
-    const fit = () => {
+    const reset = () => {
       header.style.removeProperty("--contents-font-size");
+      header.style.removeProperty("overflow-y");
+    };
+
+    const fit = () => {
+      reset();
       if (!desktop.matches) {
         return;
       }
 
+      header.scrollTop = 0;
+
       const fits = (size: number) => {
         header.style.setProperty("--contents-font-size", `${size}px`);
-        const contentBottom =
-          nav.getBoundingClientRect().bottom - header.getBoundingClientRect().top + header.scrollTop;
-        return contentBottom <= header.clientHeight;
+        const contentBottom = nav.getBoundingClientRect().bottom - header.getBoundingClientRect().top;
+        return contentBottom <= header.clientHeight - CONTENTS_FIT_SAFETY_PX;
       };
 
       if (fits(MAX_CONTENTS_FONT_SIZE)) {
@@ -66,7 +75,11 @@ export function EssayContentsNav({
           high = middle;
         }
       }
-      header.style.setProperty("--contents-font-size", `${low}px`);
+
+      // Too short a window even at the minimum size: allow scrolling as a last resort.
+      if (!fits(low)) {
+        header.style.overflowY = "auto";
+      }
     };
 
     fit();
@@ -78,7 +91,7 @@ export function EssayContentsNav({
     return () => {
       observer.disconnect();
       desktop.removeEventListener("change", fit);
-      header.style.removeProperty("--contents-font-size");
+      reset();
     };
   }, [items]);
 

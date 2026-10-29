@@ -200,7 +200,11 @@ button:focus-visible {
     position: sticky;
     top: 16px;
     height: calc(100vh - 32px);
-    overflow-y: auto;
+    /* Never scrollable when the list fits; EssayContentsNav re-enables scrolling only below the minimum font size. */
+    overflow-y: hidden;
+    /* Room for the hover "+" past the 290px text column (divider sits at 338px), so it never causes sideways scroll. */
+    margin-right: -16px;
+    padding-right: 16px;
   }
 
   .site-header::after {
