@@ -7,7 +7,7 @@ draft: true
 ---
 > One must start with error and lead it over into truth. That is, one must uncover the source of the error; otherwise hearing the truth is useless to us. It cannot enter as long as something else occupies its place. To convince someone of the truth, it is not enough to state the truth; one must find the path from error to truth. I must again and again dive beneath the water of doubt.
 >
-> — Ludwig Wittgenstein, Remarks on Frazer’s Golden Bough
+> — Ludwig Wittgenstein, *Remarks on Frazer’s Golden Bough*
 
 We have two facts that make refinement necessary: resonance does not guarantee factual correctness, and notation is always lossy because it compresses knowledge as it moves up the layers. Understanding therefore cannot be a single act of finding the right expression; it must be part of a greater whole, something like a loop of refinement.
 
@@ -15,7 +15,7 @@ Take educational YouTube videos, which have become a tragedy of modern learning.
 
 This loop tests three things that are important for understanding: fit, coherence, and truth. Fit is how well a probe satisfies the current field; coherence is how well your model holds together internally; and truth is correspondence with reality. Accurate correspondence means something like the way you model the problem being in accordance with the actual shape of the thing, which gives intended/wanted feedback from reality. This requires keeping standard nuances in mind like framing effects and the fact that the map is never the territory, etc.
 
-There are two ways of running the loop, either open or closed. A closed loop tests a representation using properties already available within the system, like when thinking about an idea on a walk by yourself. An open loop introduces information or constraints from outside the current model, like working with a tutor to learn a subject. Someone like a flat-earther could indeed be running an open loop but arrive at obviously false claims. Open loops make external correction possible, but do not guarantee it. What improves the chance of moving toward correspondence with reality is a complex combination of accurate feedback, falsifiable probes, beliefs favoring truth, and enough slack for contradictory evidence to be integrated rather than defended against.
+There are two ways of running the loop, either open or closed. A closed loop tests a representation using properties already available within the system, like when thinking about an idea on a walk by yourself. An open loop introduces information or constraints from outside the current model, like working with a tutor to learn a subject. Someone like a flat-earther could indeed be running an open loop but arrive at obviously false claims. Open loops make external correction possible, but do not guarantee it. What improves the chance of moving toward correspondence with reality is a complex combination of accurate feedback, falsifiable probes, beliefs favoring truth, and enough slack for contradictory evidence to be integrated rather than defended against. "Enough slack for contradictory evidence to be integrated" is probably the most important clause here, because without that, the system has a high chance of shutting down and collapsing on its existing options.&#x20;
 
 In totality, this loop looks something like this:
 
@@ -35,6 +35,8 @@ We must begin with our felt sense of understanding, our current model of how a t
 
 A probe is an expression of what your felt sense is “saying.” It is a candidate expression of what the field currently holds, like “I think this works like this…” or “A metaphor I would use to describe this is…” It does not matter yet if this probe is factually correct; what matters is that it expresses your current understanding clearly enough to be tested.
 
+The best probes seem to be those that aim at the part of the model you are least sure of, and are specific enough to be testable against and fail. A "safe" probe, one that is vague and not your true felt sense is one that will teach and show you very little error.&#x20;
+
 An internal probe is run inside the mind using a representation like a simulation or an image. An external probe compresses the felt sense of understanding into notation, like writing about it.
 
 To present a probe is to objectify your current model. You are making it a stable object you can inspect and manipulate. We do this internally by turning attention toward the representation we are holding or externally by translating it into notation. Externalization is especially powerful because it makes the probe legible enough for other people and systems.
@@ -49,7 +51,9 @@ Working memory places an additional limit on the internal loop because, in simpl
 
 #### **Test the probe**
 
-If the probe produces resonance, this does not mean the probe is entirely truthful; the field itself may not correspond with reality. It simply means that the probe integrated more cheaply or satisfyingly than the system expected, producing a positive difference in felt tone. If we hit friction, we are encountering input that is more costly or difficult to integrate than expected, producing a negative difference in felt tone. If the probe fits about as expected, the response may remain at baseline and provide little noticeable signal at all.
+If the probe produces resonance, this does not mean the probe is entirely truthful; the field itself may not correspond with reality. It simply means that the probe integrated more cheaply or satisfyingly than the system expected, producing a positive difference in valence.&#x20;
+
+If we hit friction, we are encountering input that is more costly or difficult to integrate than expected, producing a negative difference in felt tone. If the probe fits about as expected, the response may remain at baseline and provide little noticeable signal at all.
 
 Because resonance and friction are differences from the background baseline, neither is guaranteed to appear every time a probe fits or fails to fit.
 
@@ -65,7 +69,7 @@ Because friction simply tells you something is off, not what is off, we need a d
 
 We first must locate where the response arose. Is it coming from the embodied, representational, or notational layer, or was it triggered by external evidence? We can also locate which field property is being violated, like a variable or constraint. For example, “This variable cannot be this, so that is where the friction is coming from.”
 
-As a caveat, just because friction occurs does not mean updating needs to happen. The response could be coming from mistaken notation, a body in fight-or-flight mode, or a misreading of the question.
+As a caveat, just because friction occurs does not mean updating needs to happen. The response could be coming from mistaken notation, a body in fight-or-flight mode, or a misreading of the question.&#x20;
 
 This step is one place where expertise matters: within a well-calibrated domain, experts can locate the source of friction much faster and more accurately than a novice. Because they understand their field so well, the violated properties become clearer, and they can surgically manipulate the things causing the friction. Expertise does not make the response truthful, however, especially outside the domain and context in which that intuition was trained.
 
@@ -95,7 +99,7 @@ Many passes are needed for deep change, especially for embodied knowledge, which
 
 This active iteration is a central mechanism of learning: it uses the mechanisms of knowledge and their different layers to loop on updating toward truth. Passive input, like educational YouTube videos, pales in comparison to actively participating in this loop of refining internal states, although passive input can still supply material for later testing and refinement.
 
-The end state of this loop is not to reach perfect truth, but to progressively improve calibration. Through fine-tuning our field, we are orienting ourselves toward experience in a manner that is better aligned with available feedback while remaining useful for our targets.
+The end state of this loop is not to reach perfect truth, but to progressively improve calibration. Through fine-tuning our field, we are orienting ourselves toward experience in a manner that is better aligned with available feedback while remaining useful for our targets. “Improve calibration” has no endpoint of course, so practically, it might be best to end this conscious effort when the model serves our current target strong enough for it to be satisfied. This will be expanded on later in section 7 which discusses wisdom.&#x20;
 
 I believe Grothendieck almost perfectly captures the essence of refinement:
 
