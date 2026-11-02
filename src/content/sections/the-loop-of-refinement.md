@@ -21,7 +21,7 @@ In totality, this loop looks something like this:
 
 > felt sense → internal or external probe → test against the field → resonance, friction, or baseline → locate the source of the response → update representation → new felt sense → ↻
 
-Feeling resonance or friction is not the external feedback itself, but the change in felt tone produced once the field interprets that feedback. Locating the source of friction may involve intuition catching which properties were violated or satisfied, deliberate analysis, or using both (which is common). Intuition and the loop work together as you use intuition to generate and interpret each pass, and each pass tunes the field which then reshapes intuition.
+Feeling resonance or friction is not the external feedback itself, but the change in valence produced once the field interprets that feedback. Locating the source of friction may involve intuition catching which properties were violated or satisfied, deliberate analysis, or using both (which is common). Intuition and the loop work together as you use intuition to generate and interpret each pass, and each pass tunes the field which then reshapes intuition.
 
 Implicit re-ordering happens constantly and mostly below immediate awareness, since sensory input is continuously being tested against the field and small updates occur as we move through the world. Most passes of the loop are quick and implicit and never come to be recognized as an explicit turn, like the micro-adjustments we make when interacting with others. Deliberate usage of this refinement loop is a more specific version of this process where a representation is kept stable and scrutinized enough to be interacted with, like when writing an essay or solving a math problem.
 
@@ -53,7 +53,7 @@ Working memory places an additional limit on the internal loop because, in simpl
 
 If the probe produces resonance, this does not mean the probe is entirely truthful; the field itself may not correspond with reality. It simply means that the probe integrated more cheaply or satisfyingly than the system expected, producing a positive difference in valence.&#x20;
 
-If we hit friction, we are encountering input that is more costly or difficult to integrate than expected, producing a negative difference in felt tone. If the probe fits about as expected, the response may remain at baseline and provide little noticeable signal at all.
+If we hit friction, we are encountering input that is more costly or difficult to integrate than expected, producing a negative difference in valence. If the probe fits about as expected, the response may remain at baseline and provide little noticeable signal at all.
 
 Because resonance and friction are differences from the background baseline, neither is guaranteed to appear every time a probe fits or fails to fit.
 
@@ -63,7 +63,11 @@ It is important to parse out these four locations and categorize the first three
 
 This testing can be fast and implicit, like saying a phrase out loud, such as “How are you?” and seeing how it lands in the system, or receiving feedback from others and immediately wondering, “Why did they say that?”
 
-#### **Locate the source of friction or resonance**
+#### **Allowing Friction**
+
+Friction cannot be successfully investigated if it cannot be allowed in the mind-body system. Often times, the default response to friction is a display of contraction by explaining it away, not feeling it, down-weighting it, or moving attention elsewhere so the currently held model stays safe and the same. This can be a natural response as without training, updating deep models can be costly and hurt which we naturally want to avoid. Locating the source of friction however presupposes the notion that the friction can exist in the first place without its distortion. This requires a type of expansion: unclenching around the current model, so the friction can be interpreted as a signal instead of a threat. Meditation trains this same type of non-reactivity by staying with uncomfortable sensations to see what they are made of. This type of unclenching requires a certain amount of slack in the system, as without it, the loop stops at friction and we collapse early without updating.
+
+**Locate the source of friction or resonance**
 
 Because friction simply tells you something is off, not what is off, we need a diagnostic step to understand how we can precisely update our understanding. With this step, we can know that something has failed to integrate and then investigate whether our model is actually what needs to change.
 
