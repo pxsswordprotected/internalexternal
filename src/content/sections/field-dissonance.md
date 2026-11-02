@@ -3,6 +3,7 @@ title: Field Dissonance
 sectionNumber: '5.2'
 parentNumber: '5'
 summary: '[PLACEHOLDER: Add section summary]'
+tldr: "Field dissonance occurs when conflicting properties or action policies remain active within the current field while the system must still settle on a workable organization or action. Rather than simply disappearing, the violated property can “leak out” through automatic or involuntary behavior. Because the system can reduce error either by changing the world through action or by updating its internal state, alternative resolution paths exist. Field dissonance itself is not identical to suffering."
 draft: true
 ---
 There exists a mechanism that allows expression to differ from internal states. We can call this field dissonance, which occurs when conflicting properties or action policies remain active within the current field while the system must still settle on a workable organization or action. The field holds properties from multiple sources at once, like deep priors, the current bodily state, representations, and social constraints. Field dissonance is therefore broader than cognitive dissonance because the conflict does not need to occur between explicit beliefs. It can occur between bodily predictions, social constraints, representations, targets, and available actions.

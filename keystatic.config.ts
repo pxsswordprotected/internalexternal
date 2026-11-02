@@ -33,6 +33,11 @@ export default config({
           label: "Homepage summary",
           multiline: true,
         }),
+        tldr: fields.text({
+          label: "TL;DR",
+          description: "Shown under the subsection heading on the homepage. Leave blank for none.",
+          multiline: true,
+        }),
         draft: fields.checkbox({
           label: "Rough draft",
           defaultValue: true,

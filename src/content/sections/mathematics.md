@@ -3,6 +3,7 @@ title: "Mathematics"
 sectionNumber: "3.3"
 parentNumber: "3"
 summary: "[PLACEHOLDER: Add section summary]"
+tldr: "At least some epistemic invention is largely pre-verbal, with notation and language coming at a later stage in the process. The representational layer is being manipulated more directly than the notational layer. If two collaborators already share a vivid internal representation, their communication can be compressed more heavily. In the pre-formal stage, there is often first an internal sense of direction, like a compass. Formal verification, like proof writing, becomes possible as the intuition is compressed into notation."
 draft: true
 ---
 

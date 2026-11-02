@@ -2,6 +2,7 @@
 title: Language
 sectionNumber: '2.4'
 parentNumber: '2'
+tldr: "I like to think of language as a ‘shared compression channel’ in the sense that it binds together nodes of compression spread across the three layers of knowledge. A stance is the constraint that sets the linguistic possibility space, and output works within it. Frames work as keys, while arguments work as force against the lock. The goal is to release the extra contraction that is only there to control experience."
 draft: true
 ---
 Language as a medium, whether it be body language, or a natural language like english, is used to transfer information. I like to think of language as a ‘shared compression channel’ in the sense that it binds together nodes of compression spread across the three layers of knowledge— embodied, representational, or notational. Meaning, tokens of a language, say words in english or gestures in sign language, bring about different interconnected networks of gestalts, whether consciously or unconsciously. If I say the word “unicorn,” this will spawn a plethora of nodes for the individual agent taking in the word as input, such as maybe a mental image, some memories, and general feelings in the body. Crucially, this spells out a key characteristic of language: it can point to what is *not physically present* but nonetheless still generate and capture a plethora of associated feelings.

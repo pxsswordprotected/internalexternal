@@ -3,6 +3,7 @@ title: 'Intuition '
 sectionNumber: '3.2'
 parentNumber: '3'
 summary: '[PLACEHOLDER: Add section summary]'
+tldr: "Intuition is your priors, your implicit structure, speaking directly. It is the field generating a salient representation or feeling before any explicit derivation. Articulability of an intuition measures how compressible it is, not whether it is an intuition. Trained intuition is a rapid output from a field that is well tuned to what the context calls for. Intuition is only as trustworthy as the field it comes from, which means a refinement loop is needed."
 draft: true
 ---
 Intuition is your priors, your implicit structure, speaking directly. It is the field generating a salient representation or feeling before any explicit derivation. It is salient because the field gives it enough precision to make it worth attending to. Intuition is not experienced as algorithmic. The result is fast and pre-verbal, and it does not land in the notational layer, but in either the representational or embodied layer. Intuition is not itself a fit signal: a fit signal reports whether something satisfies the current field, while intuition is the rapid process by which something salient is generated. Results of intuition are handed to you by the field, which is why an externalization or representation generated from intuition can reveal information about experience.

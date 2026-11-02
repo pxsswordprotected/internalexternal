@@ -3,6 +3,7 @@ title: Somatics
 sectionNumber: '2.2'
 parentNumber: '2'
 summary: '[PLACEHOLDER: Add section summary]'
+tldr: "A haptic contraction is a felt tightening or clenching in bodily sensation. It is the somatic form a held prior takes in direct experience. Tension that stays stable across situations is latched. The meditation/contemplative work of releasing contraction and the epistemic work of updating knowledge may be closely related mechanistically. Pure symbol interaction with no grounded intuition rarely produces genuine insight on its own. Certain wording indexes a pattern of tension, which is why framing changes perception."
 draft: true
 ---
 First, a definition: a haptic contraction is a felt tightening or clenching in bodily sensation, whether muscular, visceral, or vascular. It is the somatic form a held prior takes in direct experience, whether it is being violated or simply held for use. Its counterpart, haptic expansion, is simply the release of this kind of contraction. In this sense, contraction refers more specifically to tension that participates in maintaining or responding to an active field configuration.

@@ -3,6 +3,7 @@ title: "The Loop of Refinement"
 sectionNumber: "3.5"
 parentNumber: "3"
 summary: "[PLACEHOLDER: Add section summary]"
+tldr: "Understanding cannot be a single act of finding the right expression; it must be part of a greater whole, something like a loop of refinement. This loop tests three things that are important for understanding: fit, coherence, and truth. After encountering friction and locating its source, we can update our representation of the thing to be a better fit. The end state of this loop is not to reach perfect truth, but to progressively improve calibration."
 draft: true
 ---
 > One must start with error and lead it over into truth. That is, one must uncover the source of the error; otherwise hearing the truth is useless to us. It cannot enter as long as something else occupies its place. To convince someone of the truth, it is not enough to state the truth; one must find the path from error to truth. I must again and again dive beneath the water of doubt.

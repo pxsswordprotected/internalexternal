@@ -3,6 +3,7 @@ title: Bow-Tie Architecture
 sectionNumber: '1.5'
 parentNumber: '1'
 summary: Bow-Tie Architecture
+tldr: "Surviving requires discovering lower-dimensional causes and relationships that preserve what matters and then using those discoveries creatively. The architecture is in the shape of a bow tie, with one side starting wide, converging into a narrow middle point, then expanding back to a wide funnel. Compression is important because it discards transformations that do not matter to the currently weighted target, while preserving those that do matter. The size of a bow tie is relative to the target."
 draft: true
 ---
 The world contains more information than an adaptive system can model through its structure, so surviving requires discovering lower-dimensional causes and relationships that preserve what matters and then using those discoveries creatively.
@@ -17,7 +18,7 @@ Across these models, many inputs, whether biological or sensory, converge onto a
 
 {diagram}
 
-As inferred from the cited and discussed papers, this model uses the same general outline of "raw" input coming in, a bottleneck point is used to process this, then that is decompressed into output, whether it be any of the three layers of knowledge as outlined in the compression gradient, or specific muscle movements. It should be made clear here that the smallest point of compression here, the bottleneck, is not to be understood as a singular place, but rather a state carried by distributed structure that operates across differing time scales and levels of abstraction. This can be observed through processes like [hierarchical cortical processing](https://www.nature.com/articles/nn.3862), where sensory regions exhibit relatively short intrinsic timescales while association and prefrontal regions integrate information over progressively longer windows (~50–350 ms), and [memory consolidation](https://www.annualreviews.org/content/journals/10.1146/annurev.psych.55.090902.142050), where synaptic consolidation occurs over minutes to hours, each operating across its “own timescales.” So, there isn't a clean moment where the first half of the bow tie finishes and hands something to the second half. The bow tie is better imagined as a recurrent cycle than a linear conveyor belt. In fact, from a broad perspective, bow ties can be thought of as continuously overlapping in such a way to generate continuously evolving patterns within persistent architecture. Information is constantly flowing, but some type of structure must persist in the first place, or we would not be able to find patterns that we can generate from, which would result in the termination of our adaptive system.
+As inferred from the cited and discussed papers, this model uses the same general outline of "raw" input coming in, a bottleneck point is used to process this, then that is decompressed into output, whether it be any of the three layers of knowledge as outlined in the compression gradient, or specific muscle movements. It should be made clear here that the smallest point of compression here, the bottleneck, is not to be understood as a singular place, but rather a state carried by distributed structure that operates across differing time scales and levels of abstraction. This can be observed through processes like [hierarchical cortical processing](https://www.nature.com/articles/nn.3862), where sensory regions exhibit relatively short intrinsic timescales while association and prefrontal regions integrate information over progressively longer windows (\~50–350 ms), and [memory consolidation](https://www.annualreviews.org/content/journals/10.1146/annurev.psych.55.090902.142050), where synaptic consolidation occurs over minutes to hours, each operating across its “own timescales.” So, there isn't a clean moment where the first half of the bow tie finishes and hands something to the second half. The bow tie is better imagined as a recurrent cycle than a linear conveyor belt. In fact, from a broad perspective, bow ties can be thought of as continuously overlapping in such a way to generate continuously evolving patterns within persistent architecture. Information is constantly flowing, but some type of structure must persist in the first place, or we would not be able to find patterns that we can generate from, which would result in the termination of our adaptive system.
 
 It's important to consider what is actually going on at the middle of this process, the point of the most compression, a seemingly narrow bottleneck point of transfer between the two sides of the bow tie. As mentioned earlier, this is not literally one point on a map that can be pinned down, but a distributed state working across different nested layers of processes. So, how this middle point is viewed really is dependent on what process and temporal variation you're observing, but for now I consider a "singular present moment" in relation to a task at hand. If we consider a target in a given moment, the bottleneck point is a scale-relative point of "maximum" salient compression. It is the smallest currently sufficient latent organization for whatever target is being considered at that temporal level. More precisely, it marks the minimum sufficient target-relevant state.
 
@@ -43,12 +44,10 @@ Speaking to the loop, what you just experienced changes your internal state, whi
 
 Next, I want to note the importance of invariance and structure-preserving transformations (SPTs for short). Compression here, moving from left to right in the bow-tie model, is important because it discards transformations that do not matter to the currently weighted target, while preserving those that do matter. By transformations, I mean changes in the input that can occur while some target-relevant relation remains the same. Under SPTs between slices of input, the inference side discards what does not matter for the slice's observed target, making the generative side preserve broad variables, while regenerating context-specific ones. Importantly, these more specific variables are constrained by the broad ones, meaning "water bottle" must come from a branch that is downstream of one that interprets the input as an object. Equally as important in SPTs is the tracking of action-relevant variation through equivariance. The bottleneck does not "erase" every difference that occurs in input, rather it can preserve both a stable organization and structured information about how its present interpretation has changed. So, an SPT is therefore a change that alters the surface interpretation(s) while preserving some deeper organization that matters to the system because of salience.
 
-{rewrite start}
-
 We can have:
 
 1. bottle at angle A
-1. bottle at angle B
+2. bottle at angle B
 
 The orientation of the water bottle changes, but the identity of "bottle" and other deeper organizations remain invariant across the changing input of one angle to another. This allows for the "main" broad classification and affordances of a water bottle being available, while the specifics change, such as micromovements to reach for the bottle.
 
@@ -57,9 +56,9 @@ Similarly we can look at equivariance. While invariance here means that some org
 We can have:
 
 1. rotate the bottle a certain amount
-1. organize "bottle" → "bottle" (invariant)
-1. represented orientation is A → A + amount of rotation (equivariant)
-1. act to grip A, then the new A (equivariant)
+2. organize "bottle" → "bottle" (invariant)
+3. represented orientation is A → A + amount of rotation (equivariant)
+4. act to grip A, then the new A (equivariant)
 
 We must differentiate between these two concepts because compression does not just discard all variation of input. In fact, one key role of compression in our system is figuring out what information is important to preserve in order to act from, so discarding all variation would mean our system would not fit specific scenarios. In this sense, invariance can emerge through the integration of equivariant changes as the system learns what lower-level organizations change together while a higher-level relation remains relatively stable.
 

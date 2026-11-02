@@ -3,6 +3,7 @@ title: "Metaphors"
 sectionNumber: "3.1"
 parentNumber: "3"
 summary: "[PLACEHOLDER: Add section summary]"
+tldr: "Metaphor is a translation mechanism that dates back to the origins of language and is a part of the representational layer. Metaphors are unconscious structures that shape how we perceive reality, interact with others, and make decisions. The metaphor makes the abstract felt sense intelligible by mapping it onto embodied structure. Without the embodied layer grounding it, the metaphor would not mean anything to the system. Understanding is built by constructing a representation that fits the field."
 draft: true
 ---
 

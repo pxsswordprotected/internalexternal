@@ -3,6 +3,7 @@ title: Conditions of Emergence
 sectionNumber: '4.1'
 parentNumber: '4'
 summary: '[PLACEHOLDER: Add section summary]'
+tldr: "Emergence is the appearance of properties produced by the organization of the whole. Things are not simply “there” and received in their completed form. They are actively constructed as lower level features and relations are organized by the field. Some things can appear to us as almost forming something whole. Failed gestalts therefore show emergence in reverse since the organization has not yet become stable enough for a valid whole to appear."
 draft: true
 ---
 In the sense being used here, for a thing to be emergent, it must appear whole, not fractured. Emergence, then, is the appearance of properties produced by the organization of the whole rather than by a component taken separately. By this I mean that initially separate components are meaningfully organized, rather than something magically appearing from nothing. The resulting whole depends on conditions like sensory evidence and precision weighting. If you change those conditions, a different whole may appear.

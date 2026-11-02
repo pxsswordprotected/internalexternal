@@ -3,6 +3,7 @@ title: "Training Data"
 sectionNumber: "3.7"
 parentNumber: "3"
 summary: "[PLACEHOLDER: Add section summary]"
+tldr: "By training data, I mean the books, articles, art, conversations, social situations, and other experiences that train how our system perceives and acts. Your field, which determines what resonates, carries a compressed history of what you have been trained on. A field built on narrow or inaccurate training data can produce a resonant, but wrong understanding. Choosing better training data is not enough by itself. It must be paired with active engagement and open-loop correction."
 draft: true
 ---
 

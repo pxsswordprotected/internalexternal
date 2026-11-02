@@ -6,4 +6,3 @@ summary: "[PLACEHOLDER: Add section summary]"
 draft: true
 ---
 
-[PLACEHOLDER: Add section introduction]

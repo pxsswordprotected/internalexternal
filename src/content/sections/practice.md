@@ -3,6 +3,7 @@ title: Practice
 sectionNumber: '7.2'
 parentNumber: '7'
 summary: Practice
+tldr: "Practice matters because it molds the field in a way that will determine how later input is reasoned about, interpreted, and acted on. Insight by itself without practice is not enough. Slack is a prerequisite itself for corrective practice. Open loops introduce external feedback that otherwise could not be generated from the field doing the practice. Practice is never entirely neutral as it is training us to have new dispositions. We can practice towards ethical behavior, compassion, or wisdom."
 draft: true
 ---
 > "For the things we have to learn before we can do them, we learn by doing them, e.g., men become builders by building and lyreplayers by playing the lyre; so too we become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts."

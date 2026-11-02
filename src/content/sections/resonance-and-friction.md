@@ -3,6 +3,7 @@ title: "Resonance & Friction"
 sectionNumber: "3.4"
 parentNumber: "3"
 summary: "[PLACEHOLDER: Add section summary]"
+tldr: "Resonance is a noticeable positive felt response that occurs when an input fits the field and integrates more cheaply than expected. Friction is the corresponding noticeable negative felt response that occurs when an input costs more to integrate than expected. Resonance and friction act as internal compasses for figuring out what works and what does not. They guide exploration, but they do not replace external testing or formal verification."
 draft: true
 ---
 

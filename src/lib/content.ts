@@ -15,6 +15,7 @@ export interface EssaySection {
     sectionNumber: string | null;
     parentNumber: string | null;
     summary: string | null;
+    tldr: string;
     draft: boolean;
     content: () => Promise<{ node: Node }>;
   };

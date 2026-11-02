@@ -3,6 +3,7 @@ title: The Suffering Loop
 sectionNumber: '5.3'
 parentNumber: '5'
 summary: '[PLACEHOLDER: Add section summary]'
+tldr: "First-order hurt is the immediate negatively felt aspect of an experience that is registered before the field produces a target that it needs to be different. Targeting can go in two different directions: craving and aversion. Maintenance is the recursive coupling of hurt and taṇhā which keeps the field organized around the target and produces cascading suffering. What produces suffering is not the target itself, but a target held with high precision that we cannot lower."
 draft: true
 ---
 To make the mechanism clear, we can separate it into three phases: first-order hurt, suffering as a field configuration, and maintenance.

@@ -3,6 +3,7 @@ title: Structural Thresholds in Search Spaces & Creativity
 sectionNumber: '4.2'
 parentNumber: '4'
 summary: '[PLACEHOLDER: Add section summary]'
+tldr: "Creativity can be understood as a search process. It keeps different chunks active until one becomes sufficiently supported to register as a new gestalt, something novel. There is no absolute novelty, since there are only combinations that are new relative to a given individual field. Creativity expands its own possibility space over time since a current emergent gestalt can become part of the structure supporting a future higher order gestalt. Moderate, well-chosen constraints boost creativity."
 draft: true
 ---
 The previous section described failed higher order gestalts through lower level priors not being stable enough for the whole to appear. Creativity can be understood as a search process that sometimes resolves this failure. It keeps different chunks active until one becomes sufficiently supported to register as a new gestalt, something novel. A structural threshold is a critical point where enough lower-level chunks become sufficiently stable to abruptly percolate into an available higher-order gestalt. Bear in mind this is descriptive, meaning labels like "enough" and "sufficiently stable" are only knowable after the gestalt emerges.

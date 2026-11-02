@@ -3,6 +3,7 @@ title: Transparency
 sectionNumber: '6.2'
 parentNumber: '6'
 summary: '[PLACEHOLDER: Add section summary]'
+tldr: "Transparency is the degree to which the processes producing a gestalt remain apparent in experience, while the gestalt is still being experienced and used. We can move precision in the dependency tree from the whole of the gestalt towards its constituent parts that make up its construction. Ontological authority is not the problem itself: it is authority that the system cannot see clearly and drop. The core question then becomes what to grant authority to and when."
 draft: true
 ---
 Transparency is the degree to which the processes producing a gestalt remain apparent in experience, on all three layers of the compression gradient, while the gestalt is still being experienced and used. This is not to be confused with phenomenal transparency, which is the invisibility of a model’s construction. Transparency is hard when ontological authority is high because a gestalt that other structures depend on is what the field is currently running on rather than something the field can perceive as an object. Reification is the “extreme” case of this: construction of a thing is not seen at all and is taken to be inherent to reality. Transparency is not preventing all structure; we still need that to survive and go about our day. It is preventing structure from becoming hidden so we can see through what other interpretations of input can offer.

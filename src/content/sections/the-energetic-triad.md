@@ -5,6 +5,7 @@ parentNumber: '2'
 summary: >-
   a proposed phenomenological and computational synthesis in which
   integration-cost prediction error contributes to valence.
+tldr: "Input that is cheaper to integrate than predicted is correlated with positive valence and resonance, input that is integrated about as expected is neutral (fit-baseline), and input that costs more to integrate than expected is correlated with negative valence and friction. Compression progress is the rate at which integration cost is reduced relative to a target. Background valence shifts durably only when persistent target gaps change."
 draft: true
 ---
 I use “cost” here in a relative sense, not as a measure of calories burned. At any moment, the brain has limited processing capacity and attention to go around, and different possible interpretations of what you’re perceiving compete for resources. “Cost” means how much of that limited capacity an input demands and how much additional capacity is used to process it.

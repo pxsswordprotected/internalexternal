@@ -3,6 +3,7 @@ title: Emotions
 sectionNumber: '5.1'
 parentNumber: '5'
 summary: emotions
+tldr: "An emotion is a context-sensitive field configuration that structures signals from the body and environment, valence, conditioned concepts, targets, and actions into a unifying gestalt like fear or anger. Emotions are embodied. Because of the overlap and nuance of targets when dealing with emotions, action policies are re-weighted without determining one fixed action across the board. Regulation of emotions in this framework can be seen as being a part of the field configuration."
 draft: true
 ---
 > "We feel sorry because we cry, angry because we strike, afraid because we tremble."

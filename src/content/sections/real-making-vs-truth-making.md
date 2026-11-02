@@ -3,6 +3,7 @@ title: Real-making vs Truth-making
 sectionNumber: '3.6'
 parentNumber: '3'
 summary: '[PLACEHOLDER: Add section summary]'
+tldr: "Real-making is the process by which something becomes embodied and actionable within the field. Truth-making is the process of testing and updating a model so that it better corresponds with reality. The loop does not move towards truth on its own. Orientation towards truth is partly a matter of affordability, not just values or domain. A system that cannot afford exposure to external feedback due to low slack will produce real-making that feels like truth-making."
 draft: true
 ---
 In this loop, there exists two main orientations, real-making and truth-making. Just as the open and closed versions of the loop can be ran at parallel, these two orientations of either version can be ran simultaneously to reinforce each other.

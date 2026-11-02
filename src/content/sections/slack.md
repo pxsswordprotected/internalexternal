@@ -3,6 +3,7 @@ title: Slack
 sectionNumber: '2.3'
 parentNumber: '2'
 summary: slack
+tldr: "Slack is the portion of the system's capacity not currently committed to holding its active field configuration in place. Slack is relational, meaning slack is always slack for a specific thing. With low slack, the field will collapse competing distinctions it would otherwise hold. There are two main questions I see as being useful in assessing slack in a system: does the system become captured by a certain disturbance, and how quickly does the system recover once it is captured?"
 draft: true
 ---
 Up to this point slack has been used multiple times without a useful definition: in section 1.2 deep priors needed "sufficient slack" to update and the energetic triad used capacity as a way to measure spent resources before we process input.

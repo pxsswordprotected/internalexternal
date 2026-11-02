@@ -3,11 +3,22 @@ title: The Compression Gradient
 sectionNumber: '1.1'
 parentNumber: '1'
 summary: '[PLACEHOLDER: Add section summary]'
+tldr: >-
+  Human knowledge exists across three types of mediums that sit in a pyramid:
+  notational, representational, and embodied. Below the obvious surface of
+  notation are two more layers, each dense with information. As knowledge moves
+  across these three layers, it compresses on the way up toward notation and
+  decompresses on the way down toward the body. I call this the compression
+  gradient. Moving upward generally increases legibility while losing
+  characteristics and moving downward reconstructs richness but loses
+  concreteness. An internal representation is the actual object of
+  understanding, while language becomes a connecting interface across the three
+  layers.
 draft: true
 ---
 > “There is indeed the inexpressible. This shows itself; it is the mystical.”
->
-> — Ludwig Wittgenstein, Tractatus Logico-Philosophicus, 6.522
+> 
+> — Ludwig Wittgenstein, *Tractatus Logico-Philosophicus, 6.522*
 
 Some things, ethics, aesthetics, love, are only fully comprehensible when not put to language. For Wittgenstein, the mystical here is the boundary where language breaks down and cannot express what the one who speaks is attempting to convey. As long as we have to communicate in a finite, compressible manner, we will never be able to share what hangs in our deepest depths of knowing.
 
