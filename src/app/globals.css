@@ -1,6 +1,7 @@
 :root {
   --ink: #000000;
   --muted: #BFBFBF;
+  --secondary-ink: #6F6F6F;
   --rule: #BFBFBF;
   --paper: #FFFFFF;
   --signature-blue: #457FEA;
@@ -652,7 +653,7 @@ button:focus-visible {
   font-size: 20px;
 }
 
-/* Trial TL;DR between a subsection heading and its body; the body's own 16px top margin sits below it. */
+/* Trial TL;DR between a subsection heading and its body: smaller, mid-grey, with extra space before the body. */
 .section-tldr {
   margin-top: 8px;
   padding: 12px 0;
@@ -669,6 +670,66 @@ button:focus-visible {
 
 .section-tldr__text {
   margin: 0;
+  color: var(--secondary-ink);
+  font-size: 14px;
+  line-height: 1.4;
+}
+
+.continuous-essay .section-tldr + .prose {
+  margin-top: 24px;
+}
+
+.glossary-term {
+  cursor: help;
+  text-decoration: underline dashed var(--muted);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.25em;
+}
+
+.glossary-term:hover,
+.glossary-term:focus-visible,
+.glossary-term--open {
+  color: var(--signature-blue);
+  text-decoration-color: currentColor;
+}
+
+.glossary-term:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 3px;
+}
+
+.glossary-box {
+  position: absolute;
+  z-index: 15; /* above the fixed masthead (10), below the inline editor toolbar (20) */
+  width: min(320px, calc(100vw - 32px));
+  padding: 12px;
+  border: 1px solid var(--rule);
+  background: var(--paper);
+}
+
+.glossary-box--pinned {
+  border-color: var(--secondary-ink);
+}
+
+.glossary-box__term {
+  margin: 0 0 4px;
+  color: var(--muted);
+  font-size: 12px;
+  line-height: 1.3;
+}
+
+.glossary-box__definition {
+  margin: 0;
+  color: var(--secondary-ink);
+  font-size: 14px;
+  line-height: 1.4;
+}
+
+.glossary-box__source {
+  margin: 8px 0 0;
+  color: var(--muted);
+  font-size: 12px;
+  line-height: 1.3;
 }
 
 .continuous-essay .prose:has(> article > *) {

@@ -1,0 +1,828 @@
+[
+  {
+    "id": "field",
+    "label": "Field",
+    "forms": [
+      "field",
+      "fields"
+    ],
+    "definedIn": "1.2",
+    "definition": "The active, moment-to-moment configuration of your active priors, bodily state, context, attention, targets, and available actions. It works as a deep, mobile frame that constantly reconfigures what is relevant to the mind-body-environment system."
+  },
+  {
+    "id": "target",
+    "label": "Target",
+    "forms": [
+      "target",
+      "targets"
+    ],
+    "definedIn": "1.2",
+    "definition": "The currently prioritized preferred outcome of a situation. Action policies are selected partly by how well they are expected to reach it."
+  },
+  {
+    "id": "prior",
+    "label": "Prior",
+    "forms": [
+      "prior",
+      "priors"
+    ],
+    "definedIn": "1.2",
+    "definition": "A probability distribution stored within a generative model. The field is what priors become when that model is instantiated in a moment of time."
+  },
+  {
+    "id": "input",
+    "label": "Input",
+    "forms": [
+      "input",
+      "inputs"
+    ],
+    "definedIn": "1.2",
+    "definition": "Both raw sensory experience, such as seeing or hearing, and the things that experience is organized into, like a dog, a cat, or a mathematical object."
+  },
+  {
+    "id": "gestalt",
+    "label": "Gestalt",
+    "forms": [
+      "gestalt",
+      "gestalts"
+    ],
+    "definedIn": "1.3",
+    "definition": "The unified whole that appears in the present moment when priors are organized and glued together; the experiential result we perceive."
+  },
+  {
+    "id": "compression",
+    "label": "Compression",
+    "forms": [
+      "compression",
+      "compress",
+      "compresses",
+      "compressed",
+      "compressing"
+    ],
+    "definedIn": "1.1",
+    "definition": "Preserving contextually important structure while leaving other characteristics out."
+  },
+  {
+    "id": "layer",
+    "label": "Layer",
+    "forms": [
+      "layer",
+      "layers"
+    ],
+    "definedIn": "1.1",
+    "definition": "One of three stacked layers of knowledge: the embodied layer at the bottom, the representational layer in the middle, and the notational layer, like writing, at the top."
+  },
+  {
+    "id": "embodied-layer",
+    "label": "Embodied layer",
+    "forms": [
+      "embodied layer",
+      "embodied layers"
+    ],
+    "definedIn": "1.1",
+    "definition": "The bottom of the stack: knowledge that lives in the body below immediate conscious awareness, such as gut feelings and tacit knowledge."
+  },
+  {
+    "id": "representational-layer",
+    "label": "Representational layer",
+    "forms": [
+      "representational layer",
+      "representational layers"
+    ],
+    "definedIn": "1.1",
+    "definition": "The middle of the stack: images, simulations, metaphors, concepts, and models that can be internally inspected or manipulated through mental activity, whether implicit or explicit."
+  },
+  {
+    "id": "notational-layer",
+    "label": "Notational layer",
+    "forms": [
+      "notational layer",
+      "notational layers"
+    ],
+    "definedIn": "1.1",
+    "definition": "The top of the stack: external forms, such as writing, diagrams, equations, and labels, that can be stabilized and shared."
+  },
+  {
+    "id": "notation",
+    "label": "Notation",
+    "forms": [
+      "notation",
+      "notations"
+    ],
+    "definedIn": "1.1",
+    "definition": "External forms, such as writing, diagrams, equations, and labels, that can be stabilized and shared; the contents of the notational layer."
+  },
+  {
+    "id": "representation",
+    "label": "Representation",
+    "forms": [
+      "representation",
+      "representations"
+    ],
+    "definedIn": "1.1",
+    "definition": "Anything that can be run internally, whether an image, a metaphor, a simulation, or words."
+  },
+  {
+    "id": "contraction",
+    "label": "Contraction",
+    "forms": [
+      "contraction",
+      "contractions"
+    ],
+    "definedIn": "2.2",
+    "definition": "Tension that participates in maintaining or responding to an active field configuration."
+  },
+  {
+    "id": "haptic-contraction",
+    "label": "Haptic contraction",
+    "forms": [
+      "haptic contraction",
+      "haptic contractions"
+    ],
+    "definedIn": "2.2",
+    "definition": "A felt tightening or clenching in bodily sensation, whether muscular, visceral, or vascular. It is the somatic form a held prior takes in direct experience, whether it is being violated or simply held for use."
+  },
+  {
+    "id": "latch",
+    "label": "Latched contraction",
+    "forms": [
+      "latched contraction",
+      "latched contractions",
+      "latch",
+      "latches",
+      "latched",
+      "latching"
+    ],
+    "definedIn": "2.2",
+    "definition": "Tension that stays stable across situations. Following Michael Johnson, tension that releases in seconds is unlatched, and tension that persists is latched."
+  },
+  {
+    "id": "friction",
+    "label": "Friction",
+    "forms": [
+      "friction"
+    ],
+    "definedIn": "3.4",
+    "definition": "A noticeable negative felt response that occurs when an input costs more to integrate than expected."
+  },
+  {
+    "id": "resonance",
+    "label": "Resonance",
+    "forms": [
+      "resonance",
+      "resonant"
+    ],
+    "definedIn": "3.4",
+    "definition": "A noticeable positive felt response that occurs when an input fits the field and integrates more cheaply than expected."
+  },
+  {
+    "id": "precision",
+    "label": "Precision",
+    "forms": [
+      "precision"
+    ],
+    "definedIn": "1.2",
+    "definition": "The weight given to a factor within the field: the estimated reliability or confidence assigned to it, which determines its influence on updating. The essay uses “precision” as shorthand for all forms of precision weighting."
+  },
+  {
+    "id": "precision-weighting",
+    "label": "Precision weighting",
+    "forms": [
+      "precision weighting",
+      "precision-weighting"
+    ],
+    "definedIn": "1.2",
+    "definition": "The estimated reliability or confidence assigned to priors or sensory evidence, which then determines their influence on updating."
+  },
+  {
+    "id": "valence",
+    "label": "Valence",
+    "forms": [
+      "valence",
+      "valenced"
+    ],
+    "definedIn": "1.2",
+    "definition": "Whether an experience feels positive, negative, or neutral; a narrow measurement of the felt tone of experience."
+  },
+  {
+    "id": "slack",
+    "label": "Slack",
+    "forms": [
+      "slack"
+    ],
+    "definedIn": "1.2",
+    "definition": "Capacity not currently committed to holding the active field configuration in place."
+  },
+  {
+    "id": "dependency-tree",
+    "label": "Dependency tree",
+    "forms": [
+      "dependency tree",
+      "dependency trees"
+    ],
+    "definedIn": "1.2",
+    "definition": "The structure that makes the field’s current configuration possible, with deep, foundational priors at the trunk and more specific interpretations branching out."
+  },
+  {
+    "id": "chunk",
+    "label": "Chunking",
+    "forms": [
+      "chunk",
+      "chunks",
+      "chunked",
+      "chunking"
+    ],
+    "definedIn": "1.2",
+    "definition": "Grouping many separate prior structures into a single unit, such as “water bottle,” so the system can treat the package as one thing rather than evaluating each part separately."
+  },
+  {
+    "id": "constraint",
+    "label": "Constraint",
+    "forms": [
+      "constraint",
+      "constraints"
+    ],
+    "definedIn": "1.2",
+    "definition": "The binding rules or limits that shape what can fit within the field."
+  },
+  {
+    "id": "variable",
+    "label": "Variable",
+    "forms": [
+      "variable",
+      "variables"
+    ],
+    "definedIn": "1.2",
+    "definition": "The parts of the field that can change and alter the prediction of the system."
+  },
+  {
+    "id": "bow-tie",
+    "label": "Bow tie",
+    "forms": [
+      "bow tie",
+      "bow ties",
+      "bow-tie",
+      "bow-ties"
+    ],
+    "definedIn": "1.5",
+    "definition": "The shape of the system’s architecture: one side starts wide, converges into a narrow middle point, then expands back into a wide funnel. The field sits at the narrow point of maximum compression that all input must pass through."
+  },
+  {
+    "id": "felt-sense",
+    "label": "Felt sense",
+    "forms": [
+      "felt sense",
+      "felt senses"
+    ],
+    "definedIn": "3.4",
+    "definition": "Gendlin’s term for a vague, holistic bodily sense of a situation; not just an emotion."
+  },
+  {
+    "id": "field-configuration",
+    "label": "Field configuration",
+    "forms": [
+      "field configuration",
+      "field configurations"
+    ],
+    "definedIn": null,
+    "definition": "The particular arrangement the field takes in a given moment, emergent from conditions like active priors, context, and bodily state."
+  },
+  {
+    "id": "intuition",
+    "label": "Intuition",
+    "forms": [
+      "intuition",
+      "intuitions"
+    ],
+    "definedIn": "3.2",
+    "definition": "Your priors, your implicit structure, speaking directly: the field generating a salient representation or feeling before any explicit derivation."
+  },
+  {
+    "id": "transparency",
+    "label": "Transparency",
+    "forms": [
+      "transparency"
+    ],
+    "definedIn": "6.2",
+    "definition": "The degree to which the processes producing a gestalt remain apparent in experience, on all three layers of the compression gradient, while the gestalt is still being experienced and used."
+  },
+  {
+    "id": "deep-prior",
+    "label": "Deep prior",
+    "forms": [
+      "deep prior",
+      "deep priors",
+      "deeper prior",
+      "deeper priors"
+    ],
+    "definedIn": "1.2",
+    "definition": "A high-level, foundational prior that sits at the trunk of the dependency tree, with more specific interpretations branching out from it."
+  },
+  {
+    "id": "inference",
+    "label": "Inference",
+    "forms": [
+      "inference"
+    ],
+    "definedIn": null,
+    "definition": "The process of moving from the most decompressed input to the most compressed; distributed, hierarchical inference on the input side of the bow tie."
+  },
+  {
+    "id": "active-inference",
+    "label": "Active inference",
+    "forms": [
+      "active inference",
+      "active-inference"
+    ],
+    "definedIn": "1.2",
+    "definition": "A process in which the system takes action to make input match its model."
+  },
+  {
+    "id": "attractor",
+    "label": "Attractor",
+    "forms": [
+      "attractor",
+      "attractors"
+    ],
+    "definedIn": "1.3",
+    "definition": "A configuration the system repeatedly settles into because its components reinforce one another, whether or not the system consciously prefers it."
+  },
+  {
+    "id": "basin",
+    "label": "Basin",
+    "forms": [
+      "basin",
+      "basins",
+      "attractor basin",
+      "attractor basins"
+    ],
+    "definedIn": "1.3",
+    "definition": "The range of states from which the system still returns to the same attractor."
+  },
+  {
+    "id": "reachability",
+    "label": "Reachability",
+    "forms": [
+      "reachability",
+      "reachable"
+    ],
+    "definedIn": "1.3",
+    "definition": "Whether a viable path to an attractor exists under the field’s currently available actions."
+  },
+  {
+    "id": "craving",
+    "label": "Craving",
+    "forms": [
+      "craving",
+      "cravings"
+    ],
+    "definedIn": "5.3",
+    "definition": "The direction of taṇhā in which the target is something like “I need to reach or maintain that state,” so the mind-body system attempts to obtain it."
+  },
+  {
+    "id": "aversion",
+    "label": "Aversion",
+    "forms": [
+      "aversion"
+    ],
+    "definedIn": "5.3",
+    "definition": "The direction of taṇhā in which the target is something like “this state should not be happening,” so the mind-body system attempts to evade the current state."
+  },
+  {
+    "id": "instantiate",
+    "label": "Instantiation",
+    "forms": [
+      "instantiate",
+      "instantiates",
+      "instantiated",
+      "instantiating",
+      "instantiation"
+    ],
+    "definedIn": "1.3",
+    "definition": "Actively reproducing a persistent prior in the field so it is present in a given context; deep priors are re-instantiated moment to moment."
+  },
+  {
+    "id": "ontological-authority",
+    "label": "Ontological authority",
+    "forms": [
+      "ontological authority"
+    ],
+    "definedIn": "6.1",
+    "definition": "The degree to which the field builds further inference on a gestalt once it has emerged, like how many priors depend on it."
+  },
+  {
+    "id": "invariant",
+    "label": "Invariant",
+    "forms": [
+      "invariant",
+      "invariants",
+      "invariance"
+    ],
+    "definedIn": "1.5",
+    "definition": "Organization that remains stable across a change of input."
+  },
+  {
+    "id": "action-policy",
+    "label": "Action policy",
+    "forms": [
+      "action policy",
+      "action policies"
+    ],
+    "definedIn": "1.2",
+    "definition": "A possible action sequence, selected partly by how well it is expected to reach the target."
+  },
+  {
+    "id": "light-cone",
+    "label": "Cognitive light cone",
+    "forms": [
+      "cognitive light cone",
+      "cognitive light cones",
+      "light cone",
+      "light cones"
+    ],
+    "definedIn": "1.5",
+    "definition": "From Michael Levin: “the scale of the largest goal, in both space and time, which a system is capable of working towards.”"
+  },
+  {
+    "id": "substrate",
+    "label": "Substrate",
+    "forms": [
+      "substrate",
+      "substrates"
+    ],
+    "definedIn": "1.2",
+    "definition": "What the field is instantiated from: the priors, the dependency tree, and their weights."
+  },
+  {
+    "id": "loop-of-refinement",
+    "label": "Loop of refinement",
+    "forms": [
+      "loop of refinement",
+      "refinement loop",
+      "refinement loops"
+    ],
+    "definedIn": "3.2",
+    "definition": "The confrontation of intuition with language and logic, through which it is developed and solidified."
+  },
+  {
+    "id": "open-loop",
+    "label": "Open loop",
+    "forms": [
+      "open loop",
+      "open loops"
+    ],
+    "definedIn": "3.5",
+    "definition": "A loop that introduces information or constraints from outside the current model, like working with a tutor to learn a subject."
+  },
+  {
+    "id": "closed-loop",
+    "label": "Closed loop",
+    "forms": [
+      "closed loop",
+      "closed loops"
+    ],
+    "definedIn": "3.5",
+    "definition": "A loop that tests a representation using properties already available within the system, like thinking about an idea on a walk by yourself."
+  },
+  {
+    "id": "stance",
+    "label": "Stance",
+    "forms": [
+      "stance",
+      "stances"
+    ],
+    "definedIn": "2.2",
+    "definition": "Michael Johnson’s term for recurring patterns of muscular and vascular tension; here, the characteristic somatic patterns that come with field configurations."
+  },
+  {
+    "id": "target-error",
+    "label": "Target error",
+    "forms": [
+      "target error",
+      "target errors"
+    ],
+    "definedIn": "1.2",
+    "definition": "The gap between the system’s current and preferred state."
+  },
+  {
+    "id": "truth-making",
+    "label": "Truth-making",
+    "forms": [
+      "truth-making",
+      "truth making"
+    ],
+    "definedIn": "3.6",
+    "definition": "The process of testing and updating a model so that it better corresponds with reality."
+  },
+  {
+    "id": "real-making",
+    "label": "Real-making",
+    "forms": [
+      "real-making",
+      "real making"
+    ],
+    "definedIn": "3.6",
+    "definition": "The process by which something becomes embodied and actionable within the field."
+  },
+  {
+    "id": "equanimity",
+    "label": "Equanimity",
+    "forms": [
+      "equanimity"
+    ],
+    "definedIn": "5.3",
+    "definition": "Leaving targets and actions available while making them less compulsory."
+  },
+  {
+    "id": "sensory-clarity",
+    "label": "Sensory clarity",
+    "forms": [
+      "sensory clarity"
+    ],
+    "definedIn": "3.5",
+    "definition": "Learning to distinguish phenomena in experience without immediately becoming lost in their movement or story."
+  },
+  {
+    "id": "emptiness",
+    "label": "Emptiness",
+    "forms": [
+      "emptiness"
+    ],
+    "definedIn": "6.1",
+    "definition": "The negative space of the model: not another component among the others, but a way of seeing the core components from the other side."
+  },
+  {
+    "id": "compression-gradient",
+    "label": "Compression gradient",
+    "forms": [
+      "compression gradient",
+      "compression gradience"
+    ],
+    "definedIn": "1.1",
+    "definition": "The way knowledge moves across the three layers, compressing upward toward notation and decompressing downward toward the body."
+  },
+  {
+    "id": "interoception",
+    "label": "Interoception",
+    "forms": [
+      "interoception",
+      "interoceptive"
+    ],
+    "definedIn": "2.1",
+    "definition": "“The process by which the nervous system senses, interprets, and integrates signals originating from within the body, providing a moment-by-moment mapping of the body's internal landscape across conscious and unconscious levels.”"
+  },
+  {
+    "id": "prediction-error",
+    "label": "Prediction error",
+    "forms": [
+      "prediction error",
+      "prediction errors"
+    ],
+    "definedIn": "1.2",
+    "definition": "The gap between expected input and actual input."
+  },
+  {
+    "id": "integration-cost",
+    "label": "Integration cost",
+    "forms": [
+      "integration cost",
+      "integration costs",
+      "integration-cost"
+    ],
+    "definedIn": "2.1",
+    "definition": "How much of the system’s limited capacity an input demands to be integrated, meaning how much the field must reconfigure so the input is accounted for."
+  },
+  {
+    "id": "tacit-knowledge",
+    "label": "Tacit knowledge",
+    "forms": [
+      "tacit knowledge"
+    ],
+    "definedIn": "3.2",
+    "definition": "The actionable expression of intuitions that have been conditioned substantially, as in the knowledge of expertise."
+  },
+  {
+    "id": "objectification",
+    "label": "Objectification",
+    "forms": [
+      "objectification",
+      "objectify",
+      "objectifies",
+      "objectified",
+      "objectifying"
+    ],
+    "definedIn": "3.5",
+    "definition": "Making your current model into a stable object you can inspect and manipulate, as when presenting a probe."
+  },
+  {
+    "id": "field-dissonance",
+    "label": "Field dissonance",
+    "forms": [
+      "field dissonance",
+      "dissonance"
+    ],
+    "definedIn": "5.2",
+    "definition": "When conflicting properties or action policies remain active within the current field while the system must still settle on a workable organization or action."
+  },
+  {
+    "id": "tanha",
+    "label": "Taṇhā",
+    "forms": [
+      "taṇhā",
+      "tanha"
+    ],
+    "definedIn": "5.3",
+    "definition": "Literally “thirst,” conventionally translated as craving: the “grabby” or “pushy” thing that interacts with sensations of experience and precedes suffering."
+  },
+  {
+    "id": "first-order-hurt",
+    "label": "First-order hurt",
+    "forms": [
+      "first-order hurt",
+      "first order hurt"
+    ],
+    "definedIn": "5.3",
+    "definition": "The immediate negatively felt aspect of an experience, registered before the field produces a target that it needs to be different."
+  },
+  {
+    "id": "thing-ness",
+    "label": "Thing-ness",
+    "forms": [
+      "thing-ness",
+      "thingness"
+    ],
+    "definedIn": "1.2",
+    "definition": "A deep prior for objecthood that sits at the trunk of the dependency tree."
+  },
+  {
+    "id": "suffering-loop",
+    "label": "Suffering loop",
+    "forms": [
+      "suffering loop",
+      "suffering loops"
+    ],
+    "definedIn": "5.3",
+    "definition": "The loop that begins when a demand becomes a highly weighted need that present experience must be different, while the preferred state remains difficult to reach."
+  },
+  {
+    "id": "maintenance-loop",
+    "label": "Maintenance loop",
+    "forms": [
+      "maintenance loop"
+    ],
+    "definedIn": "5.3",
+    "definition": "The recursive coupling of hurt and taṇhā that keeps the field organized around the target and produces cascading suffering."
+  },
+  {
+    "id": "energetic-triad",
+    "label": "Energetic triad",
+    "forms": [
+      "energetic triad"
+    ],
+    "definedIn": "2.1",
+    "definition": "The three outcomes of integrating input: cheaper than predicted (positive valence and resonance), about as expected (the neutral fit-baseline), or more costly than predicted (negative valence and friction)."
+  },
+  {
+    "id": "fit-baseline",
+    "label": "Fit-baseline",
+    "forms": [
+      "fit-baseline",
+      "fit baseline"
+    ],
+    "definedIn": "2.1",
+    "definition": "Where the trunk of the dependency tree structures incoming input without major surprises in either direction; what differences are compared against."
+  },
+  {
+    "id": "de-chunking",
+    "label": "De-chunking",
+    "forms": [
+      "de-chunk",
+      "de-chunks",
+      "de-chunked",
+      "de-chunking",
+      "dechunk",
+      "dechunking"
+    ],
+    "definedIn": "1.3",
+    "definition": "Breaking a gestalt back into its parts, as when sensory clarity lets experience appear as changing sensations and events rather than one continuous thing."
+  },
+  {
+    "id": "structure-preserving-transformation",
+    "label": "Structure-preserving transformation",
+    "forms": [
+      "structure-preserving transformation",
+      "structure-preserving transformations",
+      "structure preserving transformation"
+    ],
+    "definedIn": "1.2",
+    "definition": "Separating the deeper properties of something, like a fantasy, from its original form and finding new representations or actions that preserve the same properties."
+  },
+  {
+    "id": "fit-distance",
+    "label": "Fit distance",
+    "forms": [
+      "fit distance"
+    ],
+    "definedIn": "1.2",
+    "definition": "Whether input feels closer to or farther from the field’s properties, like a puzzle piece fitting into place."
+  },
+  {
+    "id": "vasocomputation",
+    "label": "Vasocomputation",
+    "forms": [
+      "vasocomputation"
+    ],
+    "definedIn": "2.2",
+    "definition": "Michael Edward Johnson’s hypothesis that active-inference predictions may be physically instantiated through vascular tension."
+  },
+  {
+    "id": "stv",
+    "label": "Symmetry Theory of Valence",
+    "forms": [
+      "symmetry theory of valence",
+      "STV"
+    ],
+    "definedIn": "1.2",
+    "definition": "A theory in which symmetry, one property of the mathematical representation of consciousness, corresponds to how pleasant an experience is."
+  },
+  {
+    "id": "felt-shift",
+    "label": "Felt shift",
+    "forms": [
+      "felt shift",
+      "felt shifts"
+    ],
+    "definedIn": "3.4",
+    "definition": "Gendlin’s term for what happens when you find a word, image, or sentence (a handle) that fits the felt sense, and something in you changes physically or emotionally."
+  },
+  {
+    "id": "structural-threshold",
+    "label": "Structural threshold",
+    "forms": [
+      "structural threshold",
+      "structural thresholds",
+      "structural-threshold"
+    ],
+    "definedIn": "4.2",
+    "definition": "A critical point where enough lower-level chunks become sufficiently stable to abruptly percolate into an available higher-order gestalt."
+  },
+  {
+    "id": "annealing",
+    "label": "Annealing",
+    "forms": [
+      "annealing",
+      "anneal",
+      "annealed"
+    ],
+    "definedIn": "1.3",
+    "definition": "Temporarily adding energy to a field configuration’s substrate so it can climb out of a basin it is stuck in, explore, and settle into a new configuration."
+  },
+  {
+    "id": "hysteresis",
+    "label": "Hysteresis",
+    "forms": [
+      "hysteresis"
+    ],
+    "definedIn": "1.3",
+    "definition": "A form of path dependence in which entering a state and exiting it are asymmetric."
+  },
+  {
+    "id": "allostasis",
+    "label": "Allostasis",
+    "forms": [
+      "allostasis",
+      "allostatic"
+    ],
+    "definedIn": "2.1",
+    "definition": "The body’s proactive regulation of its own resources."
+  },
+  {
+    "id": "markov-blanket",
+    "label": "Markov blanket",
+    "forms": [
+      "markov blanket",
+      "markov blankets"
+    ],
+    "definedIn": "1.5",
+    "definition": "A boundary of channels: what can cross between the system and the world."
+  },
+  {
+    "id": "compression-progress",
+    "label": "Compression progress",
+    "forms": [
+      "compression progress"
+    ],
+    "definedIn": "2.1",
+    "definition": "The rate at which integration cost is reduced relative to a target."
+  },
+  {
+    "id": "proxy-gestalt",
+    "label": "Proxy gestalt",
+    "forms": [
+      "proxy gestalt",
+      "proxy gestalts"
+    ],
+    "definedIn": "1.3",
+    "definition": "An approximation of a gestalt built from existing structural dependencies, before the priors needed for the actual organization have been established."
+  }
+]

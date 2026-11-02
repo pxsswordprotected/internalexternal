@@ -1,12 +1,15 @@
 import Markdoc, { type Node } from "@markdoc/markdoc";
 import React from "react";
+import { GlossaryTerm } from "@/components/glossary";
+import { applyGlossary } from "@/lib/glossary-markdoc";
 import { getMarkdocValidationMessages } from "@/lib/markdoc";
 
 interface MarkdocContentProps {
   content: () => Promise<{ node: Node }>;
+  glossarySection?: string;
 }
 
-export async function MarkdocContent({ content }: MarkdocContentProps) {
+export async function MarkdocContent({ content, glossarySection }: MarkdocContentProps) {
   const { node } = await content();
   const errors = getMarkdocValidationMessages(node);
 
@@ -17,10 +20,12 @@ export async function MarkdocContent({ content }: MarkdocContentProps) {
   }
 
   const renderable = Markdoc.transform(node);
+  const tree =
+    glossarySection === undefined ? renderable : applyGlossary(renderable, glossarySection);
 
   return (
     <div className="prose">
-      {Markdoc.renderers.react(renderable, React)}
+      {Markdoc.renderers.react(tree, React, { components: { GlossaryTerm } })}
     </div>
   );
 }
