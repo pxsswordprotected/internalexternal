@@ -16,6 +16,8 @@ interface InlineEditableSectionProps {
   className?: string;
   headingLevel: "h1" | "h2" | "h3";
   heading: ReactNode;
+  /** Rendered between the heading and the body; stays visible while editing. */
+  summary?: ReactNode;
   children: ReactNode;
 }
 
@@ -26,6 +28,7 @@ export function InlineEditableSection({
   className,
   headingLevel,
   heading,
+  summary,
   children,
 }: InlineEditableSectionProps) {
   const editor = useInlineEdit();
@@ -48,6 +51,7 @@ export function InlineEditableSection({
     return (
       <section id={id} className={className}>
         <Heading>{heading}</Heading>
+        {summary}
         {children}
       </section>
     );
@@ -102,6 +106,7 @@ export function InlineEditableSection({
           </Link>
         ) : null}
       </div>
+      {summary}
       {showEditor && activeDocument ? (
         <ForwardRefEditor
           key={`${getEditableDocumentIdentity(documentRef)}:${activeDocument.generation}`}
