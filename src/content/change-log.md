@@ -5,6 +5,7 @@ These reports describe compression of the longer original; neither essay’s wor
 ## Site controls
 
 - Glossary boxes have a small close button at the top right, aligned with the term label. Clicking or tapping it closes only that box; keyboard activation works too.
+- Sections can be marked incomplete with the "Mark as incomplete" checkbox (`incomplete: true` in the section's frontmatter). An alert icon and the note "This section is outdated and needs a rewrite" then appear on the title row on the homepage, flush with the right edge of the divider line on desktop and under the title on mobile. Section 5.3 is marked.
 
 ## Current site locations
 

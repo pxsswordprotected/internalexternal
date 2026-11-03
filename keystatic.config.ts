@@ -42,6 +42,12 @@ export default config({
           label: "Rough draft",
           defaultValue: true,
         }),
+        incomplete: fields.checkbox({
+          label: "Mark as incomplete",
+          description:
+            "Shows an alert icon and a note next to the title that the section is outdated and needs a rewrite.",
+          defaultValue: false,
+        }),
         content: richText("Section text"),
       },
     }),

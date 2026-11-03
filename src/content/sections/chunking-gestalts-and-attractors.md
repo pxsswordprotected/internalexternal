@@ -3,12 +3,20 @@ title: Chunking, Gestalts, and Attractors
 sectionNumber: '1.3'
 parentNumber: '1'
 summary: '[PLACEHOLDER: Add section summary]'
-tldr: "Chunking can be seen as a way we save energy by compressing and encoding information. The current experiential result we perceive is a gestalt: the unified whole that appears in the present moment when priors are organized and glued together. Attractors are configurations the system repeatedly settles into because its components reinforce one another. Attractors have their own attractor basins which are ranges of states from which the system still returns to the same configuration."
+tldr: >-
+  Chunking can be seen as a way we save energy by compressing and encoding
+  information. The current experiential result we perceive is a gestalt: the
+  unified whole that appears in the present moment when priors are organized and
+  glued together. Attractors are configurations the system repeatedly settles
+  into because its components reinforce one another. Attractors have their own
+  attractor basins which are ranges of states from which the system still
+  returns to the same configuration.
 draft: true
+incomplete: false
 ---
 Chunking can be seen as a way we save energy by compressing and encoding information so that its structure is preserved while its full richness only needs to be revealed when necessary. The process of chunking forms chunks which are learned, reusable compressed units that reduce future processing or search cost. The mechanism of precision helps here, in that we can prune many branches of the dependency tree into one usable unit, which shrinks the search space of interpretations and frees attention for other input. The current experiential result we perceive is a gestalt: the unified whole that appears in the present moment when priors are organized and glued together. A novel image can suddenly become a gestalt even though you have never seen it before, which requires existing structure, like priors. Similarly, [Lisa Feldman Barrett defines a category as “an event in which different things are treated as similar or equivalent in a particular situation.”](https://www.quantamagazine.org/a-new-framework-for-how-the-brain-compresses-our-noisy-world-20260824/) Here, a category is a dynamic organization changing upon conditions, while chunks are the learned disposition that makes these organizations easier to reproduce.
 
-[<img height="835" width="1448" src="https://substackcdn.com/image/fetch/$s_!EE3f!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5ddf70ef-1dc0-4e0a-bc6e-df0cd86ed12b_1448x835.jpeg" />](https://substackcdn.com/image/fetch/$s_!EE3f!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5ddf70ef-1dc0-4e0a-bc6e-df0cd86ed12b_1448x835.jpeg)
+![](/images/sections/chunking-gestalts-and-attractors/5ddf70ef-1dc0-4e0a-bc6e-df0cd86ed12b_1448x835.jpg)
 
 If you encounter and use that organization of the novel image repeatedly, the system may store its relational structure as a chunk. This results in feedback loops of repetition, stable relational structure, and successful action that confirms our predictions.
 
@@ -22,7 +30,7 @@ Repetition of field configurations and their reinforcing loops produces attracto
 
 Attractors then have their own attractor basins which are ranges of states from which the system still returns to the same configuration. A person does not have to be fully anxious to remain inside an “anxiety basin” because if certain co-arising conditions come alive in relation to each other, like bodily arousal and threat signals from the environment, they can pull the rest of the field back online. A wide basin can capture the field configuration from many different starting states, while a deep basin strongly resists disruption once held. Repetition, bodily reinforcement, environmental regularity, and enactment of associated policies can widen or deepen a basin, while corrective evidence, new chunks, alternative policies, and increased slack can make competing configurations more available for usage. The boundary between basins acts like a threshold because gradual changes may accumulate without an obvious shift until the current pattern stops reinforcing itself strongly enough and another pattern takes over. Since active field configurations and mind-body states select for biased evidence and action to reduce target and prediction error, entry into and exit from an attractor may also require different conditions like environment. A small threat signal may trigger an anxiety attractor, while leaving it may require strong safety signals which can be much harder to perceive and maintain than the conditions that led to the attractor itself. This asymmetry of entry and exit is a form of path dependence called hysteresis.
 
-[<img height="962" width="1448" src="https://substackcdn.com/image/fetch/$s_!wktc!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8b3bca4-0b97-4315-a3c6-3c2a86e26cdc_1448x962.jpeg" />](https://substackcdn.com/image/fetch/$s_!wktc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8b3bca4-0b97-4315-a3c6-3c2a86e26cdc_1448x962.jpeg)
+![](/images/sections/chunking-gestalts-and-attractors/b8b3bca4-0b97-4315-a3c6-3c2a86e26cdc_1448x962.jpg)
 
 Hysteresis in this instance, the asymmetrical effort of entry and exit of states, is one formulation of a more general asymmetry that can show up: collapsing many possibilities into one is “cheap” in effort because many paths lead to one collapse, while gaining back the states or information that was left out of the collapse is “expensive” because you must rebuild many out of one. Another formulation of this generality is when we compress from the embodied layer to notation. Putting an embodied feeling into language is quick; taking language you’ve never seen before and moving it to the embodied layer, moving from one-to-many, is slow and tedious.
 

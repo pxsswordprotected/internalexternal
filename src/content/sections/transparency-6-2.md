@@ -3,12 +3,22 @@ title: Transparency
 sectionNumber: '6.2'
 parentNumber: '6'
 summary: '[PLACEHOLDER: Add section summary]'
-tldr: "Transparency is the degree to which the processes producing a gestalt remain apparent in experience, while the gestalt is still being experienced and used. We can move precision in the dependency tree from the whole of the gestalt towards its constituent parts that make up its construction. Ontological authority is not the problem itself: it is authority that the system cannot see clearly and drop. The core question then becomes what to grant authority to and when."
+tldr: >-
+  Transparency is the degree to which the processes producing a gestalt remain
+  apparent in experience, while the gestalt is still being experienced and used.
+  We can move precision in the dependency tree from the whole of the gestalt
+  towards its constituent parts that make up its construction. Ontological
+  authority is not the problem itself: it is authority that the system cannot
+  see clearly and drop. The core question then becomes what to grant authority
+  to and when.
 draft: true
+incomplete: false
 ---
 Transparency is the degree to which the processes producing a gestalt remain apparent in experience, on all three layers of the compression gradient, while the gestalt is still being experienced and used. This is not to be confused with phenomenal transparency, which is the invisibility of a model’s construction. Transparency is hard when ontological authority is high because a gestalt that other structures depend on is what the field is currently running on rather than something the field can perceive as an object. Reification is the “extreme” case of this: construction of a thing is not seen at all and is taken to be inherent to reality. Transparency is not preventing all structure; we still need that to survive and go about our day. It is preventing structure from becoming hidden so we can see through what other interpretations of input can offer.
 
 We can move precision in the dependency tree from the whole of the gestalt towards its constituent parts that make up its construction. This means the whole loses its high authority status without fully being removed from experience. For example, you can still see a dog and react to danger if it appears, but now the reaction to danger only appears depending on the current instance of dog and its parts, not every time a dog shows up. The gestalt of dog did not disappear since it still organizes certain parts like "4 legs" and "fur"; what went away is the over generalization that the original gestalt kept providing which was causing inaccurate modeling across all situations. When we start placing more weight on the parts making up the gestalt in the present moment instead of allowing it to hold top-down power, we start contracting less. To take a deeper example, "I am unsafe" is a gestalt that if given enough ontological authority, can produce lots of suffering in every moment due to producing unhelpful targets and contraction. Given low authority, we can see its parts like a fast heart beat, which allows us to redirect precision in a way that moves from the top-down label of unsafe to simply "oh this is just a fast heart beat." Bear in mind, simply moving precision to constructing parts is sometimes not enough since deep latched contraction in the body can hold patterns that feed back into the original gestalt's confirming evidence.
+
+![](/images/sections/transparency-6-2/39502c1e-898e-4a6d-b6de-9e24422d31ef_1448x1086.webp)
 
 Once a gestalt stops being treated as a static structure after enough practice, it still integrates input at the same cost, if not less. This is because the parts now prune the dependency tree instead of the whole gestalt, so you keep the cheap integration while losing authority. When first trying to hold the gestalt as transparent, it can be expensive to compute the individual parts in each moment, and can fail when you don't have enough slack like when tired. We might retreat back into old patterns that are a product of the old gestalt organizing experience. So, transparency is not about simply flipping a switch; it is an active training process done until parts can be seen in detail and be taken as paths in the dependency tree.
 

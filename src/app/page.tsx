@@ -2,6 +2,7 @@ import Link from "next/link";
 import { GlossaryProvider } from "@/components/glossary";
 import { InlineEditableSection } from "@/components/inline-editor/inline-editable-section";
 import { MarkdocContent } from "@/components/markdoc-content";
+import { SectionStatus } from "@/components/section-status";
 import { getIntroduction, getSections } from "@/lib/content";
 
 export default async function Home() {
@@ -34,6 +35,7 @@ export default async function Home() {
               <>
                 {entry.sectionNumber ? `${entry.sectionNumber} ` : ""}
                 {entry.title}
+                {entry.incomplete ? <SectionStatus status="incomplete" /> : null}
               </>
             );
             return (

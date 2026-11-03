@@ -17,6 +17,7 @@ export interface EssaySection {
     summary: string | null;
     tldr: string;
     draft: boolean;
+    incomplete: boolean;
     content: () => Promise<{ node: Node }>;
   };
 }
