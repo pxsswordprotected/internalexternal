@@ -2,6 +2,10 @@
 
 These reports describe compression of the longer original; neither essay’s wording changed when their locations were swapped. Every original filename, numbered section, title, heading, author note, and diagram placeholder remains. The alternate opening draft retains its exact heading; duplicated body passages are preserved once in Introduction. Settings and seven short chapter roadmaps/scaffolds were copied unchanged.
 
+## Site controls
+
+- Glossary boxes have a small close button at the top right, aligned with the term label. Clicking or tapping it closes only that box; keyboard activation works too.
+
 ## Current site locations
 
 - Main, editable compressed essay: `src/content`, viewed at `/`.

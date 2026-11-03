@@ -214,7 +214,30 @@ export function GlossaryProvider({ children }: { children: ReactNode }) {
                     aria-label={entry.label}
                     ref={setBoxRef(box.key)}
                   >
-                    <p className="glossary-box__term">{entry.label}</p>
+                    <div className="glossary-box__header">
+                      <p className="glossary-box__term">{entry.label}</p>
+                      <button
+                        type="button"
+                        className="glossary-box__close"
+                        aria-label={`Close ${entry.label} glossary box`}
+                        onClick={() => {
+                          updatePinned(pinnedRef.current.filter((item) => item.key !== box.key));
+                          hidePreview(box.key);
+                        }}
+                      >
+                        <svg
+                          width="12"
+                          height="12"
+                          viewBox="0 0 12 12"
+                          fill="none"
+                          stroke="currentColor"
+                          strokeWidth="1.25"
+                          aria-hidden="true"
+                        >
+                          <path d="m3 3 6 6M9 3 3 9" />
+                        </svg>
+                      </button>
+                    </div>
                     <p className="glossary-box__definition">{entry.definition}</p>
                     {entry.definedIn ? (
                       <p className="glossary-box__source">Defined in section {entry.definedIn}</p>

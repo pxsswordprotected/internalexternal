@@ -711,11 +711,39 @@ button:focus-visible {
   border-color: var(--secondary-ink);
 }
 
+.glossary-box__header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 8px;
+  margin-bottom: 4px;
+}
+
 .glossary-box__term {
-  margin: 0 0 4px;
+  margin: 0;
   color: var(--muted);
   font-size: 12px;
   line-height: 1.3;
+}
+
+.glossary-box__close {
+  display: flex;
+  flex: 0 0 20px;
+  align-items: center;
+  justify-content: center;
+  width: 20px;
+  height: 20px;
+  margin: -2px; /* Expand the hitbox without moving the icon or the header. */
+  padding: 0;
+  border: 0;
+  background: none;
+  color: var(--muted);
+  cursor: pointer;
+}
+
+.glossary-box__close:hover,
+.glossary-box__close:focus-visible {
+  color: var(--secondary-ink);
 }
 
 .glossary-box__definition {
