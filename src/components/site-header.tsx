@@ -40,8 +40,12 @@ export async function SiteHeader() {
       </div>
       <div className="page-tools">
         <EssayVersionNavigation>
-          <Link className="page-tools__link" href="/edit-sections">Essay section tools</Link>
-          {process.env.NODE_ENV === "development" ? <InlineEditToggle /> : null}
+          {process.env.NODE_ENV === "development" ? (
+            <>
+              <Link className="page-tools__link" href="/edit-sections">Essay section tools</Link>
+              <InlineEditToggle />
+            </>
+          ) : null}
         </EssayVersionNavigation>
       </div>
       <EssayContentsNav items={contentsItems} />
