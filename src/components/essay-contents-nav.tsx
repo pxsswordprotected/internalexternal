@@ -5,7 +5,7 @@ import { usePathname } from "next/navigation";
 import { useEffect, useLayoutEffect, useRef, useState } from "react";
 
 const MIN_CONTENTS_FONT_SIZE = 11;
-const MAX_CONTENTS_FONT_SIZE = 16;
+const MAX_CONTENTS_FONT_SIZE = 20;
 // Headroom for engines that round line boxes differently from getBoundingClientRect.
 const CONTENTS_FIT_SAFETY_PX = 2;
 
