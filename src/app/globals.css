@@ -621,8 +621,8 @@ button:focus-visible {
   .contents-menu--visible {
     display: block;
     position: fixed;
-    left: 24px; /* inset from the screen edge so rounded phone corners don't clip the bar */
-    right: 24px;
+    left: 32px; /* inset from the screen edge so rounded phone corners don't clip the bar */
+    right: 32px;
     bottom: 24px;
     z-index: 16; /* above glossary boxes (15), below the inline editor toolbar (20) */
   }
