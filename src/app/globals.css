@@ -418,6 +418,11 @@ button:focus-visible {
   visibility: visible;
 }
 
+/* Mobile section jump menu (see EssayContentsNav). Hidden everywhere except <=760px, after the inline list scrolls away. */
+.contents-menu {
+  display: none;
+}
+
 .edition-note {
   margin: 0 0 16px;
   color: var(--muted);
@@ -584,7 +589,7 @@ button:focus-visible {
 
 @media (max-width: 760px) {
   body {
-    padding: 16px;
+    padding: 16px 16px 80px;
   }
 
   .contents {
@@ -611,6 +616,91 @@ button:focus-visible {
 
   .prose img {
     width: calc(100vw - 2rem);
+  }
+
+  .contents-menu--visible {
+    display: block;
+    position: fixed;
+    left: 16px;
+    right: 16px;
+    bottom: 16px;
+    z-index: 16; /* above glossary boxes (15), below the inline editor toolbar (20) */
+  }
+
+  .contents-menu__toggle {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    width: 100%;
+    min-height: 44px;
+    padding: 10px 14px;
+    border: 1px solid var(--ink);
+    background: var(--paper);
+    color: var(--ink);
+    font: inherit;
+    line-height: 1.3;
+    text-align: left;
+    cursor: pointer;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+  }
+
+  .contents-menu__label {
+    min-width: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  .contents-menu__chevron {
+    flex: none;
+    width: 16px;
+    height: 16px;
+    transition: transform 0.15s;
+  }
+
+  .contents-menu__toggle[aria-expanded="true"] .contents-menu__chevron {
+    transform: rotate(180deg);
+  }
+
+  .contents-menu__panel {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: calc(100% + 8px);
+    max-height: min(60vh, calc(100vh - 120px));
+    overflow-y: auto;
+    overscroll-behavior: contain;
+    padding: 8px 0;
+    border: 1px solid var(--ink);
+    background: var(--paper);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+  }
+
+  .contents-menu__list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .contents-menu__group {
+    margin-top: 8px;
+  }
+
+  .contents-menu__group:first-child {
+    margin-top: 0;
+  }
+
+  .contents-menu__link {
+    display: block;
+    padding: 10px 14px;
+    color: var(--ink);
+    line-height: 1.3;
+    text-decoration: none;
+  }
+
+  .contents-menu__link--active {
+    font-weight: 500;
   }
 
 }

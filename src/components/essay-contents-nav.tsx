@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { useEffect, useLayoutEffect, useRef, useState } from "react";
+import { useEffect, useId, useLayoutEffect, useRef, useState } from "react";
 
 const MIN_CONTENTS_FONT_SIZE = 11;
 const MAX_CONTENTS_FONT_SIZE = 20;
@@ -29,6 +29,12 @@ export function EssayContentsNav({
   const [activeTargetId, setActiveTargetId] = useState("introduction");
   const linkElements = useRef(new Map<string, HTMLAnchorElement>());
   const navRef = useRef<HTMLElement>(null);
+  const [menuOpen, setMenuOpen] = useState(false);
+  const [barVisible, setBarVisible] = useState(false);
+  const menuId = useId();
+  const menuRef = useRef<HTMLDivElement>(null);
+  const panelRef = useRef<HTMLDivElement>(null);
+  const toggleRef = useRef<HTMLButtonElement>(null);
 
   // Largest font size at which the real rendered lines (wrapped titles included) fit the sidebar.
   // Set on the header so the masthead meta row shares it. The sidebar is non-scrollable in CSS;
@@ -208,7 +214,61 @@ export function EssayContentsNav({
     }
   }, [exactActiveItem]);
 
+  // Show the bar only after the inline list has scrolled above the viewport.
+  useEffect(() => {
+    const nav = navRef.current;
+    if (!nav) {
+      return;
+    }
+    const observer = new IntersectionObserver(([entry]) => {
+      const visible = !entry.isIntersecting && entry.boundingClientRect.bottom < 0;
+      setBarVisible(visible);
+      if (!visible) {
+        setMenuOpen(false);
+      }
+    });
+    observer.observe(nav);
+    return () => observer.disconnect();
+  }, []);
+
+  // Close on outside tap or Escape while open.
+  useEffect(() => {
+    if (!menuOpen) {
+      return;
+    }
+    const onPointerDown = (event: PointerEvent) => {
+      if (!menuRef.current?.contains(event.target as Node)) {
+        setMenuOpen(false);
+      }
+    };
+    const onKeyDown = (event: KeyboardEvent) => {
+      if (event.key === "Escape") {
+        setMenuOpen(false);
+        toggleRef.current?.focus();
+      }
+    };
+    document.addEventListener("pointerdown", onPointerDown, true);
+    document.addEventListener("keydown", onKeyDown);
+    return () => {
+      document.removeEventListener("pointerdown", onPointerDown, true);
+      document.removeEventListener("keydown", onKeyDown);
+    };
+  }, [menuOpen]);
+
+  // Center the current section when the list opens.
+  useLayoutEffect(() => {
+    if (!menuOpen) {
+      return;
+    }
+    const panel = panelRef.current;
+    const current = panel?.querySelector<HTMLElement>('[aria-current="location"]');
+    if (panel && current) {
+      panel.scrollTop = current.offsetTop - (panel.clientHeight - current.offsetHeight) / 2;
+    }
+  }, [menuOpen]);
+
   return (
+    <>
     <nav
       ref={navRef}
       className={`contents${exactActiveItem || pathname === "/version-log" ? " contents--tracking" : ""}`}
@@ -244,5 +304,59 @@ export function EssayContentsNav({
         })}
       </ol>
     </nav>
+    <div
+      ref={menuRef}
+      className={`contents-menu${barVisible ? " contents-menu--visible" : ""}`}
+    >
+      {menuOpen ? (
+        <div id={menuId} ref={panelRef} className="contents-menu__panel">
+          <ol className="contents-menu__list">
+            {items.map((item) => {
+              const isExactActive = item.targetId === exactActiveItem?.targetId;
+              return (
+                <li
+                  key={item.targetId}
+                  className={item.grouped ? "contents-menu__group" : undefined}
+                >
+                  <Link
+                    className={`contents-menu__link${isExactActive ? " contents-menu__link--active" : ""}`}
+                    href={pathname === "/original" ? `/original#${item.targetId}` : item.href}
+                    aria-current={isExactActive ? "location" : undefined}
+                    onClick={() => {
+                      setActiveTargetId(item.targetId);
+                      setMenuOpen(false);
+                    }}
+                  >
+                    {item.label}
+                  </Link>
+                </li>
+              );
+            })}
+          </ol>
+        </div>
+      ) : null}
+      <button
+        ref={toggleRef}
+        type="button"
+        className="contents-menu__toggle"
+        aria-expanded={menuOpen}
+        aria-controls={menuOpen ? menuId : undefined}
+        onClick={() => setMenuOpen((open) => !open)}
+      >
+        <span className="contents-menu__label">{exactActiveItem?.label ?? "Contents"}</span>
+        <svg
+          className="contents-menu__chevron"
+          xmlns="http://www.w3.org/2000/svg"
+          fill="none"
+          viewBox="0 0 24 24"
+          strokeWidth="1.5"
+          stroke="currentColor"
+          aria-hidden="true"
+        >
+          <path strokeLinecap="round" strokeLinejoin="round" d="m4.5 15.75 7.5-7.5 7.5 7.5" />
+        </svg>
+      </button>
+    </div>
+    </>
   );
 }
