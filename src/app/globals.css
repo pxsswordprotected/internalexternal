@@ -623,7 +623,7 @@ button:focus-visible {
     position: fixed;
     left: 24px; /* inset from the screen edge so rounded phone corners don't clip the bar */
     right: 24px;
-    bottom: 16px;
+    bottom: 24px;
     z-index: 16; /* above glossary boxes (15), below the inline editor toolbar (20) */
   }
 
