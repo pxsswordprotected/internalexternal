@@ -27,8 +27,7 @@
       "priors"
     ],
     "definedIn": "1.2",
-    "definition": "A probability distribution stored within a generative model. The field is what priors become when that model is instantiated in a moment of time."
-  },
+    "definition": "A probability distribution over possible causes of input, held in a generative model before new evidence arrives."  },
   {
     "id": "input",
     "label": "Input",
@@ -120,8 +119,7 @@
       "representations"
     ],
     "definedIn": "1.1",
-    "definition": "Anything that can be run internally, whether an image, a metaphor, a simulation, or words."
-  },
+    "definition": "Anything that stands for or is about something else, like an image, a metaphor, a simulation, or words. Here, representations typically refer to ones that are used internally through the mind-body."  },
   {
     "id": "contraction",
     "label": "Contraction",
@@ -182,7 +180,7 @@
       "precision"
     ],
     "definedIn": "1.2",
-    "definition": "The weight given to a factor within the field: the estimated reliability or confidence assigned to it, which determines its influence on updating. The essay uses “precision” as shorthand for all forms of precision weighting."
+    "definition": "How tightly a prior or signal is concentrated on one predicted outcome. This sets the weight it gets within the field: the reliability or confidence assigned to it, which determines its influence on updating."
   },
   {
     "id": "precision-weighting",
@@ -265,7 +263,7 @@
       "bow-ties"
     ],
     "definedIn": "1.5",
-    "definition": "The shape of the system’s architecture: one side starts wide, converges into a narrow middle point, then expands back into a wide funnel. The field sits at the narrow point of maximum compression that all input must pass through."
+    "definition": "The shape of the mind-body system's architecture: the inference side starts wide with input, converges into a narrow middle point of maximum compression, then the generative side expands back into a wide funnel of interpretation and action."
   },
   {
     "id": "felt-sense",
@@ -304,7 +302,7 @@
       "transparency"
     ],
     "definedIn": "6.2",
-    "definition": "The degree to which the processes producing a gestalt remain apparent in experience, on all three layers of the compression gradient, while the gestalt is still being experienced and used."
+    "definition": "The degree to which the processes producing a gestalt remain known in experience while the gestalt is still being experienced and used."
   },
   {
     "id": "deep-prior",
@@ -335,7 +333,7 @@
       "active-inference"
     ],
     "definedIn": "1.2",
-    "definition": "A process in which the system takes action to make input match its model."
+    "definition": "A process in which the system reduces prediction error by updating its model or by acting to make input match it."
   },
   {
     "id": "attractor",
@@ -444,16 +442,6 @@
     "definition": "From Michael Levin: “the scale of the largest goal, in both space and time, which a system is capable of working towards.”"
   },
   {
-    "id": "substrate",
-    "label": "Substrate",
-    "forms": [
-      "substrate",
-      "substrates"
-    ],
-    "definedIn": "1.2",
-    "definition": "What the field is instantiated from: the priors, the dependency tree, and their weights."
-  },
-  {
     "id": "loop-of-refinement",
     "label": "Loop of refinement",
     "forms": [
@@ -461,8 +449,8 @@
       "refinement loop",
       "refinement loops"
     ],
-    "definedIn": "3.2",
-    "definition": "The confrontation of intuition with language and logic, through which it is developed and solidified."
+    "definedIn": "3.5",
+    "definition": "The core process of updating the priors the field is built from: turn a felt sense into a probe, test it, locate the source of any resonance or friction, update the representation, and repeat. Repetition changes deeper into the dependency tree, aiming at better calibration rather than perfect truth."
   },
   {
     "id": "open-loop",
@@ -549,7 +537,7 @@
       "emptiness"
     ],
     "definedIn": "6.1",
-    "definition": "The negative space of the model: not another component among the others, but a way of seeing the core components from the other side."
+    "definition": "The absence of the inherent, independent existence that things appear to have; a thing's identity depends on causes, conditions, relations, and the field organizing them into a gestalt."
   },
   {
     "id": "compression-gradient",
@@ -599,7 +587,7 @@
       "tacit knowledge"
     ],
     "definedIn": "3.2",
-    "definition": "The actionable expression of intuitions that have been conditioned substantially, as in the knowledge of expertise."
+    "definition": "Knowledge that guides perception and action but cannot be fully put into words; in expertise, intuitions conditioned to this level. Sits in the embodied layer of the compression gradient."
   },
   {
     "id": "objectification",
@@ -714,8 +702,8 @@
       "structure-preserving transformations",
       "structure preserving transformation"
     ],
-    "definedIn": "1.2",
-    "definition": "Separating the deeper properties of something, like a fantasy, from its original form and finding new representations or actions that preserve the same properties."
+    "definedIn": "1.5",
+    "definition": "A change that alters the surface interpretation of something while preserving some deeper organization that matters to the system, such as a bottle seen from a new angle that is still recognized as a bottle."
   },
   {
     "id": "fit-distance",
@@ -804,7 +792,7 @@
       "markov blankets"
     ],
     "definedIn": "1.5",
-    "definition": "A boundary of channels: what can cross between the system and the world."
+    "definition": "A statistical boundary of channels: the sensory and active states through which the system and the world influence each other."
   },
   {
     "id": "compression-progress",
@@ -813,7 +801,7 @@
       "compression progress"
     ],
     "definedIn": "2.1",
-    "definition": "The rate at which integration cost is reduced relative to a target."
+    "definition": "The rate at which the integration cost of input is reduced relative to a target, measured over that target's time horizon."
   },
   {
     "id": "proxy-gestalt",
