@@ -16,7 +16,7 @@ incomplete: false
 ---
 The previous section described failed higher order gestalts through lower level priors not being stable enough for the whole to appear. Creativity can be understood as a search process that sometimes resolves this failure. It keeps different chunks active until one becomes sufficiently supported to register as a new gestalt, something novel. A structural threshold is a critical point where enough lower-level chunks become sufficiently stable to abruptly percolate into an available higher-order gestalt. Bear in mind this is descriptive, meaning labels like "enough" and "sufficiently stable" are only knowable after the gestalt emerges.
 
-![](/images/sections/structural-thresholds-in-search-spaces-and-creativity/nosilvervtweet.png)
+![](/images/sections/structural-thresholds-in-search-spaces-and-creativity/nosilvervtweet.webp)
 
 I’ve long since been fascinated by [this tweet](https://x.com/nosilverv/status/1969356527732511130?a=niAS_WuiDi71GLaKSZg&s=20) by [Guy](https://x.com/nosilverv) because it displays something very useful: the way that moving from “here” to “there” so often feels like a discontinuous jump with no clear progressive path between the two, like his example of making money online being totally unthinkable until you do it, and then totally obvious everyone’s doing it. Creativity here is a search process through a possibility space, with a target of stabilizing existing chunks into seemingly novel gestalt(s).
 

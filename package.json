@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "optimize-images": "node scripts/optimize-images.mjs"
   },
   "dependencies": {
     "@keystatic/core": "^0.6.4",
@@ -23,6 +24,7 @@
     "@types/react-dom": "^19.2.0",
     "eslint": "^9.39.0",
     "eslint-config-next": "^16.2.12",
+    "sharp": "^0.34.5",
     "typescript": "^5.9.3"
   }
 }
