@@ -3,12 +3,22 @@ title: Structural Thresholds in Search Spaces & Creativity
 sectionNumber: '4.2'
 parentNumber: '4'
 summary: '[PLACEHOLDER: Add section summary]'
-tldr: "Creativity can be understood as a search process. It keeps different chunks active until one becomes sufficiently supported to register as a new gestalt, something novel. There is no absolute novelty, since there are only combinations that are new relative to a given individual field. Creativity expands its own possibility space over time since a current emergent gestalt can become part of the structure supporting a future higher order gestalt. Moderate, well-chosen constraints boost creativity."
+tldr: >-
+  Creativity can be understood as a search process. It keeps different chunks
+  active until one becomes sufficiently supported to register as a new gestalt,
+  something novel. There is no absolute novelty, since there are only
+  combinations that are new relative to a given individual field. Creativity
+  expands its own possibility space over time since a current emergent gestalt
+  can become part of the structure supporting a future higher order gestalt.
+  Moderate, well-chosen constraints boost creativity.
 draft: true
+incomplete: false
 ---
 The previous section described failed higher order gestalts through lower level priors not being stable enough for the whole to appear. Creativity can be understood as a search process that sometimes resolves this failure. It keeps different chunks active until one becomes sufficiently supported to register as a new gestalt, something novel. A structural threshold is a critical point where enough lower-level chunks become sufficiently stable to abruptly percolate into an available higher-order gestalt. Bear in mind this is descriptive, meaning labels like "enough" and "sufficiently stable" are only knowable after the gestalt emerges.
 
-I’ve long since been fascinated by this tweet by  because it displays something very useful: the way that moving from “here” to “there” so often feels like a discontinuous jump with no clear progressive path between the two, like his example of making money online being totally unthinkable until you do it, and then totally obvious everyone’s doing it. Creativity here is a search process through a possibility space, with a target of stabilizing existing chunks into seemingly novel gestalt(s).
+![](/images/sections/structural-thresholds-in-search-spaces-and-creativity/nosilvervtweet.png)
+
+I’ve long since been fascinated by [this tweet](https://x.com/nosilverv/status/1969356527732511130?a=niAS_WuiDi71GLaKSZg&s=20) by [Guy](https://x.com/nosilverv) because it displays something very useful: the way that moving from “here” to “there” so often feels like a discontinuous jump with no clear progressive path between the two, like his example of making money online being totally unthinkable until you do it, and then totally obvious everyone’s doing it. Creativity here is a search process through a possibility space, with a target of stabilizing existing chunks into seemingly novel gestalt(s).
 
 As established in the training data section, the chunks and relations available to the field constrain where creative search can begin and occur. Most people would be better advised to diversify their input in order to train more rich and varied chunks for more combinatorial power. Importantly, this means there is no absolute novelty, since there are only combinations that are new relative to a given individual field, hence why one idea can feel like an obvious next step to someone and a giant leap in innovation to another. The person who made up the novel idea has a field that already stored the needed chunks and the paths between them, so the new combination sits close on their prediction tree and is reachable. To an individual who lacks those needed chunks, the idea isn’t a nearby search at all since the prerequisites aren’t stored. The felt “out-there-ness” of an idea is not an inherent property of the thing but a measurement of the distance between the field that produced it and the field encountering it. This is what we can call creative distance: the amount of reorganization required for a new gestalt to become reachable from the creator’s current field.
 

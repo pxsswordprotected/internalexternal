@@ -15,6 +15,7 @@ tldr: >-
   understanding, while language becomes a connecting interface across the three
   layers.
 draft: true
+incomplete: false
 ---
 > “There is indeed the inexpressible. This shows itself; it is the mystical.”
 > 
@@ -26,7 +27,7 @@ Language is not a complete failure as it allows us to transport seemingly fleeti
 
 Knowledge (which I am defining here as information encoded in a form that can shape perception) shows up in the world through many forms such as a book, a television show, a conversation, or a diagram. Below the obvious surface of notation are two more layers, each dense with information. Compression of knowledge loses richness but gains portability, stability, and shareability. To externalize deeper layers beyond surface level notation is to compress them, and most of what we know, what we feel, cannot be compressed in totality. So the obvious layer of knowledge, like writing, is only the top of a stack that looks like this:
 
-{diagram}
+![](/images/sections/the-compression-gradient/compressiongradientiomage.png)
 
 At the bottom of the stack is the embodied layer. This is knowledge that lives in the body below immediate conscious awareness such as gut feelings and tacit knowledge. The embodied layer shapes experience before explicit description through deep, implicit structuring because aspects like physiological baselines sit here in this layer as well. Next in the stack is the representational layer. In this layer sits images, simulations, metaphors, concepts, and models that can be internally inspected or manipulated through mental activity, whether implicit or explicit. Lastly, the layer that sits at the top is the notational layer which holds external forms, such as writing, diagrams, equations, and labels, that can be stabilized and shared.
 
