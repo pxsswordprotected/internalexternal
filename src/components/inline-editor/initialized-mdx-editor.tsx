@@ -20,6 +20,7 @@ import {
   toolbarPlugin,
   UndoRedo,
 } from "@mdxeditor/editor";
+import { SubtitleButton } from "./subtitle-button";
 
 export interface InitializedMDXEditorProps {
   markdown: string;
@@ -92,6 +93,7 @@ export const InitializedMDXEditor = forwardRef<
               <CreateLink />
               <ListsToggle options={["bullet", "number"]} />
               <InsertImage />
+              <SubtitleButton />
               <span
                 className={`inline-editor-toolbar__status${statusIsError ? " inline-editor-toolbar__status--error" : ""}`}
                 role="status"

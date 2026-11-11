@@ -357,6 +357,19 @@ button:focus-visible {
   line-height: 1.45;
 }
 
+/* Italic-only paragraph straight after an image (marked by markImageSubtitles; see the editor's Subtitle button). */
+.prose .image-subtitle {
+  color: var(--secondary-ink);
+  font-size: 16px;
+  line-height: 1.45;
+  text-align: center;
+}
+
+/* Spacing lives on the image paragraph: the continuous essay's `.prose > article > *` margin reset would override margins set on the subtitle. */
+.prose p:has(> img):has(+ .image-subtitle) {
+  margin-bottom: 0.6rem;
+}
+
 .local-contents {
   margin: 2.25rem 0 3rem;
   padding: 1rem 1.15rem;
@@ -1038,6 +1051,16 @@ button:focus-visible {
   width: 100%;
   max-width: 100%;
   height: auto;
+}
+
+/* Preview of the site's image subtitle: an italic-only paragraph right after an image. */
+.inline-editor-content p:has(img):has(+ p > em:only-child) {
+  margin-bottom: 0.6rem;
+}
+
+.inline-editor-content p:has(img) + p:has(> em:only-child) {
+  color: var(--secondary-ink);
+  text-align: center;
 }
 
 .inline-editor-toolbar,

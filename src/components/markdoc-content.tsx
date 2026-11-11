@@ -2,6 +2,7 @@ import Markdoc, { type Node } from "@markdoc/markdoc";
 import React from "react";
 import { GlossaryTerm } from "@/components/glossary";
 import { applyGlossary } from "@/lib/glossary-markdoc";
+import { markImageSubtitles } from "@/lib/image-subtitles";
 import { getMarkdocValidationMessages } from "@/lib/markdoc";
 
 interface MarkdocContentProps {
@@ -19,7 +20,7 @@ export async function MarkdocContent({ content, glossarySection }: MarkdocConten
     );
   }
 
-  const renderable = Markdoc.transform(node);
+  const renderable = markImageSubtitles(Markdoc.transform(node));
   const tree =
     glossarySection === undefined ? renderable : applyGlossary(renderable, glossarySection);
 
